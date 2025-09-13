@@ -1,0 +1,300 @@
+[{
+    "question": "What is metadata?",
+    "answers": [{
+        "text": "Data that describes other data",
+        "correct": true
+    },
+        {
+            "text": "Raw numbers in a dataset",
+            "correct": false
+        },
+        {
+            "text": "A synonym for 'file name'",
+            "correct": false
+        }]
+},
+    {
+        "question": "Which of these is NOT a search engine?",
+        "answers": [{
+            "text": "Microsoft Word",
+            "correct": true
+        },
+            {
+                "text": "Google",
+                "correct": false
+            },
+            {
+                "text": "Bing",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What is the purpose of a library catalogue?",
+        "answers": [{
+            "text": "To locate books and resources in the library",
+            "correct": true
+        },
+            {
+                "text": "To store students’ grades",
+                "correct": false
+            },
+            {
+                "text": "To provide free Wi-Fi",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which of these is an advantage of online databases?",
+        "answers": [{
+            "text": "They provide up-to-date information",
+            "correct": true
+        },
+            {
+                "text": "They require no electricity",
+                "correct": false
+            },
+            {
+                "text": "They are always free to access",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What does the term 'information overload' mean?",
+        "answers": [{
+            "text": "Having too much information to process effectively",
+            "correct": true
+        },
+            {
+                "text": "Lack of any information",
+                "correct": false
+            },
+            {
+                "text": "Only reading a single book",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What is a literature review?",
+        "answers": [{
+            "text": "A survey of existing research on a topic",
+            "correct": true
+        },
+            {
+                "text": "A short story about books",
+                "correct": false
+            },
+            {
+                "text": "A review on social media",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which of the following is considered grey literature?",
+        "answers": [{
+            "text": "Government reports",
+            "correct": true
+        },
+            {
+                "text": "Peer-reviewed articles",
+                "correct": false
+            },
+            {
+                "text": "Novels",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What is an example of a controlled vocabulary in databases?",
+        "answers": [{
+            "text": "Subject headings",
+            "correct": true
+        },
+            {
+                "text": "Random keywords",
+                "correct": false
+            },
+            {
+                "text": "Slang words",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which of these is an academic search engine?",
+        "answers": [{
+            "text": "Google Scholar",
+            "correct": true
+        },
+            {
+                "text": "Instagram",
+                "correct": false
+            },
+            {
+                "text": "TikTok",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What is paraphrasing?",
+        "answers": [{
+            "text": "Restating information in your own words",
+            "correct": true
+        },
+            {
+                "text": "Copying word-for-word",
+                "correct": false
+            },
+            {
+                "text": "Adding fake references",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which of the following is an information retrieval tool?",
+        "answers": [{
+            "text": "Library catalogue",
+            "correct": true
+        },
+            {
+                "text": "Calculator",
+                "correct": false
+            },
+            {
+                "text": "Printer",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What does the acronym DOI stand for?",
+        "answers": [{
+            "text": "Digital Object Identifier",
+            "correct": true
+        },
+            {
+                "text": "Document of Information",
+                "correct": false
+            },
+            {
+                "text": "Data Output Index",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which of these is the most reliable domain for academic sources?",
+        "answers": [{
+            "text": ".edu",
+            "correct": true
+        },
+            {
+                "text": ".com",
+                "correct": false
+            },
+            {
+                "text": ".net",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What is a thesis statement?",
+        "answers": [{
+            "text": "A clear claim or argument in a research paper",
+            "correct": true
+        },
+            {
+                "text": "A collection of references",
+                "correct": false
+            },
+            {
+                "text": "A book title",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which of these is an example of primary research?",
+        "answers": [{
+            "text": "Conducting an experiment",
+            "correct": true
+        },
+            {
+                "text": "Reading a textbook",
+                "correct": false
+            },
+            {
+                "text": "Watching a documentary",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which of the following best defines critical thinking in research?",
+        "answers": [{
+            "text": "Analysing and evaluating information carefully",
+            "correct": true
+        },
+            {
+                "text": "Accepting everything you read",
+                "correct": false
+            },
+            {
+                "text": "Memorising facts without questioning",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which part of a book usually contains the summary?",
+        "answers": [{
+            "text": "Abstract or preface",
+            "correct": true
+        },
+            {
+                "text": "Glossary",
+                "correct": false
+            },
+            {
+                "text": "Appendix",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What does open access mean in academic publishing?",
+        "answers": [{
+            "text": "Free access to scholarly works online",
+            "correct": true
+        },
+            {
+                "text": "Restricted to subscribers only",
+                "correct": false
+            },
+            {
+                "text": "Only available in print",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What is a citation index used for?",
+        "answers": [{
+            "text": "Tracking how often a publication is cited",
+            "correct": true
+        },
+            {
+                "text": "Listing all book titles in a library",
+                "correct": false
+            },
+            {
+                "text": "Counting the number of words in an article",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which of these is an unethical research practice?",
+        "answers": [{
+            "text": "Fabricating data",
+            "correct": true
+        },
+            {
+                "text": "Quoting with citation",
+                "correct": false
+            },
+            {
+                "text": "Summarising in your own words",
+                "correct": false
+            }]
+    }]

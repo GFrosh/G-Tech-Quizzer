@@ -1,0 +1,300 @@
+[{
+    "question": "What is the purpose of system design?",
+    "answers": [{
+        "text": "To create a blueprint for building the system",
+        "correct": true
+    },
+        {
+            "text": "To write source code",
+            "correct": false
+        },
+        {
+            "text": "To test the system",
+            "correct": false
+        }]
+},
+    {
+        "question": "Which type of design focuses on how the system looks to users?",
+        "answers": [{
+            "text": "User Interface design",
+            "correct": true
+        },
+            {
+                "text": "Database design",
+                "correct": false
+            },
+            {
+                "text": "Network design",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What is logical design?",
+        "answers": [{
+            "text": "Defining what the system must do without implementation details",
+            "correct": true
+        },
+            {
+                "text": "Choosing the programming language",
+                "correct": false
+            },
+            {
+                "text": "Buying hardware",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What is physical design?",
+        "answers": [{
+            "text": "Specifying actual implementation details",
+            "correct": true
+        },
+            {
+                "text": "Describing requirements only",
+                "correct": false
+            },
+            {
+                "text": "Drawing cartoons of the system",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which diagram shows how objects interact over time?",
+        "answers": [{
+            "text": "Sequence diagram",
+            "correct": true
+        },
+            {
+                "text": "Class diagram",
+                "correct": false
+            },
+            {
+                "text": "Pie chart",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What is cohesion in modular design?",
+        "answers": [{
+            "text": "How closely related the tasks within a module are",
+            "correct": true
+        },
+            {
+                "text": "How connected one module is to another",
+                "correct": false
+            },
+            {
+                "text": "How colourful the module is",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What is coupling in modular design?",
+        "answers": [{
+            "text": "The degree of dependency between modules",
+            "correct": true
+        },
+            {
+                "text": "How fast the code runs",
+                "correct": false
+            },
+            {
+                "text": "How many users like the system",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which is preferred in system design?",
+        "answers": [{
+            "text": "High cohesion and low coupling",
+            "correct": true
+        },
+            {
+                "text": "Low cohesion and high coupling",
+                "correct": false
+            },
+            {
+                "text": "Both low cohesion and low coupling",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What is normalization in database design?",
+        "answers": [{
+            "text": "Organizing data to reduce redundancy",
+            "correct": true
+        },
+            {
+                "text": "Making data colourful",
+                "correct": false
+            },
+            {
+                "text": "Adding extra duplicate data",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which of these is NOT a normal form in databases?",
+        "answers": [{
+            "text": "First Normal Form (1NF)",
+            "correct": false
+        },
+            {
+                "text": "Second Normal Form (2NF)",
+                "correct": false
+            },
+            {
+                "text": "Fifth Crazy Form (5CF)",
+                "correct": true
+            }]
+    },
+    {
+        "question": "What does UML stand for?",
+        "answers": [{
+            "text": "Unified Modeling Language",
+            "correct": true
+        },
+            {
+                "text": "Universal Machine Logic",
+                "correct": false
+            },
+            {
+                "text": "User Modeling Layout",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which UML diagram shows system use cases?",
+        "answers": [{
+            "text": "Use Case diagram",
+            "correct": true
+        },
+            {
+                "text": "Class diagram",
+                "correct": false
+            },
+            {
+                "text": "Flowchart",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which diagram shows system activities in steps?",
+        "answers": [{
+            "text": "Activity diagram",
+            "correct": true
+        },
+            {
+                "text": "ER diagram",
+                "correct": false
+            },
+            {
+                "text": "Pie chart",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What is the purpose of data dictionaries?",
+        "answers": [{
+            "text": "To define details of data elements",
+            "correct": true
+        },
+            {
+                "text": "To store books",
+                "correct": false
+            },
+            {
+                "text": "To calculate system cost",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What is a decision table used for?",
+        "answers": [{
+            "text": "Representing conditions and actions",
+            "correct": true
+        },
+            {
+                "text": "Drawing system hardware",
+                "correct": false
+            },
+            {
+                "text": "Recording user names",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What is prototyping in system design?",
+        "answers": [{
+            "text": "Building a working model of the system",
+            "correct": true
+        },
+            {
+                "text": "Finalizing system testing",
+                "correct": false
+            },
+            {
+                "text": "Writing documentation only",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which is an advantage of modular design?",
+        "answers": [{
+            "text": "Easier to maintain and test",
+            "correct": true
+        },
+            {
+                "text": "More confusing for users",
+                "correct": false
+            },
+            {
+                "text": "Requires no planning",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What is top-down design?",
+        "answers": [{
+            "text": "Breaking the system into smaller parts from general to specific",
+            "correct": true
+        },
+            {
+                "text": "Building from details to overall view",
+                "correct": false
+            },
+            {
+                "text": "Designing only the user interface",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What is bottom-up design?",
+        "answers": [{
+            "text": "Building from specific details to form the overall system",
+            "correct": true
+        },
+            {
+                "text": "Starting from general system goals only",
+                "correct": false
+            },
+            {
+                "text": "Ignoring small components",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which is a disadvantage of prototyping?",
+        "answers": [{
+            "text": "Users may think the prototype is the final system",
+            "correct": true
+        },
+            {
+                "text": "Encourages user feedback",
+                "correct": false
+            },
+            {
+                "text": "Speeds up requirement gathering",
+                "correct": false
+            }]
+    }]

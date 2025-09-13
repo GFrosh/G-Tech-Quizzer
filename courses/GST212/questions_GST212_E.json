@@ -1,0 +1,300 @@
+[{
+    "question": "Which philosopher is associated with empiricism?",
+    "answers": [{
+        "text": "John Locke",
+        "correct": true
+    },
+        {
+            "text": "Plato",
+            "correct": false
+        },
+        {
+            "text": "Kant",
+            "correct": false
+        }]
+},
+    {
+        "question": "What is a valid argument?",
+        "answers": [{
+            "text": "An argument where if premises are true, conclusion must be true",
+            "correct": true
+        },
+            {
+                "text": "Any argument with a true conclusion",
+                "correct": false
+            },
+            {
+                "text": "An argument with some false premises",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Who wrote 'Meditations on First Philosophy'?",
+        "answers": [{
+            "text": "René Descartes",
+            "correct": true
+        },
+            {
+                "text": "Aristotle",
+                "correct": false
+            },
+            {
+                "text": "Kant",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which branch of philosophy studies reasoning and argument?",
+        "answers": [{
+            "text": "Logic",
+            "correct": true
+        },
+            {
+                "text": "Ethics",
+                "correct": false
+            },
+            {
+                "text": "Aesthetics",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What is metaphysical dualism?",
+        "answers": [{
+            "text": "The belief that mind and body are separate",
+            "correct": true
+        },
+            {
+                "text": "The study of reasoning",
+                "correct": false
+            },
+            {
+                "text": "The study of moral principles",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which philosopher taught the 'Allegory of the Cave'?",
+        "answers": [{
+            "text": "Plato",
+            "correct": true
+        },
+            {
+                "text": "Aristotle",
+                "correct": false
+            },
+            {
+                "text": "Descartes",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Who is associated with the concept of utilitarianism?",
+        "answers": [{
+            "text": "Jeremy Bentham",
+            "correct": true
+        },
+            {
+                "text": "Aristotle",
+                "correct": false
+            },
+            {
+                "text": "Kant",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which philosopher argued that reality is composed of mind and body?",
+        "answers": [{
+            "text": "René Descartes",
+            "correct": true
+        },
+            {
+                "text": "Plato",
+                "correct": false
+            },
+            {
+                "text": "Aristotle",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What is a strawman fallacy?",
+        "answers": [{
+            "text": "Misrepresenting someone’s argument to attack it",
+            "correct": true
+        },
+            {
+                "text": "Attacking the person instead of argument",
+                "correct": false
+            },
+            {
+                "text": "Appeal to emotion",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which type of reasoning starts from specific observations to general rules?",
+        "answers": [{
+            "text": "Inductive reasoning",
+            "correct": true
+        },
+            {
+                "text": "Deductive reasoning",
+                "correct": false
+            },
+            {
+                "text": "Abductive reasoning",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Who developed virtue ethics?",
+        "answers": [{
+            "text": "Aristotle",
+            "correct": true
+        },
+            {
+                "text": "Plato",
+                "correct": false
+            },
+            {
+                "text": "Kant",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What is a paradox?",
+        "answers": [{
+            "text": "A statement that contradicts itself",
+            "correct": true
+        },
+            {
+                "text": "A valid argument",
+                "correct": false
+            },
+            {
+                "text": "A moral principle",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which philosopher said 'the unexamined life is not worth living'?",
+        "answers": [{
+            "text": "Socrates",
+            "correct": true
+        },
+            {
+                "text": "Plato",
+                "correct": false
+            },
+            {
+                "text": "Kant",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which branch of philosophy examines beauty and art?",
+        "answers": [{
+            "text": "Aesthetics",
+            "correct": true
+        },
+            {
+                "text": "Ethics",
+                "correct": false
+            },
+            {
+                "text": "Logic",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Who is considered the father of modern philosophy?",
+        "answers": [{
+            "text": "René Descartes",
+            "correct": true
+        },
+            {
+                "text": "Plato",
+                "correct": false
+            },
+            {
+                "text": "Aristotle",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What does ontology study?",
+        "answers": [{
+            "text": "The nature of being and existence",
+            "correct": true
+        },
+            {
+                "text": "Moral principles",
+                "correct": false
+            },
+            {
+                "text": "Knowledge",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which is an example of deductive reasoning?",
+        "answers": [{
+            "text": "All humans are mortal; Socrates is human; Socrates is mortal",
+            "correct": true
+        },
+            {
+                "text": "I saw 10 white swans; all swans are probably white",
+                "correct": false
+            },
+            {
+                "text": "Someone ate the cake because it's missing",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which type of fallacy attacks the person instead of the argument?",
+        "answers": [{
+            "text": "Ad hominem",
+            "correct": true
+        },
+            {
+                "text": "Strawman",
+                "correct": false
+            },
+            {
+                "text": "Appeal to authority",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Who proposed 'tabula rasa'?",
+        "answers": [{
+            "text": "John Locke",
+            "correct": true
+        },
+            {
+                "text": "Kant",
+                "correct": false
+            },
+            {
+                "text": "Plato",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which philosopher emphasized categorical imperatives?",
+        "answers": [{
+            "text": "Immanuel Kant",
+            "correct": true
+        },
+            {
+                "text": "Aristotle",
+                "correct": false
+            },
+            {
+                "text": "Plato",
+                "correct": false
+            }]
+    }]

@@ -1,0 +1,300 @@
+[{
+    "question": "What is the auxiliary equation for y'' - y = 0?",
+    "answers": [{
+        "text": "r² - 1 = 0",
+        "correct": true
+    },
+        {
+            "text": "r² + 1 = 0",
+            "correct": false
+        },
+        {
+            "text": "r² + r = 0",
+            "correct": false
+        }]
+},
+    {
+        "question": "Which of these is a second-order linear ODE?",
+        "answers": [{
+            "text": "d²y/dx² + 3dy/dx + 2y = 0",
+            "correct": true
+        },
+            {
+                "text": "dy/dx + y² = 0",
+                "correct": false
+            },
+            {
+                "text": "y + x = 0",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What is the solution form if the auxiliary equation has repeated imaginary roots?",
+        "answers": [{
+            "text": "y = e^(ax)(C1cos(bx) + C2sin(bx))",
+            "correct": true
+        },
+            {
+                "text": "y = (C1 + C2x)e^(ax)",
+                "correct": false
+            },
+            {
+                "text": "y = C1e^(r1x) + C2e^(r2x)",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What is the Laplace transform of cos(at)?",
+        "answers": [{
+            "text": "s / (s² + a²)",
+            "correct": true
+        },
+            {
+                "text": "a / (s² + a²)",
+                "correct": false
+            },
+            {
+                "text": "1 / (s² + a²)",
+                "correct": false
+            }]
+    },
+    {
+        "question": "If dy/dx = y/x, what is the solution?",
+        "answers": [{
+            "text": "y = Cx",
+            "correct": true
+        },
+            {
+                "text": "y = C/x",
+                "correct": false
+            },
+            {
+                "text": "y = Cx²",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What is the integrating factor for dy/dx + (1/x)y = x?",
+        "answers": [{
+            "text": "x",
+            "correct": true
+        },
+            {
+                "text": "1/x",
+                "correct": false
+            },
+            {
+                "text": "e^x",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which solution form applies to distinct real roots r1 and r2?",
+        "answers": [{
+            "text": "y = C1e^(r1x) + C2e^(r2x)",
+            "correct": true
+        },
+            {
+                "text": "y = (C1 + C2x)e^(rx)",
+                "correct": false
+            },
+            {
+                "text": "y = C1cos(rx) + C2sin(rx)",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What is the Laplace transform of 1?",
+        "answers": [{
+            "text": "1/s",
+            "correct": true
+        },
+            {
+                "text": "s",
+                "correct": false
+            },
+            {
+                "text": "1",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What is the order of d³y/dx³ + y'' + y = 0?",
+        "answers": [{
+            "text": "3",
+            "correct": true
+        },
+            {
+                "text": "2",
+                "correct": false
+            },
+            {
+                "text": "1",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What type of equation is dy/dx + y = e^x?",
+        "answers": [{
+            "text": "First-order linear non-homogeneous",
+            "correct": true
+        },
+            {
+                "text": "Second-order homogeneous",
+                "correct": false
+            },
+            {
+                "text": "Separable homogeneous",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What is the auxiliary equation of y'' + y' = 0?",
+        "answers": [{
+            "text": "r² + r = 0",
+            "correct": true
+        },
+            {
+                "text": "r² - r = 0",
+                "correct": false
+            },
+            {
+                "text": "r² + 1 = 0",
+                "correct": false
+            }]
+    },
+    {
+        "question": "If dy/dx = 3x², what is y?",
+        "answers": [{
+            "text": "y = x³ + C",
+            "correct": true
+        },
+            {
+                "text": "y = 3x³ + C",
+                "correct": false
+            },
+            {
+                "text": "y = x² + C",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What is the Laplace transform of e^(at)?",
+        "answers": [{
+            "text": "1 / (s - a)",
+            "correct": true
+        },
+            {
+                "text": "s / (s² + a²)",
+                "correct": false
+            },
+            {
+                "text": "1 / (s + a)",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What is the general solution of y'' - 4y' + 4y = 0?",
+        "answers": [{
+            "text": "y = (C1 + C2x)e^(2x)",
+            "correct": true
+        },
+            {
+                "text": "y = C1e^(2x) + C2e^(-2x)",
+                "correct": false
+            },
+            {
+                "text": "y = C1cos(2x) + C2sin(2x)",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which method is commonly used for second-order ODEs with constant coefficients?",
+        "answers": [{
+            "text": "Auxiliary equation method",
+            "correct": true
+        },
+            {
+                "text": "Integration by substitution",
+                "correct": false
+            },
+            {
+                "text": "Separation of variables",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What is the solution to y'' + y = 0 with y(0) = 0 and y'(0) = 1?",
+        "answers": [{
+            "text": "y = sin(x)",
+            "correct": true
+        },
+            {
+                "text": "y = cos(x)",
+                "correct": false
+            },
+            {
+                "text": "y = e^x",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What type of equation is dy/dx = x² + y²?",
+        "answers": [{
+            "text": "Non-linear first-order ODE",
+            "correct": true
+        },
+            {
+                "text": "Linear second-order ODE",
+                "correct": false
+            },
+            {
+                "text": "Separable linear ODE",
+                "correct": false
+            }]
+    },
+    {
+        "question": "If the auxiliary equation has real and distinct roots, what type of solution arises?",
+        "answers": [{
+            "text": "Exponential terms",
+            "correct": true
+        },
+            {
+                "text": "Polynomial terms",
+                "correct": false
+            },
+            {
+                "text": "Trigonometric terms",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What is the Laplace transform of t?",
+        "answers": [{
+            "text": "1 / s²",
+            "correct": true
+        },
+            {
+                "text": "s / (s² + 1)",
+                "correct": false
+            },
+            {
+                "text": "1 / (s - 1)",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which solution form applies if auxiliary equation roots are ±bi?",
+        "answers": [{
+            "text": "y = C1cos(bx) + C2sin(bx)",
+            "correct": true
+        },
+            {
+                "text": "y = C1e^(bx) + C2e^(-bx)",
+                "correct": false
+            },
+            {
+                "text": "y = (C1 + C2x)e^(bx)",
+                "correct": false
+            }]
+    }]

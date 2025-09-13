@@ -1,0 +1,285 @@
+[{
+    "question": "Which philosopher introduced the concept of the 'categorical imperative'?",
+    "answers": [{
+        "text": "Aristotle",
+        "correct": false
+    },
+        {
+            "text": "Immanuel Kant",
+            "correct": true
+        },
+        {
+            "text": "Plato",
+            "correct": false
+        }]
+},
+    {
+        "question": "What is epistemology?",
+        "answers": [{
+            "text": "The study of knowledge and belief",
+            "correct": true
+        },
+            {
+                "text": "The study of morality",
+                "correct": false
+            },
+            {
+                "text": "The study of art and beauty",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Who is famous for 'I think, therefore I am'?",
+        "answers": [{
+            "text": "René Descartes",
+            "correct": true
+        },
+            {
+                "text": "Socrates",
+                "correct": false
+            },
+            {
+                "text": "Plato",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which type of reasoning draws probable conclusions from observations?",
+        "answers": [{
+            "text": "Inductive reasoning",
+            "correct": true
+        },
+            {
+                "text": "Deductive reasoning",
+                "correct": false
+            },
+            {
+                "text": "Abductive reasoning",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which philosopher wrote 'The Republic'?",
+        "answers": [{
+            "text": "Plato",
+            "correct": true
+        },
+            {
+                "text": "Aristotle",
+                "correct": false
+            },
+            {
+                "text": "Kant",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What is a sound argument?",
+        "answers": [{
+            "text": "A valid argument with all true premises",
+            "correct": true
+        },
+            {
+                "text": "An invalid argument",
+                "correct": false
+            },
+            {
+                "text": "Any argument with a true conclusion",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Who developed the theory of forms?",
+        "answers": [{
+            "text": "Plato",
+            "correct": true
+        },
+            {
+                "text": "Aristotle",
+                "correct": false
+            },
+            {
+                "text": "Descartes",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which branch of philosophy studies morality?",
+        "answers": [{
+            "text": "Ethics",
+            "correct": true
+        },
+            {
+                "text": "Logic",
+                "correct": false
+            },
+            {
+                "text": "Epistemology",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which philosopher is associated with existentialism?",
+        "answers": [{
+            "text": "Jean-Paul Sartre",
+            "correct": true
+        },
+            {
+                "text": "Plato",
+                "correct": false
+            },
+            {
+                "text": "Aristotle",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What is metaphysics?",
+        "answers": [{
+            "text": "The study of reality and existence",
+            "correct": true
+        },
+            {
+                "text": "The study of reasoning",
+                "correct": false
+            },
+            {
+                "text": "The study of ethics",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Who wrote 'Nicomachean Ethics'?",
+        "answers": [{
+            "text": "Aristotle",
+            "correct": true
+        },
+            {
+                "text": "Plato",
+                "correct": false
+            },
+            {
+                "text": "Kant",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which is an example of deductive reasoning?",
+        "answers": [{
+            "text": "All men are mortal; Socrates is a man; Socrates is mortal",
+            "correct": true
+        },
+            {
+                "text": "I saw 10 white swans; all swans are probably white",
+                "correct": false
+            },
+            {
+                "text": "The cake is missing; someone ate it",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which fallacy attacks the person rather than the argument?",
+        "answers": [{
+            "text": "Ad hominem",
+            "correct": true
+        },
+            {
+                "text": "Strawman",
+                "correct": false
+            },
+            {
+                "text": "Slippery slope",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Who proposed 'tabula rasa'?",
+        "answers": [{
+            "text": "John Locke",
+            "correct": true
+        },
+            {
+                "text": "Kant",
+                "correct": false
+            },
+            {
+                "text": "Plato",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which type of reasoning goes from general principles to specific cases?",
+        "answers": [{
+            "text": "Deductive reasoning",
+            "correct": true
+        },
+            {
+                "text": "Inductive reasoning",
+                "correct": false
+            },
+            {
+                "text": "Abductive reasoning",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which branch of philosophy studies beauty and art?",
+        "answers": [{
+            "text": "Aesthetics",
+            "correct": true
+        },
+            {
+                "text": "Ethics",
+                "correct": false
+            },
+            {
+                "text": "Logic",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which philosopher emphasized virtue ethics?",
+        "answers": [{
+            "text": "Aristotle",
+            "correct": true
+        },
+            {
+                "text": "Plato",
+                "correct": false
+            },
+            {
+                "text": "Kant",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What is a paradox?",
+        "answers": [{
+            "text": "A statement that contradicts itself",
+            "correct": true
+        },
+            {
+                "text": "A valid deductive argument",
+                "correct": false
+            },
+            {
+                "text": "A moral principle",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Who is known as the father of modern philosophy?",
+        "answers": [{
+            "text": "René Descartes",
+            "correct": true
+        },
+            {
+                "text": "Plato",
+                "correct": false
+            },
+            {
+                "text": "Aristotle",
+                "correct": false
+            }]
+    }]

@@ -1,0 +1,160 @@
+[{
+  "question": "Which scheduling algorithm is often used in embedded real-time systems?",
+  "answers": [
+    { "text": "Round Robin", "correct": false },
+    { "text": "Earliest Deadline First", "correct": true },
+    { "text": "First Come First Serve", "correct": false }
+  ]
+},
+{
+  "question": "What does CAN bus stand for?",
+  "answers": [
+    { "text": "Computer Area Network", "correct": false },
+    { "text": "Controller Area Network", "correct": true },
+    { "text": "Central Access Node", "correct": false }
+  ]
+},
+{
+  "question": "Which type of memory is best for storing bootloaders?",
+  "answers": [
+    { "text": "ROM", "correct": true },
+    { "text": "Cache", "correct": false },
+    { "text": "RAM", "correct": false }
+  ]
+},
+{
+  "question": "Which type of embedded system is designed for critical timing?",
+  "answers": [
+    { "text": "Real-time embedded system", "correct": true },
+    { "text": "Batch processing system", "correct": false },
+    { "text": "Cloud-based system", "correct": false }
+  ]
+},
+{
+  "question": "Which of these devices typically uses an embedded OS?",
+  "answers": [
+    { "text": "Smartphone", "correct": true },
+    { "text": "Server", "correct": false },
+    { "text": "Desktop PC", "correct": false }
+  ]
+},
+{
+  "question": "What is the main purpose of DMA in embedded systems?",
+  "answers": [
+    { "text": "Direct Memory Access without CPU intervention", "correct": true },
+    { "text": "Dynamic Microcontroller Access", "correct": false },
+    { "text": "Digital Module Adapter", "correct": false }
+  ]
+},
+{
+  "question": "Which factor is NOT a design constraint of embedded systems?",
+  "answers": [
+    { "text": "Low power consumption", "correct": false },
+    { "text": "Execution speed", "correct": false },
+    { "text": "High-end gaming performance", "correct": true }
+  ]
+},
+{
+  "question": "Which of the following is an embedded file system?",
+  "answers": [
+    { "text": "FAT", "correct": true },
+    { "text": "exFAT", "correct": false },
+    { "text": "NTFS", "correct": false }
+  ]
+},
+{
+  "question": "What is an embedded bootloader responsible for?",
+  "answers": [
+    { "text": "Loading the operating system into memory", "correct": true },
+    { "text": "Handling interrupts", "correct": false },
+    { "text": "Measuring time intervals", "correct": false }
+  ]
+},
+{
+  "question": "Which of these is a wired communication standard used in embedded devices?",
+  "answers": [
+    { "text": "I2C", "correct": true },
+    { "text": "Wi-Fi", "correct": false },
+    { "text": "Bluetooth", "correct": false }
+  ]
+},
+{
+  "question": "What is the main use of a sensor in embedded systems?",
+  "answers": [
+    { "text": "Detect physical changes and send signals", "correct": true },
+    { "text": "Convert digital signals to analog", "correct": false },
+    { "text": "Act as a power supply", "correct": false }
+  ]
+},
+{
+  "question": "Which architecture is most common in microcontrollers?",
+  "answers": [
+    { "text": "Von Neumann", "correct": false },
+    { "text": "Harvard", "correct": true },
+    { "text": "Hybrid Quantum", "correct": false }
+  ]
+},
+{
+  "question": "What is the role of middleware in embedded systems?",
+  "answers": [
+    { "text": "Provide software services between OS and applications", "correct": true },
+    { "text": "Act as a microcontroller", "correct": false },
+    { "text": "Serve as the hardware clock", "correct": false }
+  ]
+},
+{
+  "question": "Which feature makes ARM processors popular in embedded design?",
+  "answers": [
+    { "text": "High performance with low power consumption", "correct": true },
+    { "text": "They are the cheapest in the market", "correct": false },
+    { "text": "They are only used in desktops", "correct": false }
+  ]
+},
+{
+  "question": "What type of multitasking allows critical tasks to interrupt others?",
+  "answers": [
+    { "text": "Preemptive multitasking", "correct": true },
+    { "text": "Cooperative multitasking", "correct": false },
+    { "text": "Single-threaded execution", "correct": false }
+  ]
+},
+{
+  "question": "Which of the following uses an embedded controller?",
+  "answers": [
+    { "text": "Microwave oven", "correct": true },
+    { "text": "Server farm", "correct": false },
+    { "text": "Desktop GPU", "correct": false }
+  ]
+},
+{
+  "question": "Which of these describes an RTOS?",
+  "answers": [
+    { "text": "An OS that guarantees task completion within deadlines", "correct": true },
+    { "text": "An OS that focuses on gaming", "correct": false },
+    { "text": "An OS that uses only batch processing", "correct": false }
+  ]
+},
+{
+  "question": "Which device controls airbag deployment in cars?",
+  "answers": [
+    { "text": "Embedded microcontroller", "correct": true },
+    { "text": "External GPU", "correct": false },
+    { "text": "Laptop processor", "correct": false }
+  ]
+},
+{
+  "question": "Which communication protocol is most used in automotive embedded systems?",
+  "answers": [
+    { "text": "CAN bus", "correct": true },
+    { "text": "SMTP", "correct": false },
+    { "text": "Ethernet", "correct": false }
+  ]
+},
+{
+  "question": "What does deterministic behavior mean in embedded systems?",
+  "answers": [
+    { "text": "System responds predictably within set time", "correct": true },
+    { "text": "System always runs slower than expected", "correct": false },
+    { "text": "System cannot execute tasks in real-time", "correct": false }
+  ]
+}]

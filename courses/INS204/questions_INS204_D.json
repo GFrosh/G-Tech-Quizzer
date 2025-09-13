@@ -1,0 +1,300 @@
+[{
+    "question": "What is the purpose of system testing?",
+    "answers": [{
+        "text": "To check if the system works as expected",
+        "correct": true
+    },
+        {
+            "text": "To decorate the system",
+            "correct": false
+        },
+        {
+            "text": "To buy new hardware",
+            "correct": false
+        }]
+},
+    {
+        "question": "Which type of testing checks individual modules?",
+        "answers": [{
+            "text": "Unit testing",
+            "correct": true
+        },
+            {
+                "text": "System testing",
+                "correct": false
+            },
+            {
+                "text": "Acceptance testing",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which testing involves users directly?",
+        "answers": [{
+            "text": "User Acceptance Testing (UAT)",
+            "correct": true
+        },
+            {
+                "text": "Integration testing",
+                "correct": false
+            },
+            {
+                "text": "Unit testing",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What is integration testing?",
+        "answers": [{
+            "text": "Testing how modules work together",
+            "correct": true
+        },
+            {
+                "text": "Testing only one module",
+                "correct": false
+            },
+            {
+                "text": "Testing without code",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which type of testing checks the whole system?",
+        "answers": [{
+            "text": "System testing",
+            "correct": true
+        },
+            {
+                "text": "Unit testing",
+                "correct": false
+            },
+            {
+                "text": "Alpha testing",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What is alpha testing?",
+        "answers": [{
+            "text": "Testing done by developers before release",
+            "correct": true
+        },
+            {
+                "text": "Testing done by users in real environment",
+                "correct": false
+            },
+            {
+                "text": "Testing only databases",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What is beta testing?",
+        "answers": [{
+            "text": "Testing by users before final release",
+            "correct": true
+        },
+            {
+                "text": "Testing by developers only",
+                "correct": false
+            },
+            {
+                "text": "Testing hardware setup",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which testing ensures the system meets requirements?",
+        "answers": [{
+            "text": "Validation testing",
+            "correct": true
+        },
+            {
+                "text": "Regression testing",
+                "correct": false
+            },
+            {
+                "text": "Smoke testing",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which testing checks that changes didn’t break existing features?",
+        "answers": [{
+            "text": "Regression testing",
+            "correct": true
+        },
+            {
+                "text": "Unit testing",
+                "correct": false
+            },
+            {
+                "text": "Alpha testing",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What is black-box testing?",
+        "answers": [{
+            "text": "Testing without looking at internal code",
+            "correct": true
+        },
+            {
+                "text": "Testing only the database",
+                "correct": false
+            },
+            {
+                "text": "Testing by opening the source code",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What is white-box testing?",
+        "answers": [{
+            "text": "Testing with knowledge of internal code",
+            "correct": true
+        },
+            {
+                "text": "Testing without code knowledge",
+                "correct": false
+            },
+            {
+                "text": "Testing only the user interface",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which phase comes after testing?",
+        "answers": [{
+            "text": "Implementation",
+            "correct": true
+        },
+            {
+                "text": "Requirement analysis",
+                "correct": false
+            },
+            {
+                "text": "Design",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What is direct implementation?",
+        "answers": [{
+            "text": "Replacing the old system with the new one at once",
+            "correct": true
+        },
+            {
+                "text": "Running both systems together",
+                "correct": false
+            },
+            {
+                "text": "Testing the system only",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What is parallel implementation?",
+        "answers": [{
+            "text": "Running old and new systems together for a time",
+            "correct": true
+        },
+            {
+                "text": "Shutting down both systems",
+                "correct": false
+            },
+            {
+                "text": "Replacing modules randomly",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What is phased implementation?",
+        "answers": [{
+            "text": "Introducing the new system in parts",
+            "correct": true
+        },
+            {
+                "text": "Replacing everything at once",
+                "correct": false
+            },
+            {
+                "text": "Testing without users",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What is pilot implementation?",
+        "answers": [{
+            "text": "Introducing the system in one location first",
+            "correct": true
+        },
+            {
+                "text": "Testing in space programs",
+                "correct": false
+            },
+            {
+                "text": "Introducing system to all locations at once",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which phase ensures the system continues to work after deployment?",
+        "answers": [{
+            "text": "Maintenance",
+            "correct": true
+        },
+            {
+                "text": "Design",
+                "correct": false
+            },
+            {
+                "text": "Feasibility study",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What is corrective maintenance?",
+        "answers": [{
+            "text": "Fixing errors found in the system",
+            "correct": true
+        },
+            {
+                "text": "Adding new features",
+                "correct": false
+            },
+            {
+                "text": "Improving performance",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What is adaptive maintenance?",
+        "answers": [{
+            "text": "Changing the system to work in a new environment",
+            "correct": true
+        },
+            {
+                "text": "Correcting system bugs",
+                "correct": false
+            },
+            {
+                "text": "Deleting unused code",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What is perfective maintenance?",
+        "answers": [{
+            "text": "Improving system performance or features",
+            "correct": true
+        },
+            {
+                "text": "Fixing broken code only",
+                "correct": false
+            },
+            {
+                "text": "Ignoring user feedback",
+                "correct": false
+            }]
+    }]

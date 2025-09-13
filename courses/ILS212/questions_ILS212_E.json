@@ -1,0 +1,300 @@
+[{
+    "question": "Which of the following is a feature of a reliable website?",
+    "answers": [{
+        "text": "Bright colours and animations",
+        "correct": false
+    },
+        {
+            "text": "Contains author credentials and citations",
+            "correct": true
+        },
+        {
+            "text": "Random personal opinions",
+            "correct": false
+        }]
+},
+    {
+        "question": "Which of these describes primary research?",
+        "answers": [{
+            "text": "Summarising books and articles",
+            "correct": false
+        },
+            {
+                "text": "Reading encyclopedias",
+                "correct": false
+            },
+            {
+                "text": "Collecting data directly through experiments or surveys",
+                "correct": true
+            }]
+    },
+    {
+        "question": "Which is an example of unethical research practice?",
+        "answers": [{
+            "text": "Citing sources properly",
+            "correct": false
+        },
+            {
+                "text": "Fabricating or falsifying data",
+                "correct": true
+            },
+            {
+                "text": "Paraphrasing in your own words",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which Boolean operator broadens a search?",
+        "answers": [{
+            "text": "AND",
+            "correct": false
+        },
+            {
+                "text": "OR",
+                "correct": true
+            },
+            {
+                "text": "NOT",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What is the purpose of a literature review?",
+        "answers": [{
+            "text": "To present your final conclusions",
+            "correct": false
+        },
+            {
+                "text": "To summarise existing research and identify gaps",
+                "correct": true
+            },
+            {
+                "text": "To list random websites",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which of the following is a secondary source?",
+        "answers": [{
+            "text": "Raw experimental data",
+            "correct": false
+        },
+            {
+                "text": "A review article summarising research findings",
+                "correct": true
+            },
+            {
+                "text": "A diary entry",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which of these is a reliable indicator of source credibility?",
+        "answers": [{
+            "text": "Colourful website design",
+            "correct": false
+        },
+            {
+                "text": "Number of images on the page",
+                "correct": false
+            },
+            {
+                "text": "Peer-reviewed publication and author affiliation",
+                "correct": true
+            }]
+    },
+    {
+        "question": "What does metadata provide?",
+        "answers": [{
+            "text": "Information describing other data",
+            "correct": true
+        },
+            {
+                "text": "Full text of an article",
+                "correct": false
+            },
+            {
+                "text": "Summary of author biography",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which of these is a tertiary source?",
+        "answers": [{
+            "text": "Survey results",
+            "correct": false
+        },
+            {
+                "text": "Original research paper",
+                "correct": false
+            },
+            {
+                "text": "Encyclopedia",
+                "correct": true
+            }]
+    },
+    {
+        "question": "Which of these best defines plagiarism?",
+        "answers": [{
+            "text": "Quoting properly with references",
+            "correct": false
+        },
+            {
+                "text": "Using someone else's work without proper credit",
+                "correct": true
+            },
+            {
+                "text": "Summarising in your own words with citation",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which of the following demonstrates proper paraphrasing?",
+        "answers": [{
+            "text": "Rewriting ideas in your own words and citing the source",
+            "correct": true
+        },
+            {
+                "text": "Copying text word-for-word without citation",
+                "correct": false
+            },
+            {
+                "text": "Changing a few words and leaving citation out",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What is the main purpose of a research question?",
+        "answers": [{
+            "text": "Lists references for the study",
+            "correct": false
+        },
+            {
+                "text": "Guides the focus of the study",
+                "correct": true
+            },
+            {
+                "text": "Provides the abstract of the study",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which of these is an example of grey literature?",
+        "answers": [{
+            "text": "Textbook",
+            "correct": false
+        },
+            {
+                "text": "Peer-reviewed journal article",
+                "correct": false
+            },
+            {
+                "text": "Conference proceedings",
+                "correct": true
+            }]
+    },
+    {
+        "question": "What does open access mean in publishing?",
+        "answers": [{
+            "text": "Only available in print",
+            "correct": false
+        },
+            {
+                "text": "Freely available online without subscription",
+                "correct": true
+            },
+            {
+                "text": "Requires paid subscription",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which of these is used to permanently identify digital content?",
+        "answers": [{
+            "text": "ISBN",
+            "correct": false
+        },
+            {
+                "text": "DOI (Digital Object Identifier)",
+                "correct": true
+            },
+            {
+                "text": "URL",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which of the following best describes peer review?",
+        "answers": [{
+            "text": "Evaluation by random internet users",
+            "correct": false
+        },
+            {
+                "text": "Review by students only",
+                "correct": false
+            },
+            {
+                "text": "Evaluation of work by experts before publication",
+                "correct": true
+            }]
+    },
+    {
+        "question": "Which part of a paper outlines methods used in research?",
+        "answers": [{
+            "text": "Methodology section",
+            "correct": true
+        },
+            {
+                "text": "Abstract",
+                "correct": false
+            },
+            {
+                "text": "Conclusion section",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which of the following is a tertiary source?",
+        "answers": [{
+            "text": "Survey data",
+            "correct": false
+        },
+            {
+                "text": "Original research paper",
+                "correct": false
+            },
+            {
+                "text": "Handbook or encyclopedia",
+                "correct": true
+            }]
+    },
+    {
+        "question": "Which of these is a benefit of using a reference manager?",
+        "answers": [{
+            "text": "Organises citations and generates bibliographies automatically",
+            "correct": true
+        },
+            {
+                "text": "Writes the research paper for you",
+                "correct": false
+            },
+            {
+                "text": "Checks for plagiarism",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which of these is a sign of source bias?",
+        "answers": [{
+            "text": "Cites credible references",
+            "correct": false
+        },
+            {
+                "text": "Presents opinions as facts",
+                "correct": true
+            },
+            {
+                "text": "Includes data tables and charts",
+                "correct": false
+            }]
+    }]

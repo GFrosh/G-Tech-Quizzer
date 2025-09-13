@@ -1,0 +1,300 @@
+[{
+    "question": "What is the main function of computer architecture?",
+    "answers": [{
+        "text": "To design the physical building of a computer",
+        "correct": false
+    },
+        {
+            "text": "To define how a computer system is structured and operates",
+            "correct": true
+        },
+        {
+            "text": "To create only the software of the computer",
+            "correct": false
+        }]
+},
+    {
+        "question": "Which of the following best describes computer architecture?",
+        "answers": [{
+            "text": "The art of designing buildings for computers",
+            "correct": false
+        },
+            {
+                "text": "The rules and methods that describe how computer systems work",
+                "correct": true
+            },
+            {
+                "text": "Only the design of the motherboard",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which is NOT a basic component of a computer system?",
+        "answers": [{
+            "text": "CPU",
+            "correct": false
+        },
+            {
+                "text": "Memory",
+                "correct": false
+            },
+            {
+                "text": "Printer ink",
+                "correct": true
+            }]
+    },
+    {
+        "question": "The central processing unit (CPU) is often called the:",
+        "answers": [{
+            "text": "Heart of the computer",
+            "correct": false
+        },
+            {
+                "text": "Brain of the computer",
+                "correct": true
+            },
+            {
+                "text": "Hands of the computer",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which of the following is NOT part of the CPU?",
+        "answers": [{
+            "text": "Control Unit",
+            "correct": false
+        },
+            {
+                "text": "Arithmetic Logic Unit",
+                "correct": false
+            },
+            {
+                "text": "Graphics Card",
+                "correct": true
+            }]
+    },
+    {
+        "question": "Which of these is a type of computer architecture?",
+        "answers": [{
+            "text": "Von Neumann architecture",
+            "correct": true
+        },
+            {
+                "text": "Einstein architecture",
+                "correct": false
+            },
+            {
+                "text": "Newton architecture",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What is the main characteristic of Von Neumann architecture?",
+        "answers": [{
+            "text": "Separate storage for instructions and data",
+            "correct": false
+        },
+            {
+                "text": "Shared storage for both instructions and data",
+                "correct": true
+            },
+            {
+                "text": "No storage at all",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which architecture uses separate memory for instructions and data?",
+        "answers": [{
+            "text": "Von Neumann",
+            "correct": false
+        },
+            {
+                "text": "Harvard",
+                "correct": true
+            },
+            {
+                "text": "Cloud",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which unit carries out mathematical calculations in a computer?",
+        "answers": [{
+            "text": "Control Unit",
+            "correct": false
+        },
+            {
+                "text": "Arithmetic Logic Unit",
+                "correct": true
+            },
+            {
+                "text": "Input Unit",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which of the following is considered an input device?",
+        "answers": [{
+            "text": "Keyboard",
+            "correct": true
+        },
+            {
+                "text": "Monitor",
+                "correct": false
+            },
+            {
+                "text": "Speaker",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which of these is an output device?",
+        "answers": [{
+            "text": "Mouse",
+            "correct": false
+        },
+            {
+                "text": "Monitor",
+                "correct": true
+            },
+            {
+                "text": "Microphone",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which of the following is primary memory?",
+        "answers": [{
+            "text": "RAM",
+            "correct": true
+        },
+            {
+                "text": "Hard disk",
+                "correct": false
+            },
+            {
+                "text": "CD-ROM",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which memory is permanent and cannot be changed easily?",
+        "answers": [{
+            "text": "RAM",
+            "correct": false
+        },
+            {
+                "text": "ROM",
+                "correct": true
+            },
+            {
+                "text": "Cache",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which bus carries data between components?",
+        "answers": [{
+            "text": "Control bus",
+            "correct": false
+        },
+            {
+                "text": "Data bus",
+                "correct": true
+            },
+            {
+                "text": "Address bus",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which bus is responsible for carrying memory addresses?",
+        "answers": [{
+            "text": "Data bus",
+            "correct": false
+        },
+            {
+                "text": "Control bus",
+                "correct": false
+            },
+            {
+                "text": "Address bus",
+                "correct": true
+            }]
+    },
+    {
+        "question": "Which is faster, cache memory or RAM?",
+        "answers": [{
+            "text": "Cache memory",
+            "correct": true
+        },
+            {
+                "text": "RAM",
+                "correct": false
+            },
+            {
+                "text": "They are the same",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which generation of computers used vacuum tubes?",
+        "answers": [{
+            "text": "First generation",
+            "correct": true
+        },
+            {
+                "text": "Second generation",
+                "correct": false
+            },
+            {
+                "text": "Third generation",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which generation of computers introduced microprocessors?",
+        "answers": [{
+            "text": "Second generation",
+            "correct": false
+        },
+            {
+                "text": "Third generation",
+                "correct": false
+            },
+            {
+                "text": "Fourth generation",
+                "correct": true
+            }]
+    },
+    {
+        "question": "What does ALU stand for?",
+        "answers": [{
+            "text": "Arithmetic Logic Unit",
+            "correct": true
+        },
+            {
+                "text": "Advanced Logical Utility",
+                "correct": false
+            },
+            {
+                "text": "Applied Logic Unit",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which of the following is NOT an example of secondary storage?",
+        "answers": [{
+            "text": "Hard disk",
+            "correct": false
+        },
+            {
+                "text": "Flash drive",
+                "correct": false
+            },
+            {
+                "text": "CPU registers",
+                "correct": true
+            }]
+    }]

@@ -1,0 +1,300 @@
+[{
+    "question": "Which of these is a valid Java identifier?",
+    "answers": [{
+        "text": "2value",
+        "correct": false
+    },
+        {
+            "text": "value2",
+            "correct": true
+        },
+        {
+            "text": "value-2",
+            "correct": false
+        }]
+},
+    {
+        "question": "What is the file extension for a compiled Java file?",
+        "answers": [{
+            "text": ".exe",
+            "correct": false
+        },
+            {
+                "text": ".class",
+                "correct": true
+            },
+            {
+                "text": ".java",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which keyword is used to create a subclass?",
+        "answers": [{
+            "text": "extends",
+            "correct": true
+        },
+            {
+                "text": "inherits",
+                "correct": false
+            },
+            {
+                "text": "subclass",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which method is called when an object is destroyed by the garbage collector?",
+        "answers": [{
+            "text": "delete()",
+            "correct": false
+        },
+            {
+                "text": "finalize()",
+                "correct": true
+            },
+            {
+                "text": "destroy()",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which data type is used to store a single character?",
+        "answers": [{
+            "text": "String",
+            "correct": false
+        },
+            {
+                "text": "char",
+                "correct": true
+            },
+            {
+                "text": "character",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which operator is used for logical AND in Java?",
+        "answers": [{
+            "text": "&",
+            "correct": false
+        },
+            {
+                "text": "&&",
+                "correct": true
+            },
+            {
+                "text": "AND",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which of these is not a Java keyword?",
+        "answers": [{
+            "text": "goto",
+            "correct": false
+        },
+            {
+                "text": "sizeof",
+                "correct": true
+            },
+            {
+                "text": "switch",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which collection class does not allow duplicate elements?",
+        "answers": [{
+            "text": "Set",
+            "correct": true
+        },
+            {
+                "text": "List",
+                "correct": false
+            },
+            {
+                "text": "ArrayList",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which statement is used to exit from a method?",
+        "answers": [{
+            "text": "stop",
+            "correct": false
+        },
+            {
+                "text": "return",
+                "correct": true
+            },
+            {
+                "text": "exit",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which keyword is used to define a constant in Java?",
+        "answers": [{
+            "text": "const",
+            "correct": false
+        },
+            {
+                "text": "final",
+                "correct": true
+            },
+            {
+                "text": "static",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which of the following is used to implement multiple inheritance in Java?",
+        "answers": [{
+            "text": "Classes",
+            "correct": false
+        },
+            {
+                "text": "Interfaces",
+                "correct": true
+            },
+            {
+                "text": "Constructors",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which class is the parent of all classes in Java?",
+        "answers": [{
+            "text": "Object",
+            "correct": true
+        },
+            {
+                "text": "Class",
+                "correct": false
+            },
+            {
+                "text": "Super",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which keyword is used to declare a method that must be implemented in a subclass?",
+        "answers": [{
+            "text": "abstract",
+            "correct": true
+        },
+            {
+                "text": "static",
+                "correct": false
+            },
+            {
+                "text": "final",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which operator is used to compare two objects in Java?",
+        "answers": [{
+            "text": "equals()",
+            "correct": true
+        },
+            {
+                "text": "==",
+                "correct": false
+            },
+            {
+                "text": "isSame()",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which method converts a string to an integer in Java?",
+        "answers": [{
+            "text": "Integer.parseInt()",
+            "correct": true
+        },
+            {
+                "text": "String.toInt()",
+                "correct": false
+            },
+            {
+                "text": "parseInteger()",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which keyword is used to inherit multiple interfaces?",
+        "answers": [{
+            "text": "implements",
+            "correct": true
+        },
+            {
+                "text": "extends",
+                "correct": false
+            },
+            {
+                "text": "interface",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which exception is thrown when dividing by zero?",
+        "answers": [{
+            "text": "ArithmeticException",
+            "correct": true
+        },
+            {
+                "text": "DivideByZeroException",
+                "correct": false
+            },
+            {
+                "text": "MathError",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which Java keyword is used for creating a thread?",
+        "answers": [{
+            "text": "thread",
+            "correct": false
+        },
+            {
+                "text": "extends Thread",
+                "correct": true
+            },
+            {
+                "text": "runThread",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which method is used to start a thread in Java?",
+        "answers": [{
+            "text": "begin()",
+            "correct": false
+        },
+            {
+                "text": "start()",
+                "correct": true
+            },
+            {
+                "text": "run()",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which keyword is used to stop inheritance of a class?",
+        "answers": [{
+            "text": "static",
+            "correct": false
+        },
+            {
+                "text": "final",
+                "correct": true
+            },
+            {
+                "text": "sealed",
+                "correct": false
+            }]
+    }]

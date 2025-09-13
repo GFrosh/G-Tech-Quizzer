@@ -1,0 +1,261 @@
+[{
+    "question":"Which probability model is used for events with exactly two outcomes?",
+    "answers":[{
+        "text":"Binomial distribution",
+        "correct":true
+    },
+        {
+            "text":"Normal distribution",
+            "correct":false
+        },
+        {
+            "text":"Poisson distribution",
+            "correct":false
+        }]}, {
+    "question":"Which type of variable is described by categories with no order?",
+    "answers":[{
+        "text":"Nominal variable",
+        "correct":true
+    },
+        {
+            "text":"Ordinal variable",
+            "correct":false
+        },
+        {
+            "text":"Continuous variable",
+            "correct":false
+        }]}, {
+    "question":"Which measure of central tendency is most affected by outliers?",
+    "answers":[{
+        "text":"Mean",
+        "correct":true
+    },
+        {
+            "text":"Median",
+            "correct":false
+        },
+        {
+            "text":"Mode",
+            "correct":false
+        }]}, {
+    "question":"Which measure indicates how spread out the data is from the mean?",
+    "answers":[{
+        "text":"Standard deviation",
+        "correct":true
+    },
+        {
+            "text":"Median",
+            "correct":false
+        },
+        {
+            "text":"Mode",
+            "correct":false
+        }]}, {
+    "question":"Which type of distribution is uniform across all values?",
+    "answers":[{
+        "text":"Uniform distribution",
+        "correct":true
+    },
+        {
+            "text":"Normal distribution",
+            "correct":false
+        },
+        {
+            "text":"Poisson distribution",
+            "correct":false
+        }]}, {
+    "question":"Which chart shows cumulative totals across categories?",
+    "answers":[{
+        "text":"Cumulative frequency graph",
+        "correct":true
+    },
+        {
+            "text":"Pie chart",
+            "correct":false
+        },
+        {
+            "text":"Scatter plot",
+            "correct":false
+        }]}, {
+    "question":"What is the expected value of a random variable?",
+    "answers":[{
+        "text":"The long-term average outcome",
+        "correct":true
+    },
+        {
+            "text":"The most frequent outcome",
+            "correct":false
+        },
+        {
+            "text":"The middle value",
+            "correct":false
+        }]}, {
+    "question":"Which type of graph shows frequency of values using bars touching each other?",
+    "answers":[{
+        "text":"Histogram",
+        "correct":true
+    },
+        {
+            "text":"Bar chart",
+            "correct":false
+        },
+        {
+            "text":"Line chart",
+            "correct":false
+        }]}, {
+    "question":"Which type of graph is ideal for comparing categorical data?",
+    "answers":[{
+        "text":"Bar chart",
+        "correct":true
+    },
+        {
+            "text":"Histogram",
+            "correct":false
+        },
+        {
+            "text":"Line chart",
+            "correct":false
+        }]}, {
+    "question":"What is the probability of rolling a 4 or a 5 on a fair six-sided dice?",
+    "answers":[{
+        "text":"1/3",
+        "correct":true
+    },
+        {
+            "text":"1/2",
+            "correct":false
+        },
+        {
+            "text":"1/6",
+            "correct":false
+        }]}, {
+    "question":"Which distribution describes the number of occurrences in a fixed interval?",
+    "answers":[{
+        "text":"Poisson distribution",
+        "correct":true
+    },
+        {
+            "text":"Uniform distribution",
+            "correct":false
+        },
+        {
+            "text":"Binomial distribution",
+            "correct":false
+        }]}, {
+    "question":"Which measure of spread is the difference between maximum and minimum values?",
+    "answers":[{
+        "text":"Range",
+        "correct":true
+    },
+        {
+            "text":"Variance",
+            "correct":false
+        },
+        {
+            "text":"Standard deviation",
+            "correct":false
+        }]}, {
+    "question":"Which measure of central tendency is most appropriate for skewed data?",
+    "answers":[{
+        "text":"Median",
+        "correct":true
+    },
+        {
+            "text":"Mean",
+            "correct":false
+        },
+        {
+            "text":"Mode",
+            "correct":false
+        }]}, {
+    "question":"If two events are independent, what is true about their probabilities?",
+    "answers":[{
+        "text":"P(A and B) = P(A) × P(B)",
+        "correct":true
+    },
+        {
+            "text":"P(A and B) = P(A) + P(B)",
+            "correct":false
+        },
+        {
+            "text":"P(A|B) = 0",
+            "correct":false
+        }]}, {
+    "question":"What is the sum of probabilities for all outcomes in a sample space?",
+    "answers":[{
+        "text":"1",
+        "correct":true
+    },
+        {
+            "text":"0",
+            "correct":false
+        },
+        {
+            "text":"It depends",
+            "correct":false
+        }]}, {
+    "question":"Which graph is ideal to show the relationship between two numerical variables?",
+    "answers":[{
+        "text":"Scatter plot",
+        "correct":true
+    },
+        {
+            "text":"Bar chart",
+            "correct":false
+        },
+        {
+            "text":"Pie chart",
+            "correct":false
+        }]}, {
+    "question":"Which probability is measured for events that cannot occur simultaneously?",
+    "answers":[{
+        "text":"Mutually exclusive events",
+        "correct":true
+    },
+        {
+            "text":"Independent events",
+            "correct":false
+        },
+        {
+            "text":"Conditional events",
+            "correct":false
+        }]}, {
+    "question":"Which measure of central tendency is most appropriate for skewed data?",
+    "answers":[{
+        "text":"Median",
+        "correct":true
+    },
+        {
+            "text":"Mean",
+            "correct":false
+        },
+        {
+            "text":"Mode",
+            "correct":false
+        }]}, {
+    "question":"Which type of variable can take any value within an interval?",
+    "answers":[{
+        "text":"Continuous variable",
+        "correct":true
+    },
+        {
+            "text":"Discrete variable",
+            "correct":false
+        },
+        {
+            "text":"Categorical variable",
+            "correct":false
+        }]}, {
+    "question":"What is the probability of not getting a 3 when rolling a fair dice?",
+    "answers":[{
+        "text":"5/6",
+        "correct":true
+    },
+        {
+            "text":"1/3",
+            "correct":false
+        },
+        {
+            "text":"1/6",
+            "correct":false
+        }]]

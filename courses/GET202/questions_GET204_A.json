@@ -1,0 +1,300 @@
+[{
+    "question": "What is the primary purpose of a workshop?",
+    "answers": [{
+        "text": "To provide hands-on practical experience",
+        "correct": true
+    },
+        {
+            "text": "To watch demonstrations without practice",
+            "correct": false
+        },
+        {
+            "text": "To memorize theoretical concepts only",
+            "correct": false
+        }]
+},
+    {
+        "question": "Which safety equipment is essential in a workshop?",
+        "answers": [{
+            "text": "Safety goggles",
+            "correct": true
+        },
+            {
+                "text": "Shorts",
+                "correct": false
+            },
+            {
+                "text": "Casual shoes",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What should you do before using any machinery?",
+        "answers": [{
+            "text": "Use it without checking",
+            "correct": false
+        },
+            {
+                "text": "Inspect and understand its operation",
+                "correct": true
+            },
+            {
+                "text": "Turn it on immediately",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which of these is a hand tool?",
+        "answers": [{
+            "text": "Hammer",
+            "correct": true
+        },
+            {
+                "text": "Drill press",
+                "correct": false
+            },
+            {
+                "text": "Lathe machine",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Why should you keep the workshop clean?",
+        "answers": [{
+            "text": "To make it look pretty only",
+            "correct": false
+        },
+            {
+                "text": "To prevent accidents and ensure efficiency",
+                "correct": true
+            },
+            {
+                "text": "To avoid doing any work",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which material is commonly used in workshop fabrication?",
+        "answers": [{
+            "text": "Cloth",
+            "correct": false
+        },
+            {
+                "text": "Metal",
+                "correct": true
+            },
+            {
+                "text": "Paper only",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What does PPE stand for in workshop safety?",
+        "answers": [{
+            "text": "Professional Practical Exercise",
+            "correct": false
+        },
+            {
+                "text": "Personal Protective Equipment",
+                "correct": true
+            },
+            {
+                "text": "Private Protection Essentials",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which tool is used to measure length accurately?",
+        "answers": [{
+            "text": "Vernier caliper",
+            "correct": true
+        },
+            {
+                "text": "Screwdriver",
+                "correct": false
+            },
+            {
+                "text": "Hammer",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What is the first step in workshop maintenance?",
+        "answers": [{
+            "text": "Lubricate while running",
+            "correct": false
+        },
+            {
+                "text": "Ignore maintenance",
+                "correct": false
+            },
+            {
+                "text": "Turn off and unplug machines",
+                "correct": true
+            }]
+    },
+    {
+        "question": "Why is proper posture important when working?",
+        "answers": [{
+            "text": "It doesn’t matter",
+            "correct": false
+        },
+            {
+                "text": "To prevent injuries and strain",
+                "correct": true
+            },
+            {
+                "text": "To look more professional only",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which of these is a power tool?",
+        "answers": [{
+            "text": "Hand saw",
+            "correct": false
+        },
+            {
+                "text": "Electric drill",
+                "correct": true
+            },
+            {
+                "text": "Screwdriver",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What should you do in case of a fire?",
+        "answers": [{
+            "text": "Use a fire extinguisher and alert others",
+            "correct": true
+        },
+            {
+                "text": "Ignore it",
+                "correct": false
+            },
+            {
+                "text": "Run and leave everyone behind",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which substance is used to lubricate machines?",
+        "answers": [{
+            "text": "Oil",
+            "correct": true
+        },
+            {
+                "text": "Sand",
+                "correct": false
+            },
+            {
+                "text": "Water",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Why is correct tool selection important?",
+        "answers": [{
+            "text": "Because it looks nice",
+            "correct": false
+        },
+            {
+                "text": "To ensure safety and quality of work",
+                "correct": true
+            },
+            {
+                "text": "To waste time",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which of these is used for cutting metal?",
+        "answers": [{
+            "text": "Paintbrush",
+            "correct": false
+        },
+            {
+                "text": "Hacksaw",
+                "correct": true
+            },
+            {
+                "text": "Chisel for wood",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What is the function of a vice in a workshop?",
+        "answers": [{
+            "text": "To hold objects securely in place",
+            "correct": true
+        },
+            {
+                "text": "To paint surfaces",
+                "correct": false
+            },
+            {
+                "text": "To cut materials",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which of these is part of electrical safety?",
+        "answers": [{
+            "text": "Loose clothing near wires",
+            "correct": false
+        },
+            {
+                "text": "Insulated gloves",
+                "correct": true
+            },
+            {
+                "text": "Wet hands",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which machine is used to shape metal?",
+        "answers": [{
+            "text": "Lathe machine",
+            "correct": true
+        },
+            {
+                "text": "Paint sprayer",
+                "correct": false
+            },
+            {
+                "text": "Sawing machine for wood",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What is the main goal of workshop safety training?",
+        "answers": [{
+            "text": "Decorate the workshop",
+            "correct": false
+        },
+            {
+                "text": "Prevent accidents and injuries",
+                "correct": true
+            },
+            {
+                "text": "Learn theory only",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which tool is used for tightening screws?",
+        "answers": [{
+            "text": "Hammer",
+            "correct": false
+        },
+            {
+                "text": "Screwdriver",
+                "correct": true
+            },
+            {
+                "text": "Pliers",
+                "correct": false
+            }]
+    }]

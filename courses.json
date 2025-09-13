@@ -1,0 +1,60 @@
+[{
+    "id": "INS204",
+    "title": "INS 204",
+    "description": "System Analysis and Design"
+},
+    {
+        "id": "COS202",
+        "title": "COS 202",
+        "description": "Java Programming I"
+    },
+    {
+        "id": "SOE202",
+        "title": "SOE 202",
+        "description": "Requirements Engineering and Modelling"
+    },
+    {
+        "id": "SOE206",
+        "title": "SOE 206",
+        "description": "Embedded Systems Development"
+    },
+    {
+        "id": "MTH202",
+        "title": "MTH 202",
+        "description": "Ordinary Differential Equations"
+    },
+    {
+        "id": "IFT212",
+        "title": "IFT 212",
+        "description": "Computer Architecture"
+    },
+    {
+        "id": "GST212",
+        "title": "GST 212",
+        "description": "Logic and Philosophy"
+    },
+    {
+        "id": "STA112",
+        "title": "STA 112",
+        "description": "Probability and Statistics"
+    },
+    {
+        "id": "ILS212",
+        "title": "ILS 212",
+        "description": "Information Literacy Skills"
+    },
+    {
+        "id": "GET204",
+        "title": "GET 204",
+        "description": "Workshop Practices"
+    },
+    {
+        "id": "PHY101",
+        "title": "PHY 101",
+        "description": "Fundamentals of Physics"
+    },
+    {
+        "id": "CHE105",
+        "title": "CHE 105",
+        "description": "Introduction to Chemistry"
+    }]

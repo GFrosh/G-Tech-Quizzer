@@ -1,0 +1,300 @@
+[{
+    "question": "Which of these is an input device?",
+    "answers": [{
+        "text": "Keyboard",
+        "correct": true
+    },
+        {
+            "text": "Monitor",
+            "correct": false
+        },
+        {
+            "text": "Printer",
+            "correct": false
+        }]
+},
+    {
+        "question": "Which of these is an output device?",
+        "answers": [{
+            "text": "Mouse",
+            "correct": false
+        },
+            {
+                "text": "Speaker",
+                "correct": true
+            },
+            {
+                "text": "Scanner",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which device is both input and output?",
+        "answers": [{
+            "text": "Touchscreen",
+            "correct": true
+        },
+            {
+                "text": "Printer",
+                "correct": false
+            },
+            {
+                "text": "Keyboard",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What does I/O stand for?",
+        "answers": [{
+            "text": "Input/Output",
+            "correct": true
+        },
+            {
+                "text": "Inside/Outside",
+                "correct": false
+            },
+            {
+                "text": "Insert/Overwrite",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which storage device uses spinning magnetic disks?",
+        "answers": [{
+            "text": "Hard Disk Drive (HDD)",
+            "correct": true
+        },
+            {
+                "text": "Solid State Drive (SSD)",
+                "correct": false
+            },
+            {
+                "text": "Flash Drive",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which storage device has no moving parts and is faster?",
+        "answers": [{
+            "text": "SSD",
+            "correct": true
+        },
+            {
+                "text": "HDD",
+                "correct": false
+            },
+            {
+                "text": "Floppy Disk",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which device is used for permanent data storage?",
+        "answers": [{
+            "text": "RAM",
+            "correct": false
+        },
+            {
+                "text": "Hard disk",
+                "correct": true
+            },
+            {
+                "text": "Cache",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which of these is NOT an input device?",
+        "answers": [{
+            "text": "Scanner",
+            "correct": false
+        },
+            {
+                "text": "Keyboard",
+                "correct": false
+            },
+            {
+                "text": "Projector",
+                "correct": true
+            }]
+    },
+    {
+        "question": "Which of these is an example of optical storage?",
+        "answers": [{
+            "text": "CD",
+            "correct": true
+        },
+            {
+                "text": "SSD",
+                "correct": false
+            },
+            {
+                "text": "Flash drive",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which I/O device converts printed text into digital form?",
+        "answers": [{
+            "text": "Scanner",
+            "correct": true
+        },
+            {
+                "text": "Printer",
+                "correct": false
+            },
+            {
+                "text": "Monitor",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What is the main function of an output device?",
+        "answers": [{
+            "text": "To display or present information",
+            "correct": true
+        },
+            {
+                "text": "To capture information",
+                "correct": false
+            },
+            {
+                "text": "To store information",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which of these is an example of secondary storage?",
+        "answers": [{
+            "text": "Hard disk",
+            "correct": true
+        },
+            {
+                "text": "Register",
+                "correct": false
+            },
+            {
+                "text": "Cache",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What type of storage is a USB flash drive?",
+        "answers": [{
+            "text": "Solid-state storage",
+            "correct": true
+        },
+            {
+                "text": "Magnetic storage",
+                "correct": false
+            },
+            {
+                "text": "Optical storage",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which of these is a pointing device?",
+        "answers": [{
+            "text": "Mouse",
+            "correct": true
+        },
+            {
+                "text": "Printer",
+                "correct": false
+            },
+            {
+                "text": "Keyboard",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which of these storage types is the slowest?",
+        "answers": [{
+            "text": "Hard disk",
+            "correct": true
+        },
+            {
+                "text": "RAM",
+                "correct": false
+            },
+            {
+                "text": "Cache",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which storage medium is erasable and reusable?",
+        "answers": [{
+            "text": "CD-RW",
+            "correct": true
+        },
+            {
+                "text": "CD-ROM",
+                "correct": false
+            },
+            {
+                "text": "DVD-ROM",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What is the function of device drivers in I/O?",
+        "answers": [{
+            "text": "They act as translators between hardware and OS",
+            "correct": true
+        },
+            {
+                "text": "They provide electricity to devices",
+                "correct": false
+            },
+            {
+                "text": "They clean storage devices",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which of these is the largest capacity storage device?",
+        "answers": [{
+            "text": "Blu-ray disc",
+            "correct": false
+        },
+            {
+                "text": "Hard disk",
+                "correct": true
+            },
+            {
+                "text": "Floppy disk",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which of these is an example of an output device?",
+        "answers": [{
+            "text": "Projector",
+            "correct": true
+        },
+            {
+                "text": "Mouse",
+                "correct": false
+            },
+            {
+                "text": "Scanner",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which device is used to produce a hard copy of documents?",
+        "answers": [{
+            "text": "Printer",
+            "correct": true
+        },
+            {
+                "text": "Monitor",
+                "correct": false
+            },
+            {
+                "text": "Plotter",
+                "correct": false
+            }]
+    }]

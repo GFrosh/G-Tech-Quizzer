@@ -1,0 +1,261 @@
+[{
+    "question":"Which tool is used for cutting metal pipes?",
+    "answers":[{
+        "text":"Handsaw",
+        "correct":false
+    },
+        {
+            "text":"Coping saw",
+            "correct":false
+        },
+        {
+            "text":"Hacksaw",
+            "correct":true
+        }]}, {
+    "question":"Which protective gear should be worn when grinding metal?",
+    "answers":[{
+        "text":"Safety goggles",
+        "correct":true
+    },
+        {
+            "text":"Ear muffs only",
+            "correct":false
+        },
+        {
+            "text":"Gloves only",
+            "correct":false
+        }]}, {
+    "question":"Why is it important to know tool specifications?",
+    "answers":[{
+        "text":"It is unnecessary",
+        "correct":false
+    },
+        {
+            "text":"To ensure correct usage and safety",
+            "correct":true
+        },
+        {
+            "text":"To make the workshop look professional",
+            "correct":false
+        }]}, {
+    "question":"Which tool is used for shaping wood?",
+    "answers":[{
+        "text":"Chisel",
+        "correct":true
+    },
+        {
+            "text":"Wrench",
+            "correct":false
+        },
+        {
+            "text":"Hammer",
+            "correct":false
+        }]}, {
+    "question":"What is the main use of a lathe machine?",
+    "answers":[{
+        "text":"Cutting paper",
+        "correct":false
+    },
+        {
+            "text":"Shaping cylindrical materials",
+            "correct":true
+        },
+        {
+            "text":"Measuring lengths",
+            "correct":false
+        }]}, {
+    "question":"Which tool is used to grip small objects?",
+    "answers":[{
+        "text":"Pliers",
+        "correct":true
+    },
+        {
+            "text":"Screwdriver",
+            "correct":false
+        },
+        {
+            "text":"Hammer",
+            "correct":false
+        }]}, {
+    "question":"Which safety measure prevents electrical accidents?",
+    "answers":[{
+        "text":"Ignoring faulty wires",
+        "correct":false
+    },
+        {
+            "text":"Using insulated gloves",
+            "correct":true
+        },
+        {
+            "text":"Wearing sandals",
+            "correct":false
+        }]}, {
+    "question":"Why should machines be turned off before maintenance?",
+    "answers":[{
+        "text":"It is optional",
+        "correct":false
+    },
+        {
+            "text":"To save time",
+            "correct":false
+        },
+        {
+            "text":"To prevent accidents",
+            "correct":true
+        }]}, {
+    "question":"Which tool is used for measuring angles in metal work?",
+    "answers":[{
+        "text":"Protractor",
+        "correct":true
+    },
+        {
+            "text":"Caliper",
+            "correct":false
+        },
+        {
+            "text":"Ruler",
+            "correct":false
+        }]}, {
+    "question":"Which tool is used for sanding wood surfaces?",
+    "answers":[{
+        "text":"Sandpaper",
+        "correct":true
+    },
+        {
+            "text":"Hammer",
+            "correct":false
+        },
+        {
+            "text":"Chisel",
+            "correct":false
+        }]}, {
+    "question":"Which tool is used for measuring internal diameters?",
+    "answers":[{
+        "text":"Inside caliper",
+        "correct":true
+    },
+        {
+            "text":"Vernier caliper",
+            "correct":false
+        },
+        {
+            "text":"Ruler",
+            "correct":false
+        }]}, {
+    "question":"Which material is typically used in workshop welding?",
+    "answers":[{
+        "text":"Metal",
+        "correct":true
+    },
+        {
+            "text":"Wood",
+            "correct":false
+        },
+        {
+            "text":"Plastic",
+            "correct":false
+        }]}, {
+    "question":"What is the primary purpose of a workbench vice?",
+    "answers":[{
+        "text":"To polish surfaces",
+        "correct":false
+    },
+        {
+            "text":"To hold objects firmly",
+            "correct":true
+        },
+        {
+            "text":"To cut materials",
+            "correct":false
+        }]}, {
+    "question":"Which tool is used to cut bolts and wires?",
+    "answers":[{
+        "text":"Wire cutter",
+        "correct":true
+    },
+        {
+            "text":"Screwdriver",
+            "correct":false
+        },
+        {
+            "text":"Pliers",
+            "correct":false
+        }]}, {
+    "question":"Which safety gear is needed when handling chemicals?",
+    "answers":[{
+        "text":"Gloves and goggles",
+        "correct":true
+    },
+        {
+            "text":"Helmet",
+            "correct":false
+        },
+        {
+            "text":"Ear muffs",
+            "correct":false
+        }]}, {
+    "question":"Why is proper lighting important in a workshop?",
+    "answers":[{
+        "text":"For decoration",
+        "correct":false
+    },
+        {
+            "text":"It doesn’t matter",
+            "correct":false
+        },
+        {
+            "text":"To prevent accidents and improve accuracy",
+            "correct":true
+        }]}, {
+    "question":"Which tool is used for measuring thickness?",
+    "answers":[{
+        "text":"Micrometer",
+        "correct":true
+    },
+        {
+            "text":"Protractor",
+            "correct":false
+        },
+        {
+            "text":"Ruler",
+            "correct":false
+        }]}, {
+    "question":"Which device prevents machines from overheating?",
+    "answers":[{
+        "text":"Cooling fan",
+        "correct":true
+    },
+        {
+            "text":"Sandpaper",
+            "correct":false
+        },
+        {
+            "text":"Hammer",
+            "correct":false
+        }]}, {
+    "question":"Which tool is used for tightening screws?",
+    "answers":[{
+        "text":"Wrench",
+        "correct":false
+    },
+        {
+            "text":"Screwdriver",
+            "correct":true
+        },
+        {
+            "text":"Hammer",
+            "correct":false
+        }]}, {
+    "question":"Which item should be used to store flammable liquids safely?",
+    "answers":[{
+        "text":"Open bucket",
+        "correct":false
+    },
+        {
+            "text":"Approved safety container",
+            "correct":true
+        },
+        {
+            "text":"Glass jar",
+            "correct":false
+        }]}]

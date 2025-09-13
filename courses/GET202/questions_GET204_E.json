@@ -1,0 +1,261 @@
+[{
+    "question":"Which tool is used for leveling surfaces?",
+    "answers":[{
+        "text":"Spirit level",
+        "correct":true
+    },
+        {
+            "text":"Chisel",
+            "correct":false
+        },
+        {
+            "text":"Hammer",
+            "correct":false
+        }]}, {
+    "question":"What is the main purpose of a welding helmet?",
+    "answers":[{
+        "text":"To protect eyes and face from sparks",
+        "correct":true
+    },
+        {
+            "text":"To measure temperature",
+            "correct":false
+        },
+        {
+            "text":"To polish metal",
+            "correct":false
+        }]}, {
+    "question":"Which tool is used to measure flat surfaces accurately?",
+    "answers":[{
+        "text":"Hammer",
+        "correct":false
+    },
+        {
+            "text":"Caliper",
+            "correct":false
+        },
+        {
+            "text":"Steel ruler",
+            "correct":true
+        }]}, {
+    "question":"Which machine is used to smooth rough surfaces?",
+    "answers":[{
+        "text":"Lathe machine",
+        "correct":false
+    },
+        {
+            "text":"Bench grinder",
+            "correct":true
+        },
+        {
+            "text":"Drill press",
+            "correct":false
+        }]}, {
+    "question":"Which tool is used for bending wires?",
+    "answers":[{
+        "text":"Pliers",
+        "correct":true
+    },
+        {
+            "text":"Hammer",
+            "correct":false
+        },
+        {
+            "text":"Screwdriver",
+            "correct":false
+        }]}, {
+    "question":"Which safety measure protects hands from cuts?",
+    "answers":[{
+        "text":"Wearing gloves",
+        "correct":true
+    },
+        {
+            "text":"Wearing goggles",
+            "correct":false
+        },
+        {
+            "text":"Wearing ear muffs",
+            "correct":false
+        }]}, {
+    "question":"Why should workshop floors be kept dry?",
+    "answers":[{
+        "text":"To prevent slips and accidents",
+        "correct":true
+    },
+        {
+            "text":"To save cleaning time",
+            "correct":false
+        },
+        {
+            "text":"It is unnecessary",
+            "correct":false
+        }]}, {
+    "question":"Which tool is used for cutting wood precisely?",
+    "answers":[{
+        "text":"Chisel",
+        "correct":false
+    },
+        {
+            "text":"Handsaw",
+            "correct":true
+        },
+        {
+            "text":"Hammer",
+            "correct":false
+        }]}, {
+    "question":"Which device prevents sparks from starting a fire?",
+    "answers":[{
+        "text":"Fire extinguisher",
+        "correct":true
+    },
+        {
+            "text":"Sandpaper",
+            "correct":false
+        },
+        {
+            "text":"Wrench",
+            "correct":false
+        }]}, {
+    "question":"Which tool is used to measure external diameters?",
+    "answers":[{
+        "text":"Micrometer",
+        "correct":false
+    },
+        {
+            "text":"Outside caliper",
+            "correct":true
+        },
+        {
+            "text":"Ruler",
+            "correct":false
+        }]}, {
+    "question":"Why should machines be properly grounded?",
+    "answers":[{
+        "text":"To prevent electrical shocks",
+        "correct":true
+    },
+        {
+            "text":"To make them faster",
+            "correct":false
+        },
+        {
+            "text":"It is optional",
+            "correct":false
+        }]}, {
+    "question":"Which protective gear is needed when painting?",
+    "answers":[{
+        "text":"Ear muffs",
+        "correct":false
+    },
+        {
+            "text":"Safety shoes only",
+            "correct":false
+        },
+        {
+            "text":"Mask and gloves",
+            "correct":true
+        }]}, {
+    "question":"Which tool is used to split wood?",
+    "answers":[{
+        "text":"Chopping axe",
+        "correct":true
+    },
+        {
+            "text":"Screwdriver",
+            "correct":false
+        },
+        {
+            "text":"Hammer",
+            "correct":false
+        }]}, {
+    "question":"Which material should not be near sparks?",
+    "answers":[{
+        "text":"Metal",
+        "correct":false
+    },
+        {
+            "text":"Wood",
+            "correct":false
+        },
+        {
+            "text":"Flammable liquids",
+            "correct":true
+        }]}, {
+    "question":"Which device is used to measure current in a circuit?",
+    "answers":[{
+        "text":"Voltmeter",
+        "correct":false
+    },
+        {
+            "text":"Ammeter",
+            "correct":true
+        },
+        {
+            "text":"Multimeter on voltage mode",
+            "correct":false
+        }]}, {
+    "question":"Which tool is used for holding objects during soldering?",
+    "answers":[{
+        "text":"Helping hands clamp",
+        "correct":true
+    },
+        {
+            "text":"Pliers",
+            "correct":false
+        },
+        {
+            "text":"Hammer",
+            "correct":false
+        }]}, {
+    "question":"Why should chemicals be labeled properly?",
+    "answers":[{
+        "text":"It is unnecessary",
+        "correct":false
+    },
+        {
+            "text":"To prevent misuse and accidents",
+            "correct":true
+        },
+        {
+            "text":"To make them look neat",
+            "correct":false
+        }]}, {
+    "question":"Which tool is used to cut tiles accurately?",
+    "answers":[{
+        "text":"Hacksaw",
+        "correct":false
+    },
+        {
+            "text":"Tile cutter",
+            "correct":true
+        },
+        {
+            "text":"Handsaw",
+            "correct":false
+        }]}, {
+    "question":"Which tool is used to remove small metal burrs?",
+    "answers":[{
+        "text":"File",
+        "correct":true
+    },
+        {
+            "text":"Hammer",
+            "correct":false
+        },
+        {
+            "text":"Chisel",
+            "correct":false
+        }]}, {
+    "question":"Which device prevents static electricity damage?",
+    "answers":[{
+        "text":"Anti-static mat",
+        "correct":true
+    },
+        {
+            "text":"Wooden table",
+            "correct":false
+        },
+        {
+            "text":"Rubber gloves",
+            "correct":false
+        }]}]

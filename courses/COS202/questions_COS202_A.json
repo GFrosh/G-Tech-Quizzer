@@ -1,0 +1,300 @@
+[{
+    "question": "Which keyword is used to define a class in Java?",
+    "answers": [{
+        "text": "class",
+        "correct": true
+    },
+        {
+            "text": "define",
+            "correct": false
+        },
+        {
+            "text": "struct",
+            "correct": false
+        }]
+},
+    {
+        "question": "Which symbol is used to end a statement in Java?",
+        "answers": [{
+            "text": ":",
+            "correct": false
+        },
+            {
+                "text": ";",
+                "correct": true
+            },
+            {
+                "text": ".",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which method is the entry point of a Java program?",
+        "answers": [{
+            "text": "start()",
+            "correct": false
+        },
+            {
+                "text": "main()",
+                "correct": true
+            },
+            {
+                "text": "run()",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What is the default value of an int variable in Java?",
+        "answers": [{
+            "text": "0",
+            "correct": true
+        },
+            {
+                "text": "null",
+                "correct": false
+            },
+            {
+                "text": "undefined",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which operator is used for string concatenation in Java?",
+        "answers": [{
+            "text": "+",
+            "correct": true
+        },
+            {
+                "text": "&",
+                "correct": false
+            },
+            {
+                "text": "*",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which of these is not a Java primitive data type?",
+        "answers": [{
+            "text": "boolean",
+            "correct": false
+        },
+            {
+                "text": "String",
+                "correct": true
+            },
+            {
+                "text": "double",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which keyword is used to inherit a class in Java?",
+        "answers": [{
+            "text": "extends",
+            "correct": true
+        },
+            {
+                "text": "inherits",
+                "correct": false
+            },
+            {
+                "text": "implements",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which keyword is used to create an object in Java?",
+        "answers": [{
+            "text": "new",
+            "correct": true
+        },
+            {
+                "text": "object",
+                "correct": false
+            },
+            {
+                "text": "create",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which package is imported by default in every Java program?",
+        "answers": [{
+            "text": "java.util",
+            "correct": false
+        },
+            {
+                "text": "java.lang",
+                "correct": true
+            },
+            {
+                "text": "java.io",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What is used to handle exceptions in Java?",
+        "answers": [{
+            "text": "try-catch",
+            "correct": true
+        },
+            {
+                "text": "if-else",
+                "correct": false
+            },
+            {
+                "text": "throw-catch",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which keyword is used to stop a loop?",
+        "answers": [{
+            "text": "exit",
+            "correct": false
+        },
+            {
+                "text": "break",
+                "correct": true
+            },
+            {
+                "text": "stop",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which operator is used for equality comparison in Java?",
+        "answers": [{
+            "text": "=",
+            "correct": false
+        },
+            {
+                "text": "==",
+                "correct": true
+            },
+            {
+                "text": "===",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which method is called automatically when an object is created?",
+        "answers": [{
+            "text": "constructor",
+            "correct": true
+        },
+            {
+                "text": "main()",
+                "correct": false
+            },
+            {
+                "text": "init()",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which keyword is used to prevent a variable from being modified?",
+        "answers": [{
+            "text": "static",
+            "correct": false
+        },
+            {
+                "text": "const",
+                "correct": false
+            },
+            {
+                "text": "final",
+                "correct": true
+            }]
+    },
+    {
+        "question": "Which access modifier makes a member accessible only within the same class?",
+        "answers": [{
+            "text": "private",
+            "correct": true
+        },
+            {
+                "text": "protected",
+                "correct": false
+            },
+            {
+                "text": "public",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which loop is guaranteed to run at least once?",
+        "answers": [{
+            "text": "do-while",
+            "correct": true
+        },
+            {
+                "text": "for",
+                "correct": false
+            },
+            {
+                "text": "while",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which keyword is used to refer to the current object?",
+        "answers": [{
+            "text": "this",
+            "correct": true
+        },
+            {
+                "text": "self",
+                "correct": false
+            },
+            {
+                "text": "me",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which keyword is used to define an interface in Java?",
+        "answers": [{
+            "text": "interface",
+            "correct": true
+        },
+            {
+                "text": "protocol",
+                "correct": false
+            },
+            {
+                "text": "implements",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which function is used to print output in Java?",
+        "answers": [{
+            "text": "System.out.print()",
+            "correct": true
+        },
+            {
+                "text": "print()",
+                "correct": false
+            },
+            {
+                "text": "echo()",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What will happen if you divide a number by zero in Java?",
+        "answers": [{
+            "text": "It will throw an ArithmeticException",
+            "correct": true
+        },
+            {
+                "text": "It returns 0",
+                "correct": false
+            },
+            {
+                "text": "It will crash the computer",
+                "correct": false
+            }]
+    }]

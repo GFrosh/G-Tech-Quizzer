@@ -1,0 +1,300 @@
+[{
+    "question": "Which of the following is a feature of a scholarly article?",
+    "answers": [{
+        "text": "Includes references and citations",
+        "correct": true
+    },
+        {
+            "text": "Written as a blog post",
+            "correct": false
+        },
+        {
+            "text": "Mostly personal opinions",
+            "correct": false
+        }]
+},
+    {
+        "question": "Which of these is a benefit of evaluating sources?",
+        "answers": [{
+            "text": "Ensures reliability and credibility of information",
+            "correct": true
+        },
+            {
+                "text": "Makes research longer",
+                "correct": false
+            },
+            {
+                "text": "Eliminates the need for citations",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What is a research question?",
+        "answers": [{
+            "text": "A specific question guiding your investigation",
+            "correct": true
+        },
+            {
+                "text": "A random trivia question",
+                "correct": false
+            },
+            {
+                "text": "The title of a book",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which tool can help detect plagiarism?",
+        "answers": [{
+            "text": "Turnitin",
+            "correct": true
+        },
+            {
+                "text": "Microsoft Paint",
+                "correct": false
+            },
+            {
+                "text": "Google Maps",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What is a reference manager?",
+        "answers": [{
+            "text": "Software that organizes citations and references",
+            "correct": true
+        },
+            {
+                "text": "A person who manages the library",
+                "correct": false
+            },
+            {
+                "text": "A search engine",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which is an example of unreliable information?",
+        "answers": [{
+            "text": "An anonymous forum post",
+            "correct": true
+        },
+            {
+                "text": "Peer-reviewed journal article",
+                "correct": false
+            },
+            {
+                "text": "Government statistics",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which of these is a sign of bias in a source?",
+        "answers": [{
+            "text": "Presents opinions as facts",
+            "correct": true
+        },
+            {
+                "text": "Uses objective data and references",
+                "correct": false
+            },
+            {
+                "text": "Contains charts and graphs",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which part of an article explains the research method?",
+        "answers": [{
+            "text": "Methodology section",
+            "correct": true
+        },
+            {
+                "text": "Introduction",
+                "correct": false
+            },
+            {
+                "text": "References",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What is the purpose of a table of contents?",
+        "answers": [{
+            "text": "Helps locate sections in a book or document",
+            "correct": true
+        },
+            {
+                "text": "Summarises all references",
+                "correct": false
+            },
+            {
+                "text": "Displays author credentials",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What is peer review?",
+        "answers": [{
+            "text": "Evaluation of work by experts in the field",
+            "correct": true
+        },
+            {
+                "text": "Review by students in a class",
+                "correct": false
+            },
+            {
+                "text": "Reading a book aloud",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which of the following helps improve search efficiency?",
+        "answers": [{
+            "text": "Using keywords and Boolean operators",
+            "correct": true
+        },
+            {
+                "text": "Randomly typing phrases",
+                "correct": false
+            },
+            {
+                "text": "Ignoring spelling errors",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What is the purpose of a literature map?",
+        "answers": [{
+            "text": "Shows relationships among research studies",
+            "correct": true
+        },
+            {
+                "text": "Shows library floor plan",
+                "correct": false
+            },
+            {
+                "text": "Tracks personal study hours",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which type of source is generally considered the most reliable?",
+        "answers": [{
+            "text": "Peer-reviewed journal articles",
+            "correct": true
+        },
+            {
+                "text": "Wikipedia articles",
+                "correct": false
+            },
+            {
+                "text": "Social media posts",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which of the following is a primary consideration when evaluating a website?",
+        "answers": [{
+            "text": "Author credibility and accuracy",
+            "correct": true
+        },
+            {
+                "text": "Background colour",
+                "correct": false
+            },
+            {
+                "text": "Number of pictures",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What is a DOI useful for?",
+        "answers": [{
+            "text": "Permanently identifying digital content",
+            "correct": true
+        },
+            {
+                "text": "Calculating citation count",
+                "correct": false
+            },
+            {
+                "text": "Sorting files alphabetically",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which of these describes copyright?",
+        "answers": [{
+            "text": "Legal protection of original work",
+            "correct": true
+        },
+            {
+                "text": "Using content freely without permission",
+                "correct": false
+            },
+            {
+                "text": "Public domain material",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which search technique helps include synonyms?",
+        "answers": [{
+            "text": "Truncation and Boolean OR",
+            "correct": true
+        },
+            {
+                "text": "Using quotes for exact match",
+                "correct": false
+            },
+            {
+                "text": "Excluding terms with NOT",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which of these can indicate a source is outdated?",
+        "answers": [{
+            "text": "References older than 10 years in a fast-moving field",
+            "correct": true
+        },
+            {
+                "text": "Cited by many authors recently",
+                "correct": false
+            },
+            {
+                "text": "Published in a peer-reviewed journal",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What is a research gap?",
+        "answers": [{
+            "text": "An area lacking sufficient study",
+            "correct": true
+        },
+            {
+                "text": "The conclusion of a study",
+                "correct": false
+            },
+            {
+                "text": "A section in the appendix",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which of the following demonstrates ethical use of information?",
+        "answers": [{
+            "text": "Citing all sources correctly",
+            "correct": true
+        },
+            {
+                "text": "Copying without permission",
+                "correct": false
+            },
+            {
+                "text": "Fabricating data",
+                "correct": false
+            }]
+    }]

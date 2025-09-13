@@ -1,0 +1,300 @@
+[{
+    "question": "Which keyword is used to declare a class as a blueprint only, without implementation?",
+    "answers": [{
+        "text": "abstract",
+        "correct": true
+    },
+        {
+            "text": "interface",
+            "correct": false
+        },
+        {
+            "text": "virtual",
+            "correct": false
+        }]
+},
+    {
+        "question": "Which data type is used for decimal numbers in Java?",
+        "answers": [{
+            "text": "double",
+            "correct": true
+        },
+            {
+                "text": "char",
+                "correct": false
+            },
+            {
+                "text": "boolean",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which statement is used to handle multiple conditions in Java?",
+        "answers": [{
+            "text": "if-else",
+            "correct": false
+        },
+            {
+                "text": "switch",
+                "correct": true
+            },
+            {
+                "text": "loop",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which method is automatically called when an object is converted to a string?",
+        "answers": [{
+            "text": "toString()",
+            "correct": true
+        },
+            {
+                "text": "stringify()",
+                "correct": false
+            },
+            {
+                "text": "convert()",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which keyword is used to refer to the parent class?",
+        "answers": [{
+            "text": "parent",
+            "correct": false
+        },
+            {
+                "text": "super",
+                "correct": true
+            },
+            {
+                "text": "base",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which collection allows storing key-value pairs?",
+        "answers": [{
+            "text": "Map",
+            "correct": true
+        },
+            {
+                "text": "List",
+                "correct": false
+            },
+            {
+                "text": "Set",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which loop is best when the number of iterations is known?",
+        "answers": [{
+            "text": "while",
+            "correct": false
+        },
+            {
+                "text": "for",
+                "correct": true
+            },
+            {
+                "text": "do-while",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which access modifier allows access from any class?",
+        "answers": [{
+            "text": "private",
+            "correct": false
+        },
+            {
+                "text": "protected",
+                "correct": false
+            },
+            {
+                "text": "public",
+                "correct": true
+            }]
+    },
+    {
+        "question": "Which keyword is used to declare an enumeration in Java?",
+        "answers": [{
+            "text": "enum",
+            "correct": true
+        },
+            {
+                "text": "enumeration",
+                "correct": false
+            },
+            {
+                "text": "enumtype",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which package contains the Scanner class?",
+        "answers": [{
+            "text": "java.io",
+            "correct": false
+        },
+            {
+                "text": "java.util",
+                "correct": true
+            },
+            {
+                "text": "java.lang",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which keyword is used to throw an exception?",
+        "answers": [{
+            "text": "throw",
+            "correct": true
+        },
+            {
+                "text": "throws",
+                "correct": false
+            },
+            {
+                "text": "error",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which keyword is used in a method signature to declare it may throw exceptions?",
+        "answers": [{
+            "text": "throw",
+            "correct": false
+        },
+            {
+                "text": "throws",
+                "correct": true
+            },
+            {
+                "text": "catch",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which class is used to read input from the console in Java?",
+        "answers": [{
+            "text": "System.in",
+            "correct": false
+        },
+            {
+                "text": "Scanner",
+                "correct": true
+            },
+            {
+                "text": "Reader",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which operator is used to create objects from classes?",
+        "answers": [{
+            "text": "new",
+            "correct": true
+        },
+            {
+                "text": "create",
+                "correct": false
+            },
+            {
+                "text": "alloc",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which collection class allows duplicate elements?",
+        "answers": [{
+            "text": "List",
+            "correct": true
+        },
+            {
+                "text": "Set",
+                "correct": false
+            },
+            {
+                "text": "HashSet",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which operator is used for conditional expressions in Java?",
+        "answers": [{
+            "text": "?:",
+            "correct": true
+        },
+            {
+                "text": "??",
+                "correct": false
+            },
+            {
+                "text": "if-else",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which keyword is used to create a package in Java?",
+        "answers": [{
+            "text": "package",
+            "correct": true
+        },
+            {
+                "text": "namespace",
+                "correct": false
+            },
+            {
+                "text": "module",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which of these is not an OOP principle?",
+        "answers": [{
+            "text": "Encapsulation",
+            "correct": false
+        },
+            {
+                "text": "Polymorphism",
+                "correct": false
+            },
+            {
+                "text": "Compilation",
+                "correct": true
+            }]
+    },
+    {
+        "question": "Which keyword is used to define a method that cannot be overridden?",
+        "answers": [{
+            "text": "final",
+            "correct": true
+        },
+            {
+                "text": "static",
+                "correct": false
+            },
+            {
+                "text": "protected",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which method in Java is used to compare two strings?",
+        "answers": [{
+            "text": "compare()",
+            "correct": false
+        },
+            {
+                "text": "equals()",
+                "correct": true
+            },
+            {
+                "text": "isEqual()",
+                "correct": false
+            }]
+    }]

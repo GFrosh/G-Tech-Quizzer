@@ -1,0 +1,261 @@
+[{
+    "question":"Which probability measures the chance of at least one of multiple events occurring?",
+    "answers":[{
+        "text":"Union probability",
+        "correct":true
+    },
+        {
+            "text":"Intersection probability",
+            "correct":false
+        },
+        {
+            "text":"Complement probability",
+            "correct":false
+        }]}, {
+    "question":"Which type of probability is calculated without considering other events?",
+    "answers":[{
+        "text":"Marginal probability",
+        "correct":true
+    },
+        {
+            "text":"Conditional probability",
+            "correct":false
+        },
+        {
+            "text":"Joint probability",
+            "correct":false
+        }]}, {
+    "question":"Which measure of spread is the square root of variance?",
+    "answers":[{
+        "text":"Standard deviation",
+        "correct":true
+    },
+        {
+            "text":"Range",
+            "correct":false
+        },
+        {
+            "text":"Interquartile range",
+            "correct":false
+        }]}, {
+    "question":"Which type of variable represents counts or whole numbers?",
+    "answers":[{
+        "text":"Discrete variable",
+        "correct":true
+    },
+        {
+            "text":"Continuous variable",
+            "correct":false
+        },
+        {
+            "text":"Categorical variable",
+            "correct":false
+        }]}, {
+    "question":"Which probability is for events that cannot happen simultaneously?",
+    "answers":[{
+        "text":"Mutually exclusive events",
+        "correct":true
+    },
+        {
+            "text":"Independent events",
+            "correct":false
+        },
+        {
+            "text":"Conditional events",
+            "correct":false
+        }]}, {
+    "question":"Which statistical measure is resistant to outliers?",
+    "answers":[{
+        "text":"Median",
+        "correct":true
+    },
+        {
+            "text":"Mean",
+            "correct":false
+        },
+        {
+            "text":"Variance",
+            "correct":false
+        }]}, {
+    "question":"Which type of graph shows trends over intervals of time?",
+    "answers":[{
+        "text":"Line chart",
+        "correct":true
+    },
+        {
+            "text":"Pie chart",
+            "correct":false
+        },
+        {
+            "text":"Histogram",
+            "correct":false
+        }]}, {
+    "question":"Which statistical measure represents the most frequently occurring value?",
+    "answers":[{
+        "text":"Mode",
+        "correct":true
+    },
+        {
+            "text":"Median",
+            "correct":false
+        },
+        {
+            "text":"Mean",
+            "correct":false
+        }]}, {
+    "question":"Which probability describes the chance of exactly one event occurring?",
+    "answers":[{
+        "text":"Exclusive probability",
+        "correct":true
+    },
+        {
+            "text":"Joint probability",
+            "correct":false
+        },
+        {
+            "text":"Conditional probability",
+            "correct":false
+        }]}, {
+    "question":"Which distribution counts successes in a fixed number of trials?",
+    "answers":[{
+        "text":"Binomial distribution",
+        "correct":true
+    },
+        {
+            "text":"Poisson distribution",
+            "correct":false
+        },
+        {
+            "text":"Normal distribution",
+            "correct":false
+        }]}, {
+    "question":"Which graph is used to display frequency of continuous data using touching bars?",
+    "answers":[{
+        "text":"Histogram",
+        "correct":true
+    },
+        {
+            "text":"Bar chart",
+            "correct":false
+        },
+        {
+            "text":"Pie chart",
+            "correct":false
+        }]}, {
+    "question":"Which type of variable can take any value within a range?",
+    "answers":[{
+        "text":"Continuous variable",
+        "correct":true
+    },
+        {
+            "text":"Discrete variable",
+            "correct":false
+        },
+        {
+            "text":"Categorical variable",
+            "correct":false
+        }]}, {
+    "question":"Which measure shows the middle value of an ordered dataset?",
+    "answers":[{
+        "text":"Median",
+        "correct":true
+    },
+        {
+            "text":"Mode",
+            "correct":false
+        },
+        {
+            "text":"Mean",
+            "correct":false
+        }]}, {
+    "question":"Which theorem allows calculation of conditional probabilities?",
+    "answers":[{
+        "text":"Bayes’ theorem",
+        "correct":true
+    },
+        {
+            "text":"Central limit theorem",
+            "correct":false
+        },
+        {
+            "text":"Law of total probability",
+            "correct":false
+        }]}, {
+    "question":"Which type of probability distribution is symmetric with mean = median = mode?",
+    "answers":[{
+        "text":"Normal distribution",
+        "correct":true
+    },
+        {
+            "text":"Poisson distribution",
+            "correct":false
+        },
+        {
+            "text":"Binomial distribution",
+            "correct":false
+        }]}, {
+    "question":"Which distribution approximates the binomial distribution when n is large and p is not too close to 0 or 1?",
+    "answers":[{
+        "text":"Normal distribution",
+        "correct":true
+    },
+        {
+            "text":"Poisson distribution",
+            "correct":false
+        },
+        {
+            "text":"Uniform distribution",
+            "correct":false
+        }]}, {
+    "question":"Which concept represents all possible outcomes of a random experiment?",
+    "answers":[{
+        "text":"Sample space",
+        "correct":true
+    },
+        {
+            "text":"Event",
+            "correct":false
+        },
+        {
+            "text":"Outcome",
+            "correct":false
+        }]}, {
+    "question":"Which probability is the chance that neither of two events occurs?",
+    "answers":[{
+        "text":"Complement of union",
+        "correct":true
+    },
+        {
+            "text":"Intersection probability",
+            "correct":false
+        },
+        {
+            "text":"Conditional probability",
+            "correct":false
+        }]}, {
+    "question":"Which measure of central tendency is affected by extreme values?",
+    "answers":[{
+        "text":"Mean",
+        "correct":true
+    },
+        {
+            "text":"Median",
+            "correct":false
+        },
+        {
+            "text":"Mode",
+            "correct":false
+        }]}, {
+    "question":"Which graph is best for showing proportions of a whole?",
+    "answers":[{
+        "text":"Pie chart",
+        "correct":true
+    },
+        {
+            "text":"Histogram",
+            "correct":false
+        },
+        {
+            "text":"Line chart",
+            "correct":false
+        }]}]

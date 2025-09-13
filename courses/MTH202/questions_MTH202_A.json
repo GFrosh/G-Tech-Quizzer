@@ -1,0 +1,300 @@
+[{
+    "question": "What does ODE stand for in mathematics?",
+    "answers": [{
+        "text": "Ordinary Differential Equation",
+        "correct": true
+    },
+        {
+            "text": "Original Difference Equation",
+            "correct": false
+        },
+        {
+            "text": "Ordered Data Expression",
+            "correct": false
+        }]
+},
+    {
+        "question": "Which of these is a first-order ODE?",
+        "answers": [{
+            "text": "dy/dx + y = 0",
+            "correct": true
+        },
+            {
+                "text": "d²y/dx² + y = 0",
+                "correct": false
+            },
+            {
+                "text": "y'' + y' + y = 0",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What is the general solution of dy/dx = 0?",
+        "answers": [{
+            "text": "y = c",
+            "correct": true
+        },
+            {
+                "text": "y = x",
+                "correct": false
+            },
+            {
+                "text": "y = 0",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which method is commonly used to solve first-order linear ODEs?",
+        "answers": [{
+            "text": "Laplace Transform",
+            "correct": false
+        },
+            {
+                "text": "Integrating factor",
+                "correct": true
+            },
+            {
+                "text": "Separation of variables",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What is the order of the ODE: d³y/dx³ + 2dy/dx = 0?",
+        "answers": [{
+            "text": "1",
+            "correct": false
+        },
+            {
+                "text": "3",
+                "correct": true
+            },
+            {
+                "text": "2",
+                "correct": false
+            }]
+    },
+    {
+        "question": "The equation dy/dx = ky, where k is constant, has which solution?",
+        "answers": [{
+            "text": "y = Ce^(kx)",
+            "correct": true
+        },
+            {
+                "text": "y = Ckx",
+                "correct": false
+            },
+            {
+                "text": "y = C + kx",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which ODE is linear?",
+        "answers": [{
+            "text": "y' + y² = 0",
+            "correct": false
+        },
+            {
+                "text": "y'' + 3y' + 2y = 0",
+                "correct": true
+            },
+            {
+                "text": "y' = y · y'",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What is the solution of dy/dx = x?",
+        "answers": [{
+            "text": "y = (x² / 2) + C",
+            "correct": true
+        },
+            {
+                "text": "y = x + C",
+                "correct": false
+            },
+            {
+                "text": "y = ln(x) + C",
+                "correct": false
+            }]
+    },
+    {
+        "question": "In dy/dx = f(x)g(y), which method is suitable?",
+        "answers": [{
+            "text": "Separation of variables",
+            "correct": true
+        },
+            {
+                "text": "Laplace Transform",
+                "correct": false
+            },
+            {
+                "text": "Matrix method",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What is the order of the equation y'' + y = 0?",
+        "answers": [{
+            "text": "2",
+            "correct": true
+        },
+            {
+                "text": "1",
+                "correct": false
+            },
+            {
+                "text": "0",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What does the term 'homogeneous ODE' mean?",
+        "answers": [{
+            "text": "An ODE with all terms dependent on y and its derivatives",
+            "correct": true
+        },
+            {
+                "text": "An ODE with constant coefficients",
+                "correct": false
+            },
+            {
+                "text": "An ODE with zero solution",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What is the integrating factor of dy/dx + P(x)y = Q(x)?",
+        "answers": [{
+            "text": "e^(∫P(x) dx)",
+            "correct": true
+        },
+            {
+                "text": "∫Q(x) dx",
+                "correct": false
+            },
+            {
+                "text": "ln(P(x))",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What is the degree of the ODE: (d²y/dx²)³ + dy/dx = 0?",
+        "answers": [{
+            "text": "3",
+            "correct": true
+        },
+            {
+                "text": "2",
+                "correct": false
+            },
+            {
+                "text": "1",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which ODE is separable?",
+        "answers": [{
+            "text": "dy/dx = x²y",
+            "correct": true
+        },
+            {
+                "text": "dy/dx + y = sin(x)",
+                "correct": false
+            },
+            {
+                "text": "y'' + y' = 0",
+                "correct": false
+            }]
+    },
+    {
+        "question": "If dy/dx = cos(x), what is y?",
+        "answers": [{
+            "text": "y = sin(x) + C",
+            "correct": true
+        },
+            {
+                "text": "y = cos(x) + C",
+                "correct": false
+            },
+            {
+                "text": "y = -sin(x) + C",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What is the auxiliary equation for y'' + 4y' + 4y = 0?",
+        "answers": [{
+            "text": "r² + 4r + 4 = 0",
+            "correct": true
+        },
+            {
+                "text": "r² - 4r + 4 = 0",
+                "correct": false
+            },
+            {
+                "text": "r² + 2r + 4 = 0",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What is the solution type of y'' + 9y = 0?",
+        "answers": [{
+            "text": "Oscillatory",
+            "correct": true
+        },
+            {
+                "text": "Exponential growth",
+                "correct": false
+            },
+            {
+                "text": "Constant",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What is the order of y' + sin(y) = 0?",
+        "answers": [{
+            "text": "1",
+            "correct": true
+        },
+            {
+                "text": "2",
+                "correct": false
+            },
+            {
+                "text": "0",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which function is a solution of y'' + y = 0?",
+        "answers": [{
+            "text": "y = sin(x)",
+            "correct": true
+        },
+            {
+                "text": "y = e^x",
+                "correct": false
+            },
+            {
+                "text": "y = ln(x)",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What does a particular solution of an ODE represent?",
+        "answers": [{
+            "text": "A specific solution that satisfies given initial conditions",
+            "correct": true
+        },
+            {
+                "text": "The most general solution",
+                "correct": false
+            },
+            {
+                "text": "A solution without constants",
+                "correct": false
+            }]
+    }]

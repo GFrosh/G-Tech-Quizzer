@@ -1,0 +1,274 @@
+[{
+    "question":"Which theorem explains the behavior of sample means as sample size increases?",
+    "answers":[{
+        "text":"Central limit theorem",
+        "correct":true
+    },
+        {
+            "text":"Law of large numbers",
+            "correct":false
+        },
+        {
+            "text":"Bayes’ theorem",
+            "correct":false
+        }]}, {
+    "question":"Which graph is used for continuous data and has touching bars?",
+    "answers":[{
+        "text":"Histogram",
+        "correct":true
+    },
+        {
+            "text":"Bar chart",
+            "correct":false
+        },
+        {
+            "text":"Line chart",
+            "correct":false
+        }]}, {
+    "question":"Which probability represents outcomes that are independent?",
+    "answers":[{
+        "text":"P(A and B) = P(A) × P(B)",
+        "correct":true
+    },
+        {
+            "text":"P(A or B) = P(A) + P(B)",
+            "correct":false
+        },
+        {
+            "text":"P(A|B) = 0",
+            "correct":false
+        }]}, {
+    "question":"Which measure represents the average of data?",
+    "answers":[{
+        "text":"Mean",
+        "correct":true
+    },
+        {
+            "text":"Median",
+            "correct":false
+        },
+        {
+            "text":"Mode",
+            "correct":false
+        }]}, {
+    "question":"Which measure indicates how far data spreads from the mean?",
+    "answers":[{
+        "text":"Standard deviation",
+        "correct":true
+    },
+        {
+            "text":"Median",
+            "correct":false
+        },
+        {
+            "text":"Mode",
+            "correct":false
+        }]}, {
+    "question":"Which statistic shows the most frequent value in a dataset?",
+    "answers":[{
+        "text":"Mode",
+        "correct":true
+    },
+        {
+            "text":"Median",
+            "correct":false
+        },
+        {
+            "text":"Mean",
+            "correct":false
+        }]}, {
+    "question":"Which type of variable can take any value within a range?",
+    "answers":[{
+        "text":"Continuous variable",
+        "correct":true
+    },
+        {
+            "text":"Discrete variable",
+            "correct":false
+        },
+        {
+            "text":"Categorical variable",
+            "correct":false
+        }]}, {
+    "question":"Which measure of central tendency divides ordered data into two equal parts?",
+    "answers":[{
+        "text":"Median",
+        "correct":true
+    },
+        {
+            "text":"Mean",
+            "correct":false
+        },
+        {
+            "text":"Mode",
+            "correct":false
+        }]}, {
+    "question":"Which probability is calculated for events that cannot happen at the same time?",
+    "answers":[{
+        "text":"Mutually exclusive events",
+        "correct":true
+    },
+        {
+            "text":"Independent events",
+            "correct":false
+        },
+        {
+            "text":"Conditional events",
+            "correct":false
+        }]}, {
+    "question":"Which type of graph shows trends over time?",
+    "answers":[{
+        "text":"Line chart",
+        "correct":true
+    },
+        {
+            "text":"Pie chart",
+            "correct":false
+        },
+        {
+            "text":"Histogram",
+            "correct":false
+        }]}, {
+    "question":"Which graph displays cumulative frequency?",
+    "answers":[{
+        "text":"Ogive",
+        "correct":true
+    },
+        {
+            "text":"Bar chart",
+            "correct":false
+        },
+        {
+            "text":"Pie chart",
+            "correct":false
+        }]}, {
+    "question":"Which distribution is appropriate for events with two possible outcomes?",
+    "answers":[{
+        "text":"Binomial distribution",
+        "correct":true
+    },
+        {
+            "text":"Normal distribution",
+            "correct":false
+        },
+        {
+            "text":"Poisson distribution",
+            "correct":false
+        }]}, {
+    "question":"Which distribution counts the number of successes in a fixed number of trials?",
+    "answers":[{
+        "text":"Binomial distribution",
+        "correct":true
+    },
+        {
+            "text":"Poisson distribution",
+            "correct":false
+        },
+        {
+            "text":"Normal distribution",
+            "correct":false
+        }]}, {
+    "question":"Which concept represents all possible outcomes?",
+    "answers":[{
+        "text":"Sample space",
+        "correct":true
+    },
+        {
+            "text":"Event",
+            "correct":false
+        },
+        {
+            "text":"Outcome",
+            "correct":false
+        }]}, {
+    "question":"Which measure summarises the middle 50% of data?",
+    "answers":[{
+        "text":"Interquartile range",
+        "correct":true
+    },
+        {
+            "text":"Range",
+            "correct":false
+        },
+        {
+            "text":"Standard deviation",
+            "correct":false
+        }]}, {
+    "question":"Which type of variable is described by categories with no order?",
+    "answers":[{
+        "text":"Nominal variable",
+        "correct":true
+    },
+        {
+            "text":"Ordinal variable",
+            "correct":false
+        },
+        {
+            "text":"Continuous variable",
+            "correct":false
+        }]}, {
+    "question":"Which theorem allows updating probabilities with new evidence?",
+    "answers":[{
+        "text":"Bayes’ theorem",
+        "correct":true
+    },
+        {
+            "text":"Central limit theorem",
+            "correct":false
+        },
+        {
+            "text":"Law of large numbers",
+            "correct":false
+        }]}, {
+    "question":"Which graph is best for showing part-to-whole relationships?",
+    "answers":[{
+        "text":"Pie chart",
+        "correct":true
+    },
+        {
+            "text":"Histogram",
+            "correct":false
+        },
+        {
+            "text":"Scatter plot",
+            "correct":false
+        }]}, {
+    "question":"Which statistic measures how closely two variables move together?",
+    "answers":[{
+        "text":"Correlation coefficient",
+        "correct":true
+    },
+        {
+            "text":"Variance",
+            "correct":false
+        },
+        {
+            "text":"Range",
+            "correct":false
+        }]}, {
+    "question":"Which measure of spread is resistant to extreme values?",
+    "answers":[{
+        "text":"Median",
+        "correct":true
+    },
+        {
+            "text":"Mean",
+            "correct":false
+        },
+        {
+            "text":"Variance",
+            "correct":false
+        }]}, {
+    "question":"Which probability is the chance of at least one of multiple events occurring?",
+    "answers":[{
+        "text":"Union probability",
+        "correct":true
+    },
+        {
+            "text":"Intersection probability",
+            "correct":false
+        },
+        {
+            "text":"Complement probability",
+            "correct":false
+        }]}]

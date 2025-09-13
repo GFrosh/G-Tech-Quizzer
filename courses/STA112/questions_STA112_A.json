@@ -1,0 +1,261 @@
+[{
+    "question":"Which chart displays data using slices to show proportions?",
+    "answers":[{
+        "text":"Pie chart",
+        "correct":true
+    },
+        {
+            "text":"Line chart",
+            "correct":false
+        },
+        {
+            "text":"Histogram",
+            "correct":false
+        }]}, {
+    "question":"What is the probability of getting a head when flipping a fair coin?",
+    "answers":[{
+        "text":"0.5",
+        "correct":true
+    },
+        {
+            "text":"1",
+            "correct":false
+        },
+        {
+            "text":"0.25",
+            "correct":false
+        }]}, {
+    "question":"Which measure represents the middle value of ordered data?",
+    "answers":[{
+        "text":"Mode",
+        "correct":false
+    },
+        {
+            "text":"Median",
+            "correct":true
+        },
+        {
+            "text":"Mean",
+            "correct":false
+        }]}, {
+    "question":"Which distribution is symmetric and bell-shaped?",
+    "answers":[{
+        "text":"Normal distribution",
+        "correct":true
+    },
+        {
+            "text":"Poisson distribution",
+            "correct":false
+        },
+        {
+            "text":"Uniform distribution",
+            "correct":false
+        }]}, {
+    "question":"Which chart is best to show trends over time?",
+    "answers":[{
+        "text":"Bar chart",
+        "correct":false
+    },
+        {
+            "text":"Line chart",
+            "correct":true
+        },
+        {
+            "text":"Pie chart",
+            "correct":false
+        }]}, {
+    "question":"Which measure indicates the average of a dataset?",
+    "answers":[{
+        "text":"Mean",
+        "correct":true
+    },
+        {
+            "text":"Range",
+            "correct":false
+        },
+        {
+            "text":"Variance",
+            "correct":false
+        }]}, {
+    "question":"Which probability is calculated when events cannot occur at the same time?",
+    "answers":[{
+        "text":"Mutually exclusive probability",
+        "correct":true
+    },
+        {
+            "text":"Conditional probability",
+            "correct":false
+        },
+        {
+            "text":"Independent probability",
+            "correct":false
+        }]}, {
+    "question":"Which value appears most frequently in a dataset?",
+    "answers":[{
+        "text":"Median",
+        "correct":false
+    },
+        {
+            "text":"Mode",
+            "correct":true
+        },
+        {
+            "text":"Mean",
+            "correct":false
+        }]}, {
+    "question":"What does a cumulative frequency graph show?",
+    "answers":[{
+        "text":"Total number of observations up to each value",
+        "correct":true
+    },
+        {
+            "text":"Maximum value",
+            "correct":false
+        },
+        {
+            "text":"Mean of observations",
+            "correct":false
+        }]}, {
+    "question":"What does variance measure?",
+    "answers":[{
+        "text":"Spread of data from the mean",
+        "correct":true
+    },
+        {
+            "text":"The median",
+            "correct":false
+        },
+        {
+            "text":"The highest value",
+            "correct":false
+        }]}, {
+    "question":"What is the sum of all probabilities in a probability distribution?",
+    "answers":[{
+        "text":"1",
+        "correct":true
+    },
+        {
+            "text":"0",
+            "correct":false
+        },
+        {
+            "text":"0.5",
+            "correct":false
+        }]}, {
+    "question":"Which plot is best for showing frequency distribution of continuous data?",
+    "answers":[{
+        "text":"Pie chart",
+        "correct":false
+    },
+        {
+            "text":"Histogram",
+            "correct":true
+        },
+        {
+            "text":"Bar chart",
+            "correct":false
+        }]}, {
+    "question":"Which measure is least affected by extreme values?",
+    "answers":[{
+        "text":"Mean",
+        "correct":false
+    },
+        {
+            "text":"Median",
+            "correct":true
+        },
+        {
+            "text":"Mode",
+            "correct":false
+        }]}, {
+    "question":"Which probability refers to the likelihood of an event given another has occurred?",
+    "answers":[{
+        "text":"Conditional probability",
+        "correct":true
+    },
+        {
+            "text":"Independent probability",
+            "correct":false
+        },
+        {
+            "text":"Mutually exclusive probability",
+            "correct":false
+        }]}, {
+    "question":"What is the probability of drawing an Ace from a standard deck of cards?",
+    "answers":[{
+        "text":"1/13",
+        "correct":true
+    },
+        {
+            "text":"1/4",
+            "correct":false
+        },
+        {
+            "text":"1/52",
+            "correct":false
+        }]}, {
+    "question":"Which type of variable can take only specific values?",
+    "answers":[{
+        "text":"Discrete variable",
+        "correct":true
+    },
+        {
+            "text":"Continuous variable",
+            "correct":false
+        },
+        {
+            "text":"Random variable",
+            "correct":false
+        }]}, {
+    "question":"What is the range of a dataset?",
+    "answers":[{
+        "text":"Difference between maximum and minimum",
+        "correct":true
+    },
+        {
+            "text":"Sum of all values",
+            "correct":false
+        },
+        {
+            "text":"Middle value",
+            "correct":false
+        }]}, {
+    "question":"What is the standard deviation?",
+    "answers":[{
+        "text":"Square root of variance",
+        "correct":true
+    },
+        {
+            "text":"Difference between max and min",
+            "correct":false
+        },
+        {
+            "text":"Mean of data",
+            "correct":false
+        }]}, {
+    "question":"If a dice is rolled, what is the probability of getting an even number?",
+    "answers":[{
+        "text":"1/6",
+        "correct":false
+    },
+        {
+            "text":"0.5",
+            "correct":true
+        },
+        {
+            "text":"1",
+            "correct":false
+        }]}, {
+    "question":"What does probability range between?",
+    "answers":[{
+        "text":"0 and 1",
+        "correct":true
+    },
+        {
+            "text":"-1 and 1",
+            "correct":false
+        },
+        {
+            "text":"0 and 100",
+            "correct":false
+        }]]

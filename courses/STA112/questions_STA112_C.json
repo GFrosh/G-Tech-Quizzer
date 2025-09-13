@@ -1,0 +1,248 @@
+[{
+    "question":"Which distribution approaches normal distribution as sample size increases?",
+    "answers":[{
+        "text":"Binomial distribution",
+        "correct":true
+    },
+        {
+            "text":"Poisson distribution",
+            "correct":false
+        },
+        {
+            "text":"Uniform distribution",
+            "correct":false
+        }]}, {
+    "question":"Which distribution is symmetric and bell-shaped?",
+    "answers":[{
+        "text":"Normal distribution",
+        "correct":true
+    },
+        {
+            "text":"Uniform distribution",
+            "correct":false
+        },
+        {
+            "text":"Poisson distribution",
+            "correct":false
+        }]}, {
+    "question":"Which probability refers to the likelihood of an event under certain conditions?",
+    "answers":[{
+        "text":"Conditional probability",
+        "correct":true
+    },
+        {
+            "text":"Joint probability",
+            "correct":false
+        },
+        {
+            "text":"Mutually exclusive probability",
+            "correct":false
+        }]}, {
+    "question":"Which probability model is used for counting occurrences over time or space?",
+    "answers":[{
+        "text":"Poisson distribution",
+        "correct":true
+    },
+        {
+            "text":"Binomial distribution",
+            "correct":false
+        },
+        {
+            "text":"Normal distribution",
+            "correct":false
+        }]}, {
+    "question":"Which law states that probabilities of all possible outcomes must sum to 1?",
+    "answers":[{
+        "text":"Law of total probability",
+        "correct":true
+    },
+        {
+            "text":"Bayes’ theorem",
+            "correct":false
+        },
+        {
+            "text":"Central limit theorem",
+            "correct":false
+        }]}, {
+    "question":"Which type of variable can only take integer values?",
+    "answers":[{
+        "text":"Discrete variable",
+        "correct":true
+    },
+        {
+            "text":"Continuous variable",
+            "correct":false
+        },
+        {
+            "text":"Categorical variable",
+            "correct":false
+        }]}, {
+    "question":"Which statistic is used to measure association between two variables?",
+    "answers":[{
+        "text":"Correlation coefficient",
+        "correct":true
+    },
+        {
+            "text":"Variance",
+            "correct":false
+        },
+        {
+            "text":"Range",
+            "correct":false
+        }]}, {
+    "question":"Which type of average is most suitable for skewed data?",
+    "answers":[{
+        "text":"Median",
+        "correct":true
+    },
+        {
+            "text":"Mean",
+            "correct":false
+        },
+        {
+            "text":"Mode",
+            "correct":false
+        }]}, {
+    "question":"Which probability is used when events cannot happen simultaneously?",
+    "answers":[{
+        "text":"Mutually exclusive events",
+        "correct":true
+    },
+        {
+            "text":"Independent events",
+            "correct":false
+        },
+        {
+            "text":"Conditional events",
+            "correct":false
+        }]}, {
+    "question":"Which statistic summarises data using bars of equal width that touch each other?",
+    "answers":[{
+        "text":"Histogram",
+        "correct":true
+    },
+        {
+            "text":"Bar chart",
+            "correct":false
+        },
+        {
+            "text":"Line chart",
+            "correct":false
+        }]}, {
+    "question":"Which theorem allows updating probabilities with new evidence?",
+    "answers":[{
+        "text":"Bayes’ theorem",
+        "correct":true
+    },
+        {
+            "text":"Central limit theorem",
+            "correct":false
+        },
+        {
+            "text":"Law of large numbers",
+            "correct":false
+        }]}, {
+    "question":"Which measure of spread uses squared deviations from the mean?",
+    "answers":[{
+        "text":"Variance",
+        "correct":true
+    },
+        {
+            "text":"Range",
+            "correct":false
+        },
+        {
+            "text":"Median",
+            "correct":false
+        }]}, {
+    "question":"Which is the probability of at least one event occurring?",
+    "answers":[{
+        "text":"1 minus the probability of none",
+        "correct":true
+    },
+        {
+            "text":"Probability of both events",
+            "correct":false
+        },
+        {
+            "text":"Sum of all probabilities",
+            "correct":false
+        }]}, {
+    "question":"Which chart is best to observe trends over time?",
+    "answers":[{
+        "text":"Line chart",
+        "correct":true
+    },
+        {
+            "text":"Pie chart",
+            "correct":false
+        },
+        {
+            "text":"Histogram",
+            "correct":false
+        }]}, {
+    "question":"Which concept refers to a set of all possible outcomes?",
+    "answers":[{
+        "text":"Sample space",
+        "correct":true
+    },
+        {
+            "text":"Event",
+            "correct":false
+        },
+        {
+            "text":"Random variable",
+            "correct":false
+        }]}, {
+    "question":"Which probability represents outcomes that are independent?",
+    "answers":[{
+        "text":"P(A and B) = P(A) × P(B)",
+        "correct":true
+    },
+        {
+            "text":"P(A or B) = P(A) + P(B)",
+            "correct":false
+        },
+        {
+            "text":"P(A|B) = 0",
+            "correct":false
+        }]}, {
+    "question":"Which statistical measure is used to summarise categorical data?",
+    "answers":[{
+        "text":"Frequency",
+        "correct":true
+    },
+        {
+            "text":"Variance",
+            "correct":false
+        },
+        {
+            "text":"Standard deviation",
+            "correct":false
+        }]}, {
+    "question":"Which theorem states that sample means approach a normal distribution as sample size increases?",
+    "answers":[{
+        "text":"Central limit theorem",
+        "correct":true
+    },
+        {
+            "text":"Bayes’ theorem",
+            "correct":false
+        },
+        {
+            "text":"Law of large numbers",
+            "correct":false
+        }]}, {
+    "question":"Which measure of central tendency is calculated by adding all values and dividing by count?",
+    "answers":[{
+        "text":"Mean",
+        "correct":true
+    },
+        {
+            "text":"Median",
+            "correct":false
+        },
+        {
+            "text":"Mode",
+            "correct":false
+        }]}]

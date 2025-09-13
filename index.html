@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>G-Tech Quizzer App</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header id="hero">
+        <div class="hero-text">
+            <h1>G-Tech Quizzer App</h1>
+            <h2>Learn, Test & Grow</h2>
+            <p>
+                Welcome to our Quiz Application - an interactive platform built to test knowledge, encourage learning, and make quizzes more accessible than ever. With different courses, instant results, and a user-friendly design, our app is crafted for learners, students, and curious minds alike.
+            </p>
+        </div>
+    </header>
+
+    <main class="main">
+
+
+        <section id="course-intro">
+            <h1>Our Available Courses</h1>
+            <h4>Select a course to begin the quiz!</h4>
+        </section>
+
+
+
+
+
+        <section id="courses">
+            <!-- Courses are obviously injected dynamically by JS...duhhh! 😊 -->
+        </section>
+
+
+
+
+
+        <section id="preQuiz" class="hidden">
+            <h1 id="preTitle">Course Title</h1>
+            <h2 id="preDesc">
+                Course Description
+            </h2>
+            <p>There are 20 questions in total, three options each. Good Luck!</p>
+            <button id="backToCourses">Back to Courses</button>
+            <br>
+            <button id="startBtn">Begin Quiz Now</button>
+        </section>
+
+
+
+
+        <section id="quiz" class="hidden">
+            <h1 id="title">Course Title</h1>
+            <div id="questionContainer">
+                <h2 id="questions">What is the first...?</h2>
+                <p id="progress">Question 1 of ...?</p>
+                <div id="options">
+                    
+                </div>
+            </div>
+            <button id="nextBtn" class="hidden">NEXT</button>
+            <div id="result" class="hidden">
+                
+            </div>
+        </section>
+
+
+
+
+
+    </main>
+
+
+
+
+
+
+    <footer>
+        <p>
+            &copy; 2025 G-TECH | All Rights Reserved
+        </p>
+    </footer>
+
+    <script src="script.js" type="module"></script>
+</body>
+</html>

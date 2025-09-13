@@ -1,0 +1,300 @@
+[{
+    "question": "What does CPU stand for?",
+    "answers": [{
+        "text": "Central Processing Unit",
+        "correct": true
+    },
+        {
+            "text": "Computer Processing Utility",
+            "correct": false
+        },
+        {
+            "text": "Control Program Unit",
+            "correct": false
+        }]
+},
+    {
+        "question": "Which component of the CPU fetches instructions from memory?",
+        "answers": [{
+            "text": "Arithmetic Logic Unit",
+            "correct": false
+        },
+            {
+                "text": "Control Unit",
+                "correct": true
+            },
+            {
+                "text": "Cache",
+                "correct": false
+            }]
+    },
+    {
+        "question": "The cycle of fetching, decoding, and executing instructions is called?",
+        "answers": [{
+            "text": "Instruction cycle",
+            "correct": true
+        },
+            {
+                "text": "Processing cycle",
+                "correct": false
+            },
+            {
+                "text": "Execution cycle",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which register holds the address of the next instruction to be executed?",
+        "answers": [{
+            "text": "Accumulator",
+            "correct": false
+        },
+            {
+                "text": "Program Counter",
+                "correct": true
+            },
+            {
+                "text": "Instruction Register",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which register stores the instruction currently being executed?",
+        "answers": [{
+            "text": "Instruction Register",
+            "correct": true
+        },
+            {
+                "text": "Program Counter",
+                "correct": false
+            },
+            {
+                "text": "Memory Address Register",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What is the job of the Control Unit in the CPU?",
+        "answers": [{
+            "text": "Performing arithmetic operations",
+            "correct": false
+        },
+            {
+                "text": "Coordinating and controlling CPU operations",
+                "correct": true
+            },
+            {
+                "text": "Storing data permanently",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which type of instruction moves data between memory and registers?",
+        "answers": [{
+            "text": "Data transfer instructions",
+            "correct": true
+        },
+            {
+                "text": "Control instructions",
+                "correct": false
+            },
+            {
+                "text": "Arithmetic instructions",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which type of instruction performs addition or subtraction?",
+        "answers": [{
+            "text": "Logic instructions",
+            "correct": false
+        },
+            {
+                "text": "Arithmetic instructions",
+                "correct": true
+            },
+            {
+                "text": "Control instructions",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which type of instruction changes the sequence of program execution?",
+        "answers": [{
+            "text": "Arithmetic instructions",
+            "correct": false
+        },
+            {
+                "text": "Control instructions",
+                "correct": true
+            },
+            {
+                "text": "Data transfer instructions",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which instruction is used to compare two values?",
+        "answers": [{
+            "text": "AND",
+            "correct": false
+        },
+            {
+                "text": "CMP",
+                "correct": true
+            },
+            {
+                "text": "JMP",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What does an opcode represent in an instruction?",
+        "answers": [{
+            "text": "The operation to be performed",
+            "correct": true
+        },
+            {
+                "text": "The data to be used",
+                "correct": false
+            },
+            {
+                "text": "The memory location",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What does the operand in an instruction represent?",
+        "answers": [{
+            "text": "The operation type",
+            "correct": false
+        },
+            {
+                "text": "The data or address used by the instruction",
+                "correct": true
+            },
+            {
+                "text": "The program counter value",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which register temporarily stores data fetched from memory?",
+        "answers": [{
+            "text": "Memory Data Register",
+            "correct": true
+        },
+            {
+                "text": "Accumulator",
+                "correct": false
+            },
+            {
+                "text": "Program Counter",
+                "correct": false
+            }]
+    },
+    {
+        "question": "The Accumulator is mainly used to:",
+        "answers": [{
+            "text": "Store the instruction opcode",
+            "correct": false
+        },
+            {
+                "text": "Hold intermediate results of arithmetic and logic operations",
+                "correct": true
+            },
+            {
+                "text": "Store memory addresses",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which of these is NOT a type of CPU instruction?",
+        "answers": [{
+            "text": "Data transfer instruction",
+            "correct": false
+        },
+            {
+                "text": "Arithmetic instruction",
+                "correct": false
+            },
+            {
+                "text": "Painting instruction",
+                "correct": true
+            }]
+    },
+    {
+        "question": "What does RISC stand for?",
+        "answers": [{
+            "text": "Reduced Instruction Set Computer",
+            "correct": true
+        },
+            {
+                "text": "Random Instruction System Control",
+                "correct": false
+            },
+            {
+                "text": "Rapid Integrated System Circuit",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What does CISC stand for?",
+        "answers": [{
+            "text": "Complex Instruction Set Computer",
+            "correct": true
+        },
+            {
+                "text": "Central Instruction Storage Control",
+                "correct": false
+            },
+            {
+                "text": "Critical Integrated System Chip",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which CPU design has simpler instructions that execute faster?",
+        "answers": [{
+            "text": "CISC",
+            "correct": false
+        },
+            {
+                "text": "RISC",
+                "correct": true
+            },
+            {
+                "text": "MISC",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which CPU design has more complex instructions but fewer lines of code?",
+        "answers": [{
+            "text": "RISC",
+            "correct": false
+        },
+            {
+                "text": "CISC",
+                "correct": true
+            },
+            {
+                "text": "Harvard",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What is the basic unit of information that a CPU processes?",
+        "answers": [{
+            "text": "Byte",
+            "correct": false
+        },
+            {
+                "text": "Bit",
+                "correct": true
+            },
+            {
+                "text": "Word",
+                "correct": false
+            }]
+    }]

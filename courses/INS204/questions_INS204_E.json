@@ -1,0 +1,300 @@
+[{
+    "question": "What does normalization help prevent in databases?",
+    "answers": [{
+        "text": "Data redundancy",
+        "correct": true
+    },
+        {
+            "text": "Data encryption",
+            "correct": false
+        },
+        {
+            "text": "Data sorting",
+            "correct": false
+        }]
+},
+    {
+        "question": "Which level of normalization removes repeating groups?",
+        "answers": [{
+            "text": "First Normal Form (1NF)",
+            "correct": true
+        },
+            {
+                "text": "Second Normal Form (2NF)",
+                "correct": false
+            },
+            {
+                "text": "Third Normal Form (3NF)",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which diagram shows how data moves through a system?",
+        "answers": [{
+            "text": "Data Flow Diagram",
+            "correct": true
+        },
+            {
+                "text": "Entity-Relationship Diagram",
+                "correct": false
+            },
+            {
+                "text": "Class Diagram",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which role ensures requirements meet business needs?",
+        "answers": [{
+            "text": "System Analyst",
+            "correct": true
+        },
+            {
+                "text": "Programmer",
+                "correct": false
+            },
+            {
+                "text": "Database Administrator",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which method is most flexible for requirement changes?",
+        "answers": [{
+            "text": "Agile",
+            "correct": true
+        },
+            {
+                "text": "Waterfall",
+                "correct": false
+            },
+            {
+                "text": "Big Bang",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which feasibility study checks if users accept the system?",
+        "answers": [{
+            "text": "Operational feasibility",
+            "correct": true
+        },
+            {
+                "text": "Technical feasibility",
+                "correct": false
+            },
+            {
+                "text": "Economic feasibility",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What does SDLC stand for?",
+        "answers": [{
+            "text": "System Development Life Cycle",
+            "correct": true
+        },
+            {
+                "text": "Software Data Logical Cycle",
+                "correct": false
+            },
+            {
+                "text": "System Design Logic Cycle",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which document records system requirements?",
+        "answers": [{
+            "text": "SRS (Software Requirement Specification)",
+            "correct": true
+        },
+            {
+                "text": "ERD",
+                "correct": false
+            },
+            {
+                "text": "DFD",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which chart is used for project scheduling?",
+        "answers": [{
+            "text": "Gantt Chart",
+            "correct": true
+        },
+            {
+                "text": "Pie Chart",
+                "correct": false
+            },
+            {
+                "text": "Flowchart",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which approach delivers the system in parts?",
+        "answers": [{
+            "text": "Incremental approach",
+            "correct": true
+        },
+            {
+                "text": "Parallel approach",
+                "correct": false
+            },
+            {
+                "text": "Big Bang approach",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which testing ensures the system meets user needs?",
+        "answers": [{
+            "text": "Acceptance testing",
+            "correct": true
+        },
+            {
+                "text": "Unit testing",
+                "correct": false
+            },
+            {
+                "text": "Integration testing",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which diagram shows relationships between entities?",
+        "answers": [{
+            "text": "ER Diagram",
+            "correct": true
+        },
+            {
+                "text": "Use Case Diagram",
+                "correct": false
+            },
+            {
+                "text": "Flowchart",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which model uses sprints for development?",
+        "answers": [{
+            "text": "Agile",
+            "correct": true
+        },
+            {
+                "text": "Waterfall",
+                "correct": false
+            },
+            {
+                "text": "Spiral",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which tool describes system inputs, processes, and outputs?",
+        "answers": [{
+            "text": "DFD",
+            "correct": true
+        },
+            {
+                "text": "ERD",
+                "correct": false
+            },
+            {
+                "text": "PERT chart",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which document explains how a system will be built?",
+        "answers": [{
+            "text": "Design Document",
+            "correct": true
+        },
+            {
+                "text": "Feasibility Report",
+                "correct": false
+            },
+            {
+                "text": "Test Plan",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which diagram shows step-by-step logic?",
+        "answers": [{
+            "text": "Flowchart",
+            "correct": true
+        },
+            {
+                "text": "Use Case",
+                "correct": false
+            },
+            {
+                "text": "Gantt Chart",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which phase installs the system for users?",
+        "answers": [{
+            "text": "Implementation",
+            "correct": true
+        },
+            {
+                "text": "Analysis",
+                "correct": false
+            },
+            {
+                "text": "Design",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which testing checks individual modules?",
+        "answers": [{
+            "text": "Unit Testing",
+            "correct": true
+        },
+            {
+                "text": "System Testing",
+                "correct": false
+            },
+            {
+                "text": "Acceptance Testing",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which diagram describes user-system interactions?",
+        "answers": [{
+            "text": "Use Case Diagram",
+            "correct": true
+        },
+            {
+                "text": "ER Diagram",
+                "correct": false
+            },
+            {
+                "text": "DFD",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which phase checks the success of the new system?",
+        "answers": [{
+            "text": "Evaluation",
+            "correct": true
+        },
+            {
+                "text": "Planning",
+                "correct": false
+            },
+            {
+                "text": "Design",
+                "correct": false
+            }]
+    }]

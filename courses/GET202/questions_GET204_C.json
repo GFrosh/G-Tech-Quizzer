@@ -1,0 +1,261 @@
+[{
+    "question":"Which type of saw is used for cutting curves in wood?",
+    "answers":[{
+        "text":"Coping saw",
+        "correct":true
+    },
+        {
+            "text":"Hacksaw",
+            "correct":false
+        },
+        {
+            "text":"Handsaw",
+            "correct":false
+        }]}, {
+    "question":"Which tool is used to remove material by scraping?",
+    "answers":[{
+        "text":"Hammer",
+        "correct":false
+    },
+        {
+            "text":"Chisel",
+            "correct":true
+        },
+        {
+            "text":"Screwdriver",
+            "correct":false
+        }]}, {
+    "question":"What is the main purpose of ear protection in a workshop?",
+    "answers":[{
+        "text":"To prevent hearing damage",
+        "correct":true
+    },
+        {
+            "text":"To block dust",
+            "correct":false
+        },
+        {
+            "text":"To keep hair tidy",
+            "correct":false
+        }]}, {
+    "question":"Which tool measures internal and external dimensions?",
+    "answers":[{
+        "text":"Protractor",
+        "correct":false
+    },
+        {
+            "text":"Vernier caliper",
+            "correct":true
+        },
+        {
+            "text":"Ruler",
+            "correct":false
+        }]}, {
+    "question":"Which type of fire extinguisher is suitable for metal fires?",
+    "answers":[{
+        "text":"Dry powder extinguisher",
+        "correct":true
+    },
+        {
+            "text":"Foam extinguisher",
+            "correct":false
+        },
+        {
+            "text":"Water extinguisher",
+            "correct":false
+        }]}, {
+    "question":"Which machine is commonly used for drilling holes?",
+    "answers":[{
+        "text":"Lathe machine",
+        "correct":false
+    },
+        {
+            "text":"Drill press",
+            "correct":true
+        },
+        {
+            "text":"Bench grinder",
+            "correct":false
+        }]}, {
+    "question":"Why should workshop tools be regularly maintained?",
+    "answers":[{
+        "text":"It is unnecessary",
+        "correct":false
+    },
+        {
+            "text":"To ensure safety and prolong tool life",
+            "correct":true
+        },
+        {
+            "text":"To make them look shiny only",
+            "correct":false
+        }]}, {
+    "question":"Which tool is used to tighten or loosen nuts?",
+    "answers":[{
+        "text":"Hammer",
+        "correct":false
+    },
+        {
+            "text":"Chisel",
+            "correct":false
+        },
+        {
+            "text":"Spanner",
+            "correct":true
+        }]}, {
+    "question":"Which protective item is used for the eyes?",
+    "answers":[{
+        "text":"Helmet",
+        "correct":false
+    },
+        {
+            "text":"Gloves",
+            "correct":false
+        },
+        {
+            "text":"Safety goggles",
+            "correct":true
+        }]}, {
+    "question":"Which tool is used to smooth rough metal edges?",
+    "answers":[{
+        "text":"Hammer",
+        "correct":false
+    },
+        {
+            "text":"File",
+            "correct":true
+        },
+        {
+            "text":"Screwdriver",
+            "correct":false
+        }]}, {
+    "question":"What is the first action before operating a machine?",
+    "answers":[{
+        "text":"Check and understand its operation",
+        "correct":true
+    },
+        {
+            "text":"Start immediately",
+            "correct":false
+        },
+        {
+            "text":"Ignore the instructions",
+            "correct":false
+        }]}, {
+    "question":"Which tool is used to measure depth?",
+    "answers":[{
+        "text":"Depth gauge",
+        "correct":true
+    },
+        {
+            "text":"Caliper",
+            "correct":false
+        },
+        {
+            "text":"Protractor",
+            "correct":false
+        }]}, {
+    "question":"Why is workshop ventilation important?",
+    "answers":[{
+        "text":"It is optional",
+        "correct":false
+    },
+        {
+            "text":"To remove harmful fumes and dust",
+            "correct":true
+        },
+        {
+            "text":"To cool machines only",
+            "correct":false
+        }]}, {
+    "question":"Which tool is used for bending metal sheets?",
+    "answers":[{
+        "text":"Pliers",
+        "correct":false
+    },
+        {
+            "text":"Sheet metal brake",
+            "correct":true
+        },
+        {
+            "text":"Hammer",
+            "correct":false
+        }]}, {
+    "question":"Which item prevents slipping on workshop floors?",
+    "answers":[{
+        "text":"Regular floor tiles",
+        "correct":false
+    },
+        {
+            "text":"Non-slip mats",
+            "correct":true
+        },
+        {
+            "text":"Rug",
+            "correct":false
+        }]}, {
+    "question":"Which device measures electric current?",
+    "answers":[{
+        "text":"Thermometer",
+        "correct":false
+    },
+        {
+            "text":"Ammeter",
+            "correct":true
+        },
+        {
+            "text":"Voltmeter",
+            "correct":false
+        }]}, {
+    "question":"Which tool is used for removing small amounts of material from metal or wood?",
+    "answers":[{
+        "text":"Chisel",
+        "correct":true
+    },
+        {
+            "text":"Wrench",
+            "correct":false
+        },
+        {
+            "text":"Hammer",
+            "correct":false
+        }]}, {
+    "question":"What should be done if a tool is damaged?",
+    "answers":[{
+        "text":"Continue using it",
+        "correct":false
+    },
+        {
+            "text":"Ignore it",
+            "correct":false
+        },
+        {
+            "text":"Report and replace it",
+            "correct":true
+        }]}, {
+    "question":"Which tool is used to hold objects firmly during work?",
+    "answers":[{
+        "text":"Clamp",
+        "correct":true
+    },
+        {
+            "text":"File",
+            "correct":false
+        },
+        {
+            "text":"Hammer",
+            "correct":false
+        }]}, {
+    "question":"Which tool is used to remove screws?",
+    "answers":[{
+        "text":"Screwdriver",
+        "correct":true
+    },
+        {
+            "text":"Hammer",
+            "correct":false
+        },
+        {
+            "text":"Pliers",
+            "correct":false
+        }]}]

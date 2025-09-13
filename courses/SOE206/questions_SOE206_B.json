@@ -1,0 +1,300 @@
+[{
+    "question": "Which bus is commonly used for connecting peripherals in embedded systems?",
+    "answers": [{
+        "text": "SPI",
+        "correct": true
+    },
+        {
+            "text": "HDMI",
+            "correct": false
+        },
+        {
+            "text": "VGA",
+            "correct": false
+        }]
+},
+    {
+        "question": "Which type of system must always meet timing deadlines?",
+        "answers": [{
+            "text": "Real-time system",
+            "correct": true
+        },
+            {
+                "text": "Batch system",
+                "correct": false
+            },
+            {
+                "text": "Virtual system",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What is the function of a watchdog timer?",
+        "answers": [{
+            "text": "It resets the system if software hangs",
+            "correct": true
+        },
+            {
+                "text": "It increases CPU speed",
+                "correct": false
+            },
+            {
+                "text": "It stores system data",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which of the following is NOT an example of an embedded system?",
+        "answers": [{
+            "text": "Desktop computer",
+            "correct": true
+        },
+            {
+                "text": "Smartwatch",
+                "correct": false
+            },
+            {
+                "text": "Digital camera",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What does UART stand for?",
+        "answers": [{
+            "text": "Universal Asynchronous Receiver Transmitter",
+            "correct": true
+        },
+            {
+                "text": "Unified Advanced Real-Time",
+                "correct": false
+            },
+            {
+                "text": "Universal Automated Real-Time",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which of these is a non-volatile memory type?",
+        "answers": [{
+            "text": "EEPROM",
+            "correct": true
+        },
+            {
+                "text": "SRAM",
+                "correct": false
+            },
+            {
+                "text": "DRAM",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Why is C preferred in embedded programming?",
+        "answers": [{
+            "text": "It gives low-level hardware access and efficiency",
+            "correct": true
+        },
+            {
+                "text": "It is object-oriented by default",
+                "correct": false
+            },
+            {
+                "text": "It cannot interact with memory directly",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which microcontroller series is produced by ARM?",
+        "answers": [{
+            "text": "Cortex-M series",
+            "correct": true
+        },
+            {
+                "text": "Pentium series",
+                "correct": false
+            },
+            {
+                "text": "Ryzen series",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What is PWM used for in embedded systems?",
+        "answers": [{
+            "text": "To control motor speed or LED brightness",
+            "correct": true
+        },
+            {
+                "text": "To store program instructions",
+                "correct": false
+            },
+            {
+                "text": "To measure temperature",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which of these is an advantage of embedded systems?",
+        "answers": [{
+            "text": "They are cost-effective and efficient",
+            "correct": true
+        },
+            {
+                "text": "They can perform all tasks a supercomputer does",
+                "correct": false
+            },
+            {
+                "text": "They require no power to operate",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which layer of embedded software interacts directly with hardware?",
+        "answers": [{
+            "text": "Device drivers",
+            "correct": true
+        },
+            {
+                "text": "Application layer",
+                "correct": false
+            },
+            {
+                "text": "Middleware",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which device converts digital signals back into analog form?",
+        "answers": [{
+            "text": "DAC",
+            "correct": true
+        },
+            {
+                "text": "ADC",
+                "correct": false
+            },
+            {
+                "text": "ROM",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which of the following is a characteristic of embedded software?",
+        "answers": [{
+            "text": "It is designed for specific tasks",
+            "correct": true
+        },
+            {
+                "text": "It runs on all platforms without changes",
+                "correct": false
+            },
+            {
+                "text": "It always uses graphical interfaces",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What does multitasking mean in embedded systems?",
+        "answers": [{
+            "text": "Running multiple tasks seemingly at the same time",
+            "correct": true
+        },
+            {
+                "text": "One task running without stopping",
+                "correct": false
+            },
+            {
+                "text": "Only hardware running without software",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which of these is an example of a safety-critical embedded system?",
+        "answers": [{
+            "text": "Airbag controller",
+            "correct": true
+        },
+            {
+                "text": "Video game console",
+                "correct": false
+            },
+            {
+                "text": "Smartwatch",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which factor is most important in designing embedded systems?",
+        "answers": [{
+            "text": "Reliability",
+            "correct": true
+        },
+            {
+                "text": "Expensive branding",
+                "correct": false
+            },
+            {
+                "text": "Colour of the circuit board",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What does ISP mean in embedded systems?",
+        "answers": [{
+            "text": "In-System Programming",
+            "correct": true
+        },
+            {
+                "text": "Internet Service Provider",
+                "correct": false
+            },
+            {
+                "text": "Instruction Set Processing",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which type of signal is continuous in nature?",
+        "answers": [{
+            "text": "Analog signal",
+            "correct": true
+        },
+            {
+                "text": "Digital signal",
+                "correct": false
+            },
+            {
+                "text": "Binary signal",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which embedded system property ensures it consumes less energy?",
+        "answers": [{
+            "text": "Low power design",
+            "correct": true
+        },
+            {
+                "text": "Graphical user interface",
+                "correct": false
+            },
+            {
+                "text": "High heat generation",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What does an embedded compiler do?",
+        "answers": [{
+            "text": "Converts source code into machine code",
+            "correct": true
+        },
+            {
+                "text": "Connects hardware to power",
+                "correct": false
+            },
+            {
+                "text": "Displays graphical output",
+                "correct": false
+            }]
+    }]
