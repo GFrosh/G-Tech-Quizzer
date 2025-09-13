@@ -84,6 +84,7 @@ document.getElementById('startBtn').addEventListener('click', () => {
 
 document.getElementById('backToCourses').addEventListener('click', () => {
     quizSection.classList.add("hidden");
+    preQuizSection.classList.add("hidden");
     intro.classList.remove("hidden");
     courseSection.classList.remove("hidden");
     

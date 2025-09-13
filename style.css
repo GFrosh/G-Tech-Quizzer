@@ -168,6 +168,9 @@ body {
     color: darkred;
     text-align: center;
 }
+#result h2 {
+    margin-top: 1em;
+}
 
 
 
@@ -318,7 +321,7 @@ body {
 /* FOOTER */
 footer {
     background-color: #01fa2a;
-    color: rebeccapurple;k
+    color: rebeccapurple;
     box-shadow: 0px -4px 4px rgba(0,0,0,0.2);
     text-align: center;
     padding: 1em;
