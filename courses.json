@@ -47,14 +47,4 @@
         "id": "GET204",
         "title": "GET 204",
         "description": "Workshop Practices"
-    },
-    {
-        "id": "PHY101",
-        "title": "PHY 101",
-        "description": "Fundamentals of Physics"
-    },
-    {
-        "id": "CHE105",
-        "title": "CHE 105",
-        "description": "Introduction to Chemistry"
     }]
