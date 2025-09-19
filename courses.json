@@ -4,6 +4,11 @@
     "description": "System Analysis and Design"
 },
     {
+        "id": "PHS382",
+        "title": "PHS 382",
+        "description": "Exercise & Sports Physiology"
+    },
+    {
         "id": "COS202",
         "title": "COS 202",
         "description": "Java Programming I"
@@ -12,6 +17,11 @@
         "id": "SOE202",
         "title": "SOE 202",
         "description": "Requirements Engineering and Modelling"
+    },
+    {
+        "id": "PHS342",
+        "title": "PHS 342",
+        "description": "Cardiopulmonary Physiology"
     },
     {
         "id": "SOE206",
@@ -24,9 +34,24 @@
         "description": "Ordinary Differential Equations"
     },
     {
+        "id": "BCH314",
+        "title": "BCH 314",
+        "description": "Medical Biochemistry II"
+    },
+    {
+        "id": "PHS394",
+        "title": "PHS 394",
+        "description": "Physiology Entrepreneurship"
+    },
+    {
         "id": "IFT212",
         "title": "IFT 212",
         "description": "Computer Architecture"
+    },
+    {
+        "id": "PHS392",
+        "title": "PHS 392",
+        "description": "Physiological Imaging Techniques"
     },
     {
         "id": "GST212",
@@ -39,12 +64,32 @@
         "description": "Probability and Statistics"
     },
     {
+        "id": "PHS306",
+        "title": "PHS 306",
+        "description": "Systemic Pharmacology"
+    },
+    {
         "id": "ILS212",
         "title": "ILS 212",
         "description": "Information Literacy Skills"
     },
     {
+        "id": "PHS384",
+        "title": "PHS 384",
+        "description": "Nutrition & Metabolism"
+    },
+    {
         "id": "GET204",
         "title": "GET 204",
         "description": "Workshop Practices"
+    },
+    {
+        "id": "PHS312",
+        "title": "PHS 312",
+        "description": "Skin & Thermoregulatory Physiology"
+    },
+    {
+        "id": "ENS302",
+        "title": "ENS 302",
+        "description": "Business creation"
     }]
