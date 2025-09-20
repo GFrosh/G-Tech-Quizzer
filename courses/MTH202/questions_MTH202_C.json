@@ -1,27 +1,27 @@
 [{
     "question": "What is the degree of the differential equation (dy/dx)^3 + y = 0?",
     "answers": [{
-        "text": "3",
-        "correct": true
+        "text": "2",
+        "correct": false
     },
-        {
-            "text": "2",
-            "correct": false
-        },
         {
             "text": "1",
             "correct": false
+        },
+        {
+            "text": "3",
+            "correct": true
         }]
 },
     {
         "question": "Which of these is a linear differential equation?",
         "answers": [{
-            "text": "dy/dx + y = x",
-            "correct": true
+            "text": "dy/dx + y^2 = x",
+            "correct": false
         },
             {
-                "text": "dy/dx + y^2 = x",
-                "correct": false
+                "text": "dy/dx + y = x",
+                "correct": true
             },
             {
                 "text": "(dy/dx)^2 + y = x",
@@ -35,68 +35,68 @@
             "correct": true
         },
             {
-                "text": "1",
+                "text": "3",
                 "correct": false
             },
             {
-                "text": "3",
+                "text": "1",
                 "correct": false
             }]
     },
     {
         "question": "What method is used to solve dy/dx = ky?",
         "answers": [{
-            "text": "Separation of variables",
-            "correct": true
+            "text": "Substitution",
+            "correct": false
         },
             {
-                "text": "Laplace transform",
-                "correct": false
+                "text": "Separation of variables",
+                "correct": true
             },
             {
-                "text": "Substitution",
+                "text": "Laplace transform",
                 "correct": false
             }]
     },
     {
         "question": "What is the solution to dy/dx = 0?",
         "answers": [{
-            "text": "y = constant",
-            "correct": true
+            "text": "y = 0",
+            "correct": false
         },
             {
-                "text": "y = x",
-                "correct": false
+                "text": "y = constant",
+                "correct": true
             },
             {
-                "text": "y = 0",
+                "text": "y = x",
                 "correct": false
             }]
     },
     {
         "question": "Which equation represents exponential growth?",
         "answers": [{
-            "text": "dy/dx = ky, k > 0",
-            "correct": true
+            "text": "dy/dx = c",
+            "correct": false
         },
             {
-                "text": "dy/dx = -ky",
-                "correct": false
+                "text": "dy/dx = ky, k > 0",
+                "correct": true
             },
             {
-                "text": "dy/dx = c",
+                "text": "dy/dx = -ky",
                 "correct": false
             }]
     },
     {
         "question": "Which function is the solution of dy/dx = -y?",
         "answers": [{
-            "text": "y = Ce^(-x)",
-            "correct": true
+            "text": "y = Ce^(x)",
+            "correct": false
         },
             {
-                "text": "y = Ce^(x)",
-                "correct": false
+                "text": "y = Ce^(-x)",
+                "correct": true
             },
             {
                 "text": "y = Cx",
@@ -106,121 +106,121 @@
     {
         "question": "What does it mean if a differential equation is homogeneous?",
         "answers": [{
-            "text": "All terms are of the same degree in x and y",
-            "correct": true
+            "text": "It has constant coefficients",
+            "correct": false
         },
-            {
-                "text": "It has constant coefficients",
-                "correct": false
-            },
             {
                 "text": "It has no free term",
                 "correct": false
+            },
+            {
+                "text": "All terms are of the same degree in x and y",
+                "correct": true
             }]
     },
     {
         "question": "Which method is best for solving linear ODEs with constant coefficients?",
         "answers": [{
-            "text": "Characteristic equation method",
-            "correct": true
+            "text": "Integration by parts",
+            "correct": false
         },
             {
-                "text": "Variation of parameters",
-                "correct": false
+                "text": "Characteristic equation method",
+                "correct": true
             },
             {
-                "text": "Integration by parts",
+                "text": "Variation of parameters",
                 "correct": false
             }]
     },
     {
         "question": "If y'' + 4y = 0, what are the roots of the auxiliary equation?",
         "answers": [{
-            "text": "±2i",
-            "correct": true
+            "text": "±1",
+            "correct": false
         },
             {
-                "text": "±4i",
-                "correct": false
+                "text": "±2i",
+                "correct": true
             },
             {
-                "text": "±1",
+                "text": "±4i",
                 "correct": false
             }]
     },
     {
         "question": "What type of solution does y'' + 9y = 0 have?",
         "answers": [{
-            "text": "Trigonometric functions",
-            "correct": true
+            "text": "Exponential growth",
+            "correct": false
         },
             {
                 "text": "Polynomial functions",
                 "correct": false
             },
             {
-                "text": "Exponential growth",
-                "correct": false
+                "text": "Trigonometric functions",
+                "correct": true
             }]
     },
     {
         "question": "What is the general solution to y'' = 0?",
         "answers": [{
-            "text": "y = C1x + C2",
-            "correct": true
+            "text": "y = constant",
+            "correct": false
         },
             {
-                "text": "y = C1e^x + C2e^-x",
-                "correct": false
+                "text": "y = C1x + C2",
+                "correct": true
             },
             {
-                "text": "y = constant",
+                "text": "y = C1e^x + C2e^-x",
                 "correct": false
             }]
     },
     {
         "question": "Which of these is a second-order ODE?",
         "answers": [{
-            "text": "d²y/dx² + dy/dx + y = 0",
-            "correct": true
+            "text": "dy/dx + y = 0",
+            "correct": false
         },
-            {
-                "text": "dy/dx + y = 0",
-                "correct": false
-            },
             {
                 "text": "y + x = 0",
                 "correct": false
+            },
+            {
+                "text": "d²y/dx² + dy/dx + y = 0",
+                "correct": true
             }]
     },
     {
         "question": "In the equation y'' - 4y = 0, what type of roots are expected?",
         "answers": [{
-            "text": "Real and distinct",
-            "correct": true
+            "text": "Repeated",
+            "correct": false
         },
             {
                 "text": "Imaginary",
                 "correct": false
             },
             {
-                "text": "Repeated",
-                "correct": false
+                "text": "Real and distinct",
+                "correct": true
             }]
     },
     {
         "question": "What is the general solution to y'' - 9y = 0?",
         "answers": [{
-            "text": "y = C1e^(3x) + C2e^(-3x)",
-            "correct": true
+            "text": "y = C1cos(3x) + C2sin(3x)",
+            "correct": false
         },
-            {
-                "text": "y = C1cos(3x) + C2sin(3x)",
-                "correct": false
-            },
             {
                 "text": "y = C1x + C2",
                 "correct": false
+            },
+            {
+                "text": "y = C1e^(3x) + C2e^(-3x)",
+                "correct": true
             }]
     },
     {
@@ -241,16 +241,16 @@
     {
         "question": "If y'' + y = cos(x), which type of ODE is this?",
         "answers": [{
-            "text": "Non-homogeneous",
-            "correct": true
+            "text": "Exact",
+            "correct": false
         },
             {
                 "text": "Homogeneous",
                 "correct": false
             },
             {
-                "text": "Exact",
-                "correct": false
+                "text": "Non-homogeneous",
+                "correct": true
             }]
     },
     {
@@ -260,27 +260,27 @@
             "correct": true
         },
             {
-                "text": "y = C1e^(r1x) + C2e^(r2x)",
+                "text": "y = C1cos(rx) + C2sin(rx)",
                 "correct": false
             },
             {
-                "text": "y = C1cos(rx) + C2sin(rx)",
+                "text": "y = C1e^(r1x) + C2e^(r2x)",
                 "correct": false
             }]
     },
     {
         "question": "What is the Laplace transform mainly used for?",
         "answers": [{
-            "text": "Solving differential equations",
-            "correct": true
+            "text": "Finding derivatives",
+            "correct": false
         },
             {
                 "text": "Calculating limits",
                 "correct": false
             },
             {
-                "text": "Finding derivatives",
-                "correct": false
+                "text": "Solving differential equations",
+                "correct": true
             }]
     },
     {

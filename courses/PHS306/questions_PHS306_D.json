@@ -1,0 +1,300 @@
+[{
+    "question": "Which drug class is used to suppress cough?",
+    "answers": [{
+        "text": "Bronchodilators",
+        "correct": false
+    },
+        {
+            "text": "Antiemetics",
+            "correct": false
+        },
+        {
+            "text": "Antitussives",
+            "correct": true
+        }]
+},
+    {
+        "question": "Which drug is commonly used to treat hypertension by relaxing blood vessels?",
+        "answers": [{
+            "text": "Calcium channel blockers",
+            "correct": true
+        },
+            {
+                "text": "Antacids",
+                "correct": false
+            },
+            {
+                "text": "Antibiotics",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which drug is used to treat fungal infections?",
+        "answers": [{
+            "text": "Antibiotics",
+            "correct": false
+        },
+            {
+                "text": "Antifungals",
+                "correct": true
+            },
+            {
+                "text": "Antivirals",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which drug is used to lower high blood sugar in diabetes?",
+        "answers": [{
+            "text": "Amoxicillin",
+            "correct": false
+        },
+            {
+                "text": "Insulin",
+                "correct": true
+            },
+            {
+                "text": "Diazepam",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which drug class is commonly used to reduce inflammation?",
+        "answers": [{
+            "text": "Statins",
+            "correct": false
+        },
+            {
+                "text": "NSAIDs",
+                "correct": true
+            },
+            {
+                "text": "Anticoagulants",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which neurotransmitter is increased by antidepressants like SSRIs?",
+        "answers": [{
+            "text": "Serotonin",
+            "correct": true
+        },
+            {
+                "text": "Dopamine",
+                "correct": false
+            },
+            {
+                "text": "Acetylcholine",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which drug is given in emergency treatment of severe allergic reactions?",
+        "answers": [{
+            "text": "Adrenaline (epinephrine)",
+            "correct": true
+        },
+            {
+                "text": "Amlodipine",
+                "correct": false
+            },
+            {
+                "text": "Paracetamol",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which drug is used to treat peptic ulcers by blocking H2 receptors?",
+        "answers": [{
+            "text": "Ibuprofen",
+            "correct": false
+        },
+            {
+                "text": "Ranitidine",
+                "correct": true
+            },
+            {
+                "text": "Furosemide",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which organ is the primary site of drug detoxification?",
+        "answers": [{
+            "text": "Heart",
+            "correct": false
+        },
+            {
+                "text": "Liver",
+                "correct": true
+            },
+            {
+                "text": "Lungs",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which drug is commonly used as an anticoagulant in heart disease?",
+        "answers": [{
+            "text": "Warfarin",
+            "correct": true
+        },
+            {
+                "text": "Paracetamol",
+                "correct": false
+            },
+            {
+                "text": "Metformin",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which drug class is used to suppress the immune system in organ transplantation?",
+        "answers": [{
+            "text": "Immunosuppressants",
+            "correct": true
+        },
+            {
+                "text": "Bronchodilators",
+                "correct": false
+            },
+            {
+                "text": "Antiemetics",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which drug is a selective beta-1 blocker used in hypertension?",
+        "answers": [{
+            "text": "Omeprazole",
+            "correct": false
+        },
+            {
+                "text": "Amoxicillin",
+                "correct": false
+            },
+            {
+                "text": "Atenolol",
+                "correct": true
+            }]
+    },
+    {
+        "question": "Which system is affected by bronchodilators?",
+        "answers": [{
+            "text": "Respiratory system",
+            "correct": true
+        },
+            {
+                "text": "Skeletal system",
+                "correct": false
+            },
+            {
+                "text": "Digestive system",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which drug is used as a cardiac glycoside to treat heart failure?",
+        "answers": [{
+            "text": "Aspirin",
+            "correct": false
+        },
+            {
+                "text": "Ibuprofen",
+                "correct": false
+            },
+            {
+                "text": "Digoxin",
+                "correct": true
+            }]
+    },
+    {
+        "question": "Which drug is commonly prescribed to treat depression?",
+        "answers": [{
+            "text": "Fluoxetine",
+            "correct": true
+        },
+            {
+                "text": "Amoxicillin",
+                "correct": false
+            },
+            {
+                "text": "Metformin",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which drug class is used to treat high blood pressure by removing excess salt and water?",
+        "answers": [{
+            "text": "Antibiotics",
+            "correct": false
+        },
+            {
+                "text": "Diuretics",
+                "correct": true
+            },
+            {
+                "text": "Antacids",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which drug is used to prevent organ rejection in transplant patients?",
+        "answers": [{
+            "text": "Ibuprofen",
+            "correct": false
+        },
+            {
+                "text": "Atenolol",
+                "correct": false
+            },
+            {
+                "text": "Cyclosporine",
+                "correct": true
+            }]
+    },
+    {
+        "question": "Which system is the primary target of beta-blockers?",
+        "answers": [{
+            "text": "Respiratory system",
+            "correct": false
+        },
+            {
+                "text": "Cardiovascular system",
+                "correct": true
+            },
+            {
+                "text": "Urinary system",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which drug is used in the management of bipolar disorder?",
+        "answers": [{
+            "text": "Lithium",
+            "correct": true
+        },
+            {
+                "text": "Paracetamol",
+                "correct": false
+            },
+            {
+                "text": "Metformin",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which drug is a corticosteroid commonly used to reduce inflammation?",
+        "answers": [{
+            "text": "Amoxicillin",
+            "correct": false
+        },
+            {
+                "text": "Prednisone",
+                "correct": true
+            },
+            {
+                "text": "Aspirin",
+                "correct": false
+            }]
+    }]

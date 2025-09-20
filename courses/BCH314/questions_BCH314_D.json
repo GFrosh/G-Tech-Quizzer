@@ -1,0 +1,300 @@
+[{
+    "question": "Which enzyme catalyzes the rate-limiting step in cholesterol synthesis?",
+    "answers": [{
+        "text": "Acetyl-CoA carboxylase",
+        "correct": false
+    },
+        {
+            "text": "HMG-CoA reductase",
+            "correct": true
+        },
+        {
+            "text": "Citrate lyase",
+            "correct": false
+        }]
+},
+    {
+        "question": "Which disorder results from a deficiency of sphingomyelinase?",
+        "answers": [{
+            "text": "Niemann-Pick disease",
+            "correct": true
+        },
+            {
+                "text": "Gaucher’s disease",
+                "correct": false
+            },
+            {
+                "text": "Tay-Sachs disease",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which vitamin serves as a coenzyme in transketolase reactions of the pentose phosphate pathway?",
+        "answers": [{
+            "text": "Vitamin B2",
+            "correct": false
+        },
+            {
+                "text": "Vitamin B1 (thiamine)",
+                "correct": true
+            },
+            {
+                "text": "Vitamin B6",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What is the main nitrogen-containing end product of protein metabolism in humans?",
+        "answers": [{
+            "text": "Urea",
+            "correct": true
+        },
+            {
+                "text": "Ammonia",
+                "correct": false
+            },
+            {
+                "text": "Uric acid",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which amino acid is required for the synthesis of purines?",
+        "answers": [{
+            "text": "Glycine",
+            "correct": true
+        },
+            {
+                "text": "Histidine",
+                "correct": false
+            },
+            {
+                "text": "Serine",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which enzyme deficiency causes Gaucher’s disease?",
+        "answers": [{
+            "text": "β-glucocerebrosidase",
+            "correct": true
+        },
+            {
+                "text": "Hexosaminidase A",
+                "correct": false
+            },
+            {
+                "text": "α-galactosidase A",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which lipoprotein carries cholesterol from the liver to tissues?",
+        "answers": [{
+            "text": "HDL",
+            "correct": false
+        },
+            {
+                "text": "LDL",
+                "correct": true
+            },
+            {
+                "text": "Chylomicron",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which metabolic pathway generates NADPH primarily?",
+        "answers": [{
+            "text": "Glycolysis",
+            "correct": false
+        },
+            {
+                "text": "Pentose phosphate pathway",
+                "correct": true
+            },
+            {
+                "text": "TCA cycle",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which enzyme deficiency leads to Tay-Sachs disease?",
+        "answers": [{
+            "text": "Hexosaminidase A",
+            "correct": true
+        },
+            {
+                "text": "β-galactosidase",
+                "correct": false
+            },
+            {
+                "text": "Glucocerebrosidase",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which vitamin deficiency is linked to megaloblastic anemia?",
+        "answers": [{
+            "text": "Vitamin B12",
+            "correct": true
+        },
+            {
+                "text": "Vitamin A",
+                "correct": false
+            },
+            {
+                "text": "Vitamin D",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which amino acid is a precursor for melanin?",
+        "answers": [{
+            "text": "Tyrosine",
+            "correct": true
+        },
+            {
+                "text": "Tryptophan",
+                "correct": false
+            },
+            {
+                "text": "Phenylalanine",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which enzyme catalyzes the breakdown of triglycerides in adipose tissue?",
+        "answers": [{
+            "text": "Lipoprotein lipase",
+            "correct": false
+        },
+            {
+                "text": "Hormone-sensitive lipase",
+                "correct": true
+            },
+            {
+                "text": "Pancreatic lipase",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which compound is a major ketone body?",
+        "answers": [{
+            "text": "Acetone",
+            "correct": true
+        },
+            {
+                "text": "Lactate",
+                "correct": false
+            },
+            {
+                "text": "Succinate",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which vitamin is essential for collagen hydroxylation?",
+        "answers": [{
+            "text": "Vitamin C",
+            "correct": true
+        },
+            {
+                "text": "Vitamin K",
+                "correct": false
+            },
+            {
+                "text": "Vitamin E",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which enzyme converts cholesterol to pregnenolone in steroid hormone synthesis?",
+        "answers": [{
+            "text": "Aromatase",
+            "correct": false
+        },
+            {
+                "text": "Desmolase",
+                "correct": true
+            },
+            {
+                "text": "3β-hydroxysteroid dehydrogenase",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which disease is caused by α-galactosidase A deficiency?",
+        "answers": [{
+            "text": "Fabry disease",
+            "correct": true
+        },
+            {
+                "text": "Pompe disease",
+                "correct": false
+            },
+            {
+                "text": "Niemann-Pick disease",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which vitamin is required for the synthesis of NAD+?",
+        "answers": [{
+            "text": "Niacin (Vitamin B3)",
+            "correct": true
+        },
+            {
+                "text": "Vitamin B6",
+                "correct": false
+            },
+            {
+                "text": "Riboflavin",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which enzyme catalyzes the formation of deoxyribonucleotides from ribonucleotides?",
+        "answers": [{
+            "text": "DNA polymerase",
+            "correct": false
+        },
+            {
+                "text": "Ribonucleotide reductase",
+                "correct": true
+            },
+            {
+                "text": "RNA polymerase",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which lipoprotein carries triglycerides synthesized in the liver?",
+        "answers": [{
+            "text": "VLDL",
+            "correct": true
+        },
+            {
+                "text": "LDL",
+                "correct": false
+            },
+            {
+                "text": "HDL",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which amino acid is a precursor for histamine?",
+        "answers": [{
+            "text": "Histidine",
+            "correct": true
+        },
+            {
+                "text": "Tryptophan",
+                "correct": false
+            },
+            {
+                "text": "Tyrosine",
+                "correct": false
+            }]
+    }]

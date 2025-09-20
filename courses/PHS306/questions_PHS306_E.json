@@ -1,0 +1,380 @@
+[{
+    "question": "Which of the following drugs is classified as a proton pump inhibitor (PPI)?",
+    "answers": [{
+        "text": "Metoclopramide",
+        "correct": false
+    },
+        {
+            "text": "Omeprazole",
+            "correct": true
+        },
+        {
+            "text": "Ranitidine",
+            "correct": false
+        },
+        {
+            "text": "Sucralfate",
+            "correct": false
+        }]
+},
+    {
+        "question": "Which drug is most effective in the treatment of acute gout attacks?",
+        "answers": [{
+            "text": "Febuxostat",
+            "correct": false
+        },
+            {
+                "text": "Colchicine",
+                "correct": true
+            },
+            {
+                "text": "Probenecid",
+                "correct": false
+            },
+            {
+                "text": "Allopurinol",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which antihypertensive drug works by inhibiting the angiotensin-converting enzyme?",
+        "answers": [{
+            "text": "Atenolol",
+            "correct": false
+        },
+            {
+                "text": "Losartan",
+                "correct": false
+            },
+            {
+                "text": "Captopril",
+                "correct": true
+            },
+            {
+                "text": "Hydrochlorothiazide",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What is the major adverse effect of aminoglycosides?",
+        "answers": [{
+            "text": "Photosensitivity",
+            "correct": false
+        },
+            {
+                "text": "Aplastic anemia",
+                "correct": false
+            },
+            {
+                "text": "Nephrotoxicity",
+                "correct": true
+            },
+            {
+                "text": "Hepatotoxicity",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which drug is used as an antidote for organophosphate poisoning?",
+        "answers": [{
+            "text": "Naloxone",
+            "correct": false
+        },
+            {
+                "text": "Protamine sulfate",
+                "correct": false
+            },
+            {
+                "text": "Atropine",
+                "correct": true
+            },
+            {
+                "text": "Flumazenil",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which of the following is a selective β1-blocker?",
+        "answers": [{
+            "text": "Carvedilol",
+            "correct": false
+        },
+            {
+                "text": "Labetalol",
+                "correct": false
+            },
+            {
+                "text": "Metoprolol",
+                "correct": true
+            },
+            {
+                "text": "Propranolol",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which antiemetic drug works as a serotonin 5-HT3 receptor antagonist?",
+        "answers": [{
+            "text": "Domperidone",
+            "correct": false
+        },
+            {
+                "text": "Prochlorperazine",
+                "correct": false
+            },
+            {
+                "text": "Ondansetron",
+                "correct": true
+            },
+            {
+                "text": "Metoclopramide",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which insulin preparation has the fastest onset of action?",
+        "answers": [{
+            "text": "Insulin glargine",
+            "correct": false
+        },
+            {
+                "text": "Regular insulin",
+                "correct": false
+            },
+            {
+                "text": "Insulin lispro",
+                "correct": true
+            },
+            {
+                "text": "NPH insulin",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which of the following is an H2 receptor antagonist?",
+        "answers": [{
+            "text": "Omeprazole",
+            "correct": false
+        },
+            {
+                "text": "Ranitidine",
+                "correct": true
+            },
+            {
+                "text": "Bismuth subsalicylate",
+                "correct": false
+            },
+            {
+                "text": "Misoprostol",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What is the mechanism of action of sulfonylureas in diabetes treatment?",
+        "answers": [{
+            "text": "Slow glucose absorption in the gut",
+            "correct": false
+        },
+            {
+                "text": "Increase insulin sensitivity in tissues",
+                "correct": false
+            },
+            {
+                "text": "Increase insulin secretion",
+                "correct": true
+            },
+            {
+                "text": "Decrease hepatic glucose output",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which antipsychotic drug is associated with agranulocytosis?",
+        "answers": [{
+            "text": "Olanzapine",
+            "correct": false
+        },
+            {
+                "text": "Haloperidol",
+                "correct": false
+            },
+            {
+                "text": "Risperidone",
+                "correct": false
+            },
+            {
+                "text": "Clozapine",
+                "correct": true
+            }]
+    },
+    {
+        "question": "Which drug is used in the treatment of malignant hyperthermia?",
+        "answers": [{
+            "text": "Diazepam",
+            "correct": false
+        },
+            {
+                "text": "Succinylcholine",
+                "correct": false
+            },
+            {
+                "text": "Cyclobenzaprine",
+                "correct": false
+            },
+            {
+                "text": "Dantrolene",
+                "correct": true
+            }]
+    },
+    {
+        "question": "Which of the following is a macrolide antibiotic?",
+        "answers": [{
+            "text": "Ciprofloxacin",
+            "correct": false
+        },
+            {
+                "text": "Erythromycin",
+                "correct": true
+            },
+            {
+                "text": "Gentamicin",
+                "correct": false
+            },
+            {
+                "text": "Amoxicillin",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What is the primary mechanism of action of statins?",
+        "answers": [{
+            "text": "Increase bile acid secretion",
+            "correct": false
+        },
+            {
+                "text": "Inhibit cholesterol absorption in the intestine",
+                "correct": false
+            },
+            {
+                "text": "Inhibit lipoprotein lipase",
+                "correct": false
+            },
+            {
+                "text": "Inhibit HMG-CoA reductase",
+                "correct": true
+            }]
+    },
+    {
+        "question": "Which drug is commonly used in asthma management as a short-acting β2 agonist?",
+        "answers": [{
+            "text": "Ipratropium",
+            "correct": false
+        },
+            {
+                "text": "Montelukast",
+                "correct": false
+            },
+            {
+                "text": "Salbutamol",
+                "correct": true
+            },
+            {
+                "text": "Budesonide",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which opioid antagonist is used in opioid overdose?",
+        "answers": [{
+            "text": "Naltrexone",
+            "correct": false
+        },
+            {
+                "text": "Naloxone",
+                "correct": true
+            },
+            {
+                "text": "Buprenorphine",
+                "correct": false
+            },
+            {
+                "text": "Methadone",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which antitubercular drug can cause optic neuritis?",
+        "answers": [{
+            "text": "Pyrazinamide",
+            "correct": false
+        },
+            {
+                "text": "Rifampicin",
+                "correct": false
+            },
+            {
+                "text": "Ethambutol",
+                "correct": true
+            },
+            {
+                "text": "Isoniazid",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which drug is used as a prophylaxis against malaria in chloroquine-resistant regions?",
+        "answers": [{
+            "text": "Chloroquine",
+            "correct": false
+        },
+            {
+                "text": "Mefloquine",
+                "correct": true
+            },
+            {
+                "text": "Primaquine",
+                "correct": false
+            },
+            {
+                "text": "Proguanil",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which diuretic is classified as a loop diuretic?",
+        "answers": [{
+            "text": "Amiloride",
+            "correct": false
+        },
+            {
+                "text": "Hydrochlorothiazide",
+                "correct": false
+            },
+            {
+                "text": "Furosemide",
+                "correct": true
+            },
+            {
+                "text": "Spironolactone",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which drug is used to prevent chemotherapy-induced nausea and vomiting?",
+        "answers": [{
+            "text": "Ondansetron",
+            "correct": true
+        },
+            {
+                "text": "Diphenhydramine",
+                "correct": false
+            },
+            {
+                "text": "Hyoscine",
+                "correct": false
+            },
+            {
+                "text": "Chlorpromazine",
+                "correct": false
+            }]
+    }]

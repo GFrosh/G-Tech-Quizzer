@@ -1,0 +1,300 @@
+[{
+    "question": "Which enzyme catalyzes the rate-limiting step of cholesterol synthesis?",
+    "answers": [{
+        "text": "HMG-CoA reductase",
+        "correct": true
+    },
+        {
+            "text": "ATP citrate lyase",
+            "correct": false
+        },
+        {
+            "text": "Acetyl-CoA carboxylase",
+            "correct": false
+        }]
+},
+    {
+        "question": "Which lipoprotein transports cholesterol from tissues to the liver?",
+        "answers": [{
+            "text": "HDL",
+            "correct": true
+        },
+            {
+                "text": "LDL",
+                "correct": false
+            },
+            {
+                "text": "VLDL",
+                "correct": false
+            }]
+    },
+    {
+        "question": "In purine synthesis, which amino acid contributes a nitrogen atom?",
+        "answers": [{
+            "text": "Glycine",
+            "correct": false
+        },
+            {
+                "text": "Glutamine",
+                "correct": true
+            },
+            {
+                "text": "Serine",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which coenzyme is derived from riboflavin (vitamin B2)?",
+        "answers": [{
+            "text": "FAD",
+            "correct": true
+        },
+            {
+                "text": "NAD+",
+                "correct": false
+            },
+            {
+                "text": "CoA",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which enzyme deficiency causes gout due to uric acid accumulation?",
+        "answers": [{
+            "text": "Xanthine oxidase",
+            "correct": false
+        },
+            {
+                "text": "HGPRT",
+                "correct": true
+            },
+            {
+                "text": "Adenylate kinase",
+                "correct": false
+            }]
+    },
+    {
+        "question": "The Cori cycle involves which two organs?",
+        "answers": [{
+            "text": "Muscle and liver",
+            "correct": true
+        },
+            {
+                "text": "Heart and kidney",
+                "correct": false
+            },
+            {
+                "text": "Brain and pancreas",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which vitamin is a cofactor for transamination reactions?",
+        "answers": [{
+            "text": "Vitamin B6",
+            "correct": true
+        },
+            {
+                "text": "Vitamin B12",
+                "correct": false
+            },
+            {
+                "text": "Vitamin C",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which enzyme catalyzes the conversion of pyruvate to acetyl-CoA?",
+        "answers": [{
+            "text": "Pyruvate carboxylase",
+            "correct": false
+        },
+            {
+                "text": "Pyruvate dehydrogenase",
+                "correct": true
+            },
+            {
+                "text": "Lactate dehydrogenase",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which molecule is the precursor of bile salts?",
+        "answers": [{
+            "text": "Cholesterol",
+            "correct": true
+        },
+            {
+                "text": "Triglycerides",
+                "correct": false
+            },
+            {
+                "text": "Phospholipids",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which enzyme is inhibited by statins?",
+        "answers": [{
+            "text": "HMG-CoA reductase",
+            "correct": true
+        },
+            {
+                "text": "Lipoprotein lipase",
+                "correct": false
+            },
+            {
+                "text": "Acyl-CoA synthetase",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which amino acid is exclusively ketogenic?",
+        "answers": [{
+            "text": "Leucine",
+            "correct": true
+        },
+            {
+                "text": "Glutamine",
+                "correct": false
+            },
+            {
+                "text": "Alanine",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which lipoprotein is rich in triglycerides?",
+        "answers": [{
+            "text": "VLDL",
+            "correct": true
+        },
+            {
+                "text": "HDL",
+                "correct": false
+            },
+            {
+                "text": "LDL",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What is the end product of purine catabolism in humans?",
+        "answers": [{
+            "text": "Uric acid",
+            "correct": true
+        },
+            {
+                "text": "Urea",
+                "correct": false
+            },
+            {
+                "text": "Ammonia",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which enzyme is deficient in phenylketonuria (PKU)?",
+        "answers": [{
+            "text": "Phenylalanine hydroxylase",
+            "correct": true
+        },
+            {
+                "text": "Tyrosine aminotransferase",
+                "correct": false
+            },
+            {
+                "text": "Dopamine beta-hydroxylase",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which pathway synthesizes ribose-5-phosphate?",
+        "answers": [{
+            "text": "Pentose phosphate pathway",
+            "correct": true
+        },
+            {
+                "text": "Glycolysis",
+                "correct": false
+            },
+            {
+                "text": "Krebs cycle",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which organ is the primary site of gluconeogenesis?",
+        "answers": [{
+            "text": "Kidney",
+            "correct": false
+        },
+            {
+                "text": "Liver",
+                "correct": true
+            },
+            {
+                "text": "Skeletal muscle",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which vitamin is required for collagen synthesis?",
+        "answers": [{
+            "text": "Vitamin C",
+            "correct": true
+        },
+            {
+                "text": "Vitamin E",
+                "correct": false
+            },
+            {
+                "text": "Vitamin D",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which nucleotide is the energy currency of the cell?",
+        "answers": [{
+            "text": "ATP",
+            "correct": true
+        },
+            {
+                "text": "GTP",
+                "correct": false
+            },
+            {
+                "text": "CTP",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which enzyme deficiency leads to albinism?",
+        "answers": [{
+            "text": "Tyrosinase",
+            "correct": true
+        },
+            {
+                "text": "Phenylalanine hydroxylase",
+                "correct": false
+            },
+            {
+                "text": "Homogentisate oxidase",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which organelle is the site of fatty acid oxidation?",
+        "answers": [{
+            "text": "Mitochondria",
+            "correct": true
+        },
+            {
+                "text": "Golgi apparatus",
+                "correct": false
+            },
+            {
+                "text": "Endoplasmic reticulum",
+                "correct": false
+            }]
+    }]

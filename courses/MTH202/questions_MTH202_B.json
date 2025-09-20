@@ -1,300 +1,261 @@
 [{
-    "question": "What is the degree of the ODE: (d²y/dx²)² + y = 0?",
-    "answers": [{
-        "text": "2",
-        "correct": true
+    "question":"What is the degree of the ODE: (d²y/dx²)² + y = 0?",
+    "answers":[{
+        "text":"1",
+        "correct":false
     },
         {
-            "text": "1",
-            "correct": false
+            "text":"2",
+            "correct":true
         },
         {
-            "text": "4",
-            "correct": false
-        }]
-},
-    {
-        "question": "Which method is suitable for solving linear ODEs with constant coefficients?",
-        "answers": [{
-            "text": "Auxiliary equation method",
-            "correct": true
-        },
-            {
-                "text": "Taylor series",
-                "correct": false
-            },
-            {
-                "text": "Separation of variables",
-                "correct": false
-            }]
+            "text":"4",
+            "correct":false
+        }]}, {
+    "question":"Which method is suitable for solving linear ODEs with constant coefficients?",
+    "answers":[{
+        "text":"Separation of variables",
+        "correct":false
     },
-    {
-        "question": "What is the solution of dy/dx = y?",
-        "answers": [{
-            "text": "y = Ce^x",
-            "correct": true
+        {
+            "text":"Taylor series",
+            "correct":false
         },
-            {
-                "text": "y = x + C",
-                "correct": false
-            },
-            {
-                "text": "y = ln(x) + C",
-                "correct": false
-            }]
+        {
+            "text":"Auxiliary equation method",
+            "correct":true
+        }]}, {
+    "question":"What is the solution of dy/dx = y?",
+    "answers":[{
+        "text":"y = x + C",
+        "correct":false
     },
-    {
-        "question": "Which ODE represents exponential decay?",
-        "answers": [{
-            "text": "dy/dx = -ky, k > 0",
-            "correct": true
+        {
+            "text":"y = Ce^x",
+            "correct":true
         },
-            {
-                "text": "dy/dx = ky, k > 0",
-                "correct": false
-            },
-            {
-                "text": "dy/dx = 0",
-                "correct": false
-            }]
+        {
+            "text":"y = ln(x) + C",
+            "correct":false
+        }]}, {
+    "question":"Which ODE represents exponential decay?",
+    "answers":[{
+        "text":"dy/dx = ky, k > 0",
+        "correct":false
     },
-    {
-        "question": "What is the order of the equation y'''' + y'' + y = 0?",
-        "answers": [{
-            "text": "4",
-            "correct": true
+        {
+            "text":"dy/dx = 0",
+            "correct":false
         },
-            {
-                "text": "2",
-                "correct": false
-            },
-            {
-                "text": "3",
-                "correct": false
-            }]
+        {
+            "text":"dy/dx = -ky, k > 0",
+            "correct":true
+        }]}, {
+    "question":"What is the order of the equation y'''' + y'' + y = 0?",
+    "answers":[{
+        "text":"4",
+        "correct":true
     },
-    {
-        "question": "What type of equation is y'' + 16y = 0?",
-        "answers": [{
-            "text": "Second-order linear homogeneous ODE",
-            "correct": true
+        {
+            "text":"3",
+            "correct":false
         },
-            {
-                "text": "Nonlinear ODE",
-                "correct": false
-            },
-            {
-                "text": "First-order linear ODE",
-                "correct": false
-            }]
+        {
+            "text":"2",
+            "correct":false
+        }]}, {
+    "question":"What type of equation is y'' + 16y = 0?",
+    "answers":[{
+        "text":"Nonlinear ODE",
+        "correct":false
     },
-    {
-        "question": "What is the complementary function (CF) of y'' - 9y = 0?",
-        "answers": [{
-            "text": "y = C₁e^(3x) + C₂e^(-3x)",
-            "correct": true
+        {
+            "text":"Second-order linear homogeneous ODE",
+            "correct":true
         },
-            {
-                "text": "y = C₁cos(3x) + C₂sin(3x)",
-                "correct": false
-            },
-            {
-                "text": "y = C₁e^x + C₂e^(-x)",
-                "correct": false
-            }]
+        {
+            "text":"First-order linear ODE",
+            "correct":false
+        }]}, {
+    "question":"What is the complementary function (CF) of y'' - 9y = 0?",
+    "answers":[{
+        "text":"y = C₁cos(3x) + C₂sin(3x)",
+        "correct":false
     },
-    {
-        "question": "What is the auxiliary equation of y'' + 2y' + 5y = 0?",
-        "answers": [{
-            "text": "r² + 2r + 5 = 0",
-            "correct": true
+        {
+            "text":"y = C₁e^(3x) + C₂e^(-3x)",
+            "correct":true
         },
-            {
-                "text": "r² - 2r + 5 = 0",
-                "correct": false
-            },
-            {
-                "text": "r² + 5r + 2 = 0",
-                "correct": false
-            }]
+        {
+            "text":"y = C₁e^x + C₂e^(-x)",
+            "correct":false
+        }]}, {
+    "question":"What is the auxiliary equation of y'' + 2y' + 5y = 0?",
+    "answers":[{
+        "text":"r² + 5r + 2 = 0",
+        "correct":false
     },
-    {
-        "question": "Which solution type is obtained if the auxiliary equation has real and equal roots?",
-        "answers": [{
-            "text": "y = (C₁ + C₂x)e^(rx)",
-            "correct": true
+        {
+            "text":"r² + 2r + 5 = 0",
+            "correct":true
         },
-            {
-                "text": "y = C₁e^(r₁x) + C₂e^(r₂x)",
-                "correct": false
-            },
-            {
-                "text": "y = C₁cos(bx) + C₂sin(bx)",
-                "correct": false
-            }]
+        {
+            "text":"r² - 2r + 5 = 0",
+            "correct":false
+        }]}, {
+    "question":"Which solution type is obtained if the auxiliary equation has real and equal roots?",
+    "answers":[{
+        "text":"y = C₁cos(bx) + C₂sin(bx)",
+        "correct":false
     },
-    {
-        "question": "What is the integrating factor of dy/dx - (1/x)y = x²?",
-        "answers": [{
-            "text": "1/x",
-            "correct": false
+        {
+            "text":"y = (C₁ + C₂x)e^(rx)",
+            "correct":true
         },
-            {
-                "text": "x^(-1)",
-                "correct": false
-            },
-            {
-                "text": "x^(-1)",
-                "correct": true
-            }]
+        {
+            "text":"y = C₁e^(r₁x) + C₂e^(r₂x)",
+            "correct":false
+        }]}, {
+    "question":"What is the integrating factor of dy/dx - (1/x)y = x²?",
+    "answers":[{
+        "text":"x^(-1)",
+        "correct":false
     },
-    {
-        "question": "What is the solution of dy/dx = cos(x)?",
-        "answers": [{
-            "text": "y = sin(x) + C",
-            "correct": true
+        {
+            "text":"x^(-1)",
+            "correct":false
         },
-            {
-                "text": "y = cos(x) + C",
-                "correct": false
-            },
-            {
-                "text": "y = -sin(x) + C",
-                "correct": false
-            }]
+        {
+            "text":"1/x",
+            "correct":true
+        }]}, {
+    "question":"What is the solution of dy/dx = cos(x)?",
+    "answers":[{
+        "text":"y = -sin(x) + C",
+        "correct":false
     },
-    {
-        "question": "What type of ODE is dy/dx + y = sin(x)?",
-        "answers": [{
-            "text": "Linear non-homogeneous",
-            "correct": true
+        {
+            "text":"y = cos(x) + C",
+            "correct":false
         },
-            {
-                "text": "Separable",
-                "correct": false
-            },
-            {
-                "text": "Homogeneous",
-                "correct": false
-            }]
+        {
+            "text":"y = sin(x) + C",
+            "correct":true
+        }]}, {
+    "question":"What type of ODE is dy/dx + y = sin(x)?",
+    "answers":[{
+        "text":"Separable",
+        "correct":false
     },
-    {
-        "question": "What is the Laplace Transform of y'?",
-        "answers": [{
-            "text": "sY(s) - y(0)",
-            "correct": true
+        {
+            "text":"Linear non-homogeneous",
+            "correct":true
         },
-            {
-                "text": "Y(s)/s",
-                "correct": false
-            },
-            {
-                "text": "Y(s) + y(0)",
-                "correct": false
-            }]
+        {
+            "text":"Homogeneous",
+            "correct":false
+        }]}, {
+    "question":"What is the Laplace Transform of y'?",
+    "answers":[{
+        "text":"Y(s)/s",
+        "correct":false
     },
-    {
-        "question": "Which function is a solution to y'' + y = 0?",
-        "answers": [{
-            "text": "y = A cos(x) + B sin(x)",
-            "correct": true
+        {
+            "text":"sY(s) - y(0)",
+            "correct":true
         },
-            {
-                "text": "y = Ce^x",
-                "correct": false
-            },
-            {
-                "text": "y = ln(x)",
-                "correct": false
-            }]
+        {
+            "text":"Y(s) + y(0)",
+            "correct":false
+        }]}, {
+    "question":"Which function is a solution to y'' + y = 0?",
+    "answers":[{
+        "text":"y = A cos(x) + B sin(x)",
+        "correct":true
     },
-    {
-        "question": "What is the general solution of dy/dx = x²?",
-        "answers": [{
-            "text": "y = (x³/3) + C",
-            "correct": true
+        {
+            "text":"y = Ce^x",
+            "correct":false
         },
-            {
-                "text": "y = x² + C",
-                "correct": false
-            },
-            {
-                "text": "y = (x²/2) + C",
-                "correct": false
-            }]
+        {
+            "text":"y = ln(x)",
+            "correct":false
+        }]}, {
+    "question":"What is the general solution of dy/dx = x²?",
+    "answers":[{
+        "text":"y = x² + C",
+        "correct":false
     },
-    {
-        "question": "What is the method of undetermined coefficients used for?",
-        "answers": [{
-            "text": "Finding particular solutions of non-homogeneous linear ODEs",
-            "correct": true
+        {
+            "text":"y = (x³/3) + C",
+            "correct":true
         },
-            {
-                "text": "Finding the order of ODEs",
-                "correct": false
-            },
-            {
-                "text": "Classifying ODEs",
-                "correct": false
-            }]
+        {
+            "text":"y = (x²/2) + C",
+            "correct":false
+        }]}, {
+    "question":"What is the method of undetermined coefficients used for?",
+    "answers":[{
+        "text":"Classifying ODEs",
+        "correct":false
     },
-    {
-        "question": "What is the order of the ODE (d³y/dx³) + (dy/dx)² = 0?",
-        "answers": [{
-            "text": "3",
-            "correct": true
+        {
+            "text":"Finding particular solutions of non-homogeneous linear ODEs",
+            "correct":true
         },
-            {
-                "text": "2",
-                "correct": false
-            },
-            {
-                "text": "1",
-                "correct": false
-            }]
+        {
+            "text":"Finding the order of ODEs",
+            "correct":false
+        }]}, {
+    "question":"What is the order of the ODE (d³y/dx³) + (dy/dx)² = 0?",
+    "answers":[{
+        "text":"2",
+        "correct":false
     },
-    {
-        "question": "Which initial condition is needed to solve a second-order ODE uniquely?",
-        "answers": [{
-            "text": "Two conditions: y(x₀) and y'(x₀)",
-            "correct": true
+        {
+            "text":"3",
+            "correct":true
         },
-            {
-                "text": "Only y(x₀)",
-                "correct": false
-            },
-            {
-                "text": "Only y'(x₀)",
-                "correct": false
-            }]
+        {
+            "text":"1",
+            "correct":false
+        }]}, {
+    "question":"Which initial condition is needed to solve a second-order ODE uniquely?",
+    "answers":[{
+        "text":"Only y'(x₀)",
+        "correct":false
     },
-    {
-        "question": "What is the solution type for complex conjugate roots of the auxiliary equation?",
-        "answers": [{
-            "text": "y = e^(ax)(C₁cos(bx) + C₂sin(bx))",
-            "correct": true
+        {
+            "text":"Two conditions: y(x₀) and y'(x₀)",
+            "correct":true
         },
-            {
-                "text": "y = C₁e^(r₁x) + C₂e^(r₂x)",
-                "correct": false
-            },
-            {
-                "text": "y = (C₁ + C₂x)e^(rx)",
-                "correct": false
-            }]
+        {
+            "text":"Only y(x₀)",
+            "correct":false
+        }]}, {
+    "question":"What is the solution type for complex conjugate roots of the auxiliary equation?",
+    "answers":[{
+        "text":"y = (C₁ + C₂x)e^(rx)",
+        "correct":false
     },
-    {
-        "question": "Which of these is a nonlinear ODE?",
-        "answers": [{
-            "text": "y'' + y² = 0",
-            "correct": true
+        {
+            "text":"y = e^(ax)(C₁cos(bx) + C₂sin(bx))",
+            "correct":true
         },
-            {
-                "text": "y'' + 2y' + y = 0",
-                "correct": false
-            },
-            {
-                "text": "y' + y = e^x",
-                "correct": false
-            }]
-    }]
+        {
+            "text":"y = C₁e^(r₁x) + C₂e^(r₂x)",
+            "correct":false
+        }]}, {
+    "question":"Which of these is a nonlinear ODE?",
+    "answers":[{
+        "text":"y'' + 2y' + y = 0",
+        "correct":false
+    },
+        {
+            "text":"y'' + y² = 0",
+            "correct":true
+        },
+        {
+            "text":"y' + y = e^x",
+            "correct":false
+        }]}]

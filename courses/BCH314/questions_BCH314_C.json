@@ -1,0 +1,300 @@
+[{
+    "question": "Which vitamin is essential for the synthesis of clotting factors II, VII, IX, and X?",
+    "answers": [{
+        "text": "Vitamin C",
+        "correct": false
+    },
+        {
+            "text": "Vitamin K",
+            "correct": true
+        },
+        {
+            "text": "Vitamin D",
+            "correct": false
+        }]
+},
+    {
+        "question": "Which enzyme deficiency leads to alkaptonuria?",
+        "answers": [{
+            "text": "Homogentisate oxidase",
+            "correct": true
+        },
+            {
+                "text": "Phenylalanine hydroxylase",
+                "correct": false
+            },
+            {
+                "text": "Tyrosinase",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which molecule acts as the primary reducing agent in biosynthetic reactions?",
+        "answers": [{
+            "text": "NADPH",
+            "correct": true
+        },
+            {
+                "text": "FADH2",
+                "correct": false
+            },
+            {
+                "text": "ATP",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which enzyme catalyzes the conversion of pyruvate to acetyl-CoA?",
+        "answers": [{
+            "text": "Citrate synthase",
+            "correct": false
+        },
+            {
+                "text": "Pyruvate dehydrogenase",
+                "correct": true
+            },
+            {
+                "text": "Lactate dehydrogenase",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which lipoprotein transports dietary triglycerides from the intestine?",
+        "answers": [{
+            "text": "VLDL",
+            "correct": false
+        },
+            {
+                "text": "Chylomicrons",
+                "correct": true
+            },
+            {
+                "text": "HDL",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which enzyme is deficient in phenylketonuria (PKU)?",
+        "answers": [{
+            "text": "Phenylalanine hydroxylase",
+            "correct": true
+        },
+            {
+                "text": "Tyrosinase",
+                "correct": false
+            },
+            {
+                "text": "Homogentisate oxidase",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which coenzyme is derived from niacin?",
+        "answers": [{
+            "text": "NAD+",
+            "correct": true
+        },
+            {
+                "text": "FAD",
+                "correct": false
+            },
+            {
+                "text": "Coenzyme A",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which amino acid is the main precursor for heme synthesis?",
+        "answers": [{
+            "text": "Glycine",
+            "correct": true
+        },
+            {
+                "text": "Glutamine",
+                "correct": false
+            },
+            {
+                "text": "Cysteine",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which process produces the majority of ATP in aerobic respiration?",
+        "answers": [{
+            "text": "Electron transport chain and oxidative phosphorylation",
+            "correct": true
+        },
+            {
+                "text": "Glycolysis",
+                "correct": false
+            },
+            {
+                "text": "TCA cycle",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which enzyme is inhibited by aspirin?",
+        "answers": [{
+            "text": "Cyclooxygenase (COX)",
+            "correct": true
+        },
+            {
+                "text": "Lipoxygenase",
+                "correct": false
+            },
+            {
+                "text": "Xanthine oxidase",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which molecule is the storage form of glucose in humans?",
+        "answers": [{
+            "text": "Cellulose",
+            "correct": false
+        },
+            {
+                "text": "Glycogen",
+                "correct": true
+            },
+            {
+                "text": "Starch",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which amino acid is required for the synthesis of nitric oxide?",
+        "answers": [{
+            "text": "Arginine",
+            "correct": true
+        },
+            {
+                "text": "Lysine",
+                "correct": false
+            },
+            {
+                "text": "Methionine",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which enzyme deficiency leads to galactosemia?",
+        "answers": [{
+            "text": "Galactose-1-phosphate uridyltransferase",
+            "correct": true
+        },
+            {
+                "text": "Aldolase B",
+                "correct": false
+            },
+            {
+                "text": "Galactokinase",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which lipoprotein is responsible for reverse cholesterol transport?",
+        "answers": [{
+            "text": "LDL",
+            "correct": false
+        },
+            {
+                "text": "HDL",
+                "correct": true
+            },
+            {
+                "text": "VLDL",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which compound links glycolysis and the TCA cycle?",
+        "answers": [{
+            "text": "Acetyl-CoA",
+            "correct": true
+        },
+            {
+                "text": "Oxaloacetate",
+                "correct": false
+            },
+            {
+                "text": "Citrate",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which vitamin deficiency causes scurvy?",
+        "answers": [{
+            "text": "Vitamin D",
+            "correct": false
+        },
+            {
+                "text": "Vitamin C",
+                "correct": true
+            },
+            {
+                "text": "Vitamin K",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which enzyme catalyzes the breakdown of hydrogen peroxide?",
+        "answers": [{
+            "text": "Catalase",
+            "correct": true
+        },
+            {
+                "text": "Peroxidase",
+                "correct": false
+            },
+            {
+                "text": "Superoxide dismutase",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which organ is the main site of gluconeogenesis?",
+        "answers": [{
+            "text": "Kidney",
+            "correct": false
+        },
+            {
+                "text": "Liver",
+                "correct": true
+            },
+            {
+                "text": "Muscle",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which amino acid is essential for collagen synthesis?",
+        "answers": [{
+            "text": "Hydroxyproline",
+            "correct": true
+        },
+            {
+                "text": "Tryptophan",
+                "correct": false
+            },
+            {
+                "text": "Cysteine",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which compound is a ketone body?",
+        "answers": [{
+            "text": "Acetoacetate",
+            "correct": true
+        },
+            {
+                "text": "Citrate",
+                "correct": false
+            },
+            {
+                "text": "Pyruvate",
+                "correct": false
+            }]
+    }]
