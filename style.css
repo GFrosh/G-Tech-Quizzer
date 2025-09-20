@@ -347,6 +347,36 @@ footer {
 .course-box:nth-child(12) {
     animation-delay: 2.4s;
 }
+.course-box:nth-child(13) {
+    animation-delay: 2.6s;
+}
+.course-box:nth-child(14) {
+    animation-delay: 2.8s;
+}
+.course-box:nth-child(15) {
+    animation-delay: 3s;
+}
+.course-box:nth-child(16) {
+    animation-delay: 3.2s;
+}
+.course-box:nth-child(17) {
+    animation-delay: 3.4s;
+}
+.course-box:nth-child(18) {
+    animation-delay: 3.6s;
+}
+.course-box:nth-child(19) {
+    animation-delay: 3.8s;
+}
+
+/*
+FOR DYNAMIC STAGGERED EFFECT LATER
+.course-box:nth-child(n) {
+    --index: n;
+    animation-delay: calc((var(--index, 1) - 1) * 0.2s);
+}
+*/
+
 
 /* MOBILE OVERRIDES */
 @media (max-width: 768px) {
