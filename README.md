@@ -28,9 +28,7 @@ A dynamic web-based Quiz Application built with HTML, CSS, and JavaScript. Selec
 
 ```bash
 git clone https://github.com/GFrosh/G-Tech-Quizzer.git
-
-
-
+```
 
 ## Live Preview
 [G-TECH Quizzer](https://gfrosh.github.io/G-Tech-Quizzer/)
