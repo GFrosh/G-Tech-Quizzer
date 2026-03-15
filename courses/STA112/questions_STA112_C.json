@@ -245,4 +245,17 @@
         {
             "text":"Mode",
             "correct":false
+        }]}, {
+    "question":"Which measure describes the probability of an event not happening?",
+    "answers":[{
+        "text":"Complement probability",
+        "correct":true
+    },
+        {
+            "text":"Joint probability",
+            "correct":false
+        },
+        {
+            "text":"Marginal probability",
+            "correct":false
         }]}]

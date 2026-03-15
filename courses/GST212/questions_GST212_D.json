@@ -282,4 +282,19 @@
                 "text": "Aristotle",
                 "correct": false
             }]
+    },
+    {
+        "question": "Which branch of philosophy studies correct reasoning?",
+        "answers": [{
+            "text": "Logic",
+            "correct": true
+        },
+            {
+                "text": "Ethics",
+                "correct": false
+            },
+            {
+                "text": "Metaphysics",
+                "correct": false
+            }]
     }]

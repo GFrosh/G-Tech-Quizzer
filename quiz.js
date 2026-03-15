@@ -1,173 +1,130 @@
-export const Quiz = async (sub) => {
-    
-
-
-    // FETCH QUESTIONS FROM JSON FILE
-    const res = await fetch(sub);
-    let quizData = await res.json();
-
-
-    // INITIALIZE COUNT VARIABLES
-    let index = 0;
-    let score = 0;
-    let answered = 1;
-
-
-
-    // GET HTMLCollection (BUTTONS/DIVS...)
-    const questionsContainer = document.getElementById('questionContainer');
-    const questions = document.getElementById("questions");
-    const progress = document.getElementById("progress");
-    const optionsDiv = document.getElementById("options");
-    const nextBtn = document.getElementById("nextBtn");
-    const result = document.getElementById("result");
-
-    const courseSection = document.getElementById('courses');
-    const preQuizSection = document.getElementById('preQuiz');
-    const quizSection = document.getElementById('quiz');
-
-
-
-    // DISPLAY A QUESTION AND ITS OPTIONS
-    function displayQuestion() {
-        // CLEAR CACHE
-        resetQuestion();
-
-
-        // GET AND SHOW QUESTIONS ONE BY ONE
-        // STARTING FROM INDEX 0
-        let currentQuestion = quizData[index];
-        questions.innerHTML = currentQuestion.question;
-
-
-        // SHOW PROGRESS
-        progress.textContent = `Question: ${answered} of ${quizData.length}`;
-    
-
-        // GET AND SHOW AVAILABLE OPTIONS
-        currentQuestion.answers.forEach(answer => {
-            let button = document.createElement("button");
-            button.textContent = answer.text;
-        
-            optionsDiv.appendChild(button);
-            button.addEventListener("click", () => selectOption(button, answer.correct));
-        });
+﻿function getPerformanceMessage(percentage) {
+    if (percentage === 100) {
+        return { title: "Excellent work!", body: "You answered every question correctly." };
     }
+    if (percentage >= 80) {
+        return { title: "Strong result!", body: "You are very close to a perfect score." };
+    }
+    if (percentage >= 60) {
+        return { title: "Solid attempt.", body: "You have a good foundation. Review the missed questions." };
+    }
+    if (percentage >= 40) {
+        return { title: "Keep practicing.", body: "You are getting there. Another pass through the material will help." };
+    }
+    return { title: "More revision needed.", body: "Spend time with the course material, then come back and try again." };
+}
 
+function buildResultView(resultEl, score, total) {
+    var percentage = Math.round((score / total) * 100);
+    var msg = getPerformanceMessage(percentage);
 
+    var titleEl = document.createElement("h2");
+    titleEl.textContent = msg.title;
 
-    // PREPARE DIV FOR THE displayQuestion() func
+    var bodyEl = document.createElement("p");
+    bodyEl.textContent = msg.body;
+
+    var scoreEl = document.createElement("p");
+    scoreEl.className = "result-score";
+    scoreEl.textContent = "Score: " + score + " / " + total + " (" + percentage + "%)";
+
+    resultEl.replaceChildren(titleEl, bodyEl, scoreEl);
+}
+
+export function Quiz(options) {
+    var quizData = options.quizData;
+    var courseTitle = options.courseTitle;
+    var onExit = options.onExit;
+    var setStatus = options.setStatus;
+
+    var index = 0;
+    var score = 0;
+
+    var questionsContainer = document.getElementById("questionContainer");
+    var questionsEl = document.getElementById("questions");
+    var progressEl = document.getElementById("progress");
+    var optionsDiv = document.getElementById("options");
+    var nextBtn = document.getElementById("nextBtn");
+    var resultEl = document.getElementById("result");
+
     function resetQuestion() {
-        optionsDiv.innerHTML = "";
+        optionsDiv.replaceChildren();
         nextBtn.classList.add("hidden");
+        nextBtn.textContent = index === quizData.length - 1 ? "Finish Quiz" : "Next Question";
     }
 
-
-
-    // MARK SELECTED OPTION AND DISPLAYS NEXT BUTTON
-    function selectOption(button, correct) {
-    
-        nextBtn.classList.remove("hidden");
-    
-        if (correct) {
-            button.classList.add("correct");
-            score++;
-        } else {
-            button.classList.add("wrong");
-        }
-
-
-        Array.from(optionsDiv.children).forEach(btn => {
+    function disableOptions(correctText) {
+        Array.from(optionsDiv.children).forEach(function(btn) {
             btn.disabled = true;
-            if (btn.textContent === quizData[index].answers.find(a => a.correct).text) {
+            if (btn.textContent === correctText) {
                 btn.classList.add("correct");
             }
         });
     }
 
-
-
-    // LOAD NEXT QUESTION SET
-    nextBtn.onclick = () => {
-            index++;
-            answered++;
-            if (index < quizData.length) {
-                displayQuestion();
-            } else if (index === quizData.length) {
-                nextBtn.innerText = "Finish";
-                showResult();
-            }
-        }
-
-
-    // GRADING FUNCTIONALITY
-    function grading(score, overall, report) {
-        let percentage = (score / overall.length) * 100;
-    
-        
-        if (percentage <= 25) {
-            report.innerHTML = `<h2>Olodo Rapata!</h2>
-            <h2>You can do better....or not</h2>
-            <h2>Your Score: ${score} / ${overall.length}</h2>`;
-        } else if (percentage > 25 && percentage <= 50) {
-            report.innerHTML = `<h2>Nice Try! There's room for improvement</h2>
-            <h2>Your Score: ${score} / ${overall.length}</h2>`;
-        } else if (percentage > 50 && percentage <= 75) {
-            report.innerHTML = `<h2>Better luck next time. Consistency is key.</h2>
-            <h2>Your Score: ${score} / ${overall.length}</h2>`;
-        }
-        else if (percentage > 75 && percentage <= 99.9) {
-            report.innerHTML = `<h2>Close Enough!</h2>
-            <h2>Your Score: ${score} / ${overall.length}</h2>`;
+    function selectOption(button, correct) {
+        nextBtn.classList.remove("hidden");
+        if (correct) {
+            button.classList.add("correct");
+            score += 1;
         } else {
-            report.innerHTML = `<h2>Perfection! Or so you'd think</h2>
-            <h2>Your Score: ${score} / ${overall.length}</h2>`;
+            button.classList.add("wrong");
         }
+        var correctAnswer = quizData[index].answers.find(function(a) { return a.correct; });
+        disableOptions(correctAnswer.text);
+        nextBtn.focus();
     }
 
+    function displayQuestion() {
+        var q = quizData[index];
+        resetQuestion();
+        questionsEl.textContent = q.question;
+        progressEl.textContent = "Question " + (index + 1) + " of " + quizData.length;
+        q.answers.forEach(function(answer) {
+            var btn = document.createElement("button");
+            btn.type = "button";
+            btn.textContent = answer.text;
+            btn.addEventListener("click", function() { selectOption(btn, answer.correct); });
+            optionsDiv.appendChild(btn);
+        });
+    }
 
-
-
-
-    // DISPLAY RESULT AFTER QUIZ COMPLETION
     function showResult() {
         questionsContainer.classList.add("hidden");
-        result.classList.remove("hidden");
+        resultEl.classList.remove("hidden");
+        buildResultView(resultEl, score, quizData.length);
 
-        grading(score, quizData, result);
-        
-        nextBtn.textContent = "End Quiz";
-        nextBtn.onclick = () => {
-            quizSection.classList.add("hidden");
-            courseSection.classList.remove("hidden");
+        nextBtn.classList.remove("hidden");
+        nextBtn.textContent = "Back to Courses";
+        nextBtn.onclick = function() {
+            if (typeof onExit === "function") { onExit(); }
         };
-        
+        nextBtn.focus();
+
+        if (typeof setStatus === "function") {
+            setStatus(courseTitle + " completed. Score: " + score + " / " + quizData.length + ".", "success");
+        }
     }
 
-
-
-    // QUIZ RESET FUNCTUON
-    function resetQuiz() {
-        index = 0;
-        score = 0;
-        answered = 1;
-    
-        result.innerHTML = "";
-        nextBtn.innerText = "Next";
-        nextBtn.classList.add("hidden");
-    
-        // RESTORE INITIAL VISIBILITY STATUS
-        questionsContainer.classList.remove("hidden");
-        result.classList.add("hidden");
+    function handleNext() {
+        if (index < quizData.length - 1) {
+            index += 1;
+            displayQuestion();
+        } else {
+            showResult();
+        }
     }
-    
 
+    // Initialise
+    questionsContainer.classList.remove("hidden");
+    resultEl.classList.add("hidden");
+    resultEl.replaceChildren();
+    nextBtn.classList.add("hidden");
+    nextBtn.onclick = handleNext;
 
-
-    // CLEAN SLATE
-    resetQuiz();
-
-
-    // START QUIZ
     displayQuestion();
+
+    if (typeof setStatus === "function") {
+        setStatus(courseTitle + " started  " + quizData.length + " questions. Good luck!", "info");
+    }
 }
