@@ -1,0 +1,300 @@
+[{
+    "question": "Which unit is used to measure clock speed in microcontrollers?",
+    "answers": [{
+        "text": "Gigahertz (GHz)",
+        "correct": false
+    },
+        {
+            "text": "Hertz (Hz)",
+            "correct": true
+        },
+        {
+            "text": "Bytes (B)",
+            "correct": false
+        }]
+},
+    {
+        "question": "Which type of memory loses its data when power is switched off?",
+        "answers": [{
+            "text": "Flash",
+            "correct": false
+        },
+            {
+                "text": "RAM",
+                "correct": true
+            },
+            {
+                "text": "ROM",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What is the purpose of an ADC in embedded systems?",
+        "answers": [{
+            "text": "Convert analog signals into digital form",
+            "correct": true
+        },
+            {
+                "text": "Convert digital signals to analog",
+                "correct": false
+            },
+            {
+                "text": "Store digital program data",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which embedded system application requires ultra-low power consumption?",
+        "answers": [{
+            "text": "Wearable health monitors",
+            "correct": true
+        },
+            {
+                "text": "Gaming laptops",
+                "correct": false
+            },
+            {
+                "text": "Supercomputers",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which device is commonly controlled by PWM signals?",
+        "answers": [{
+            "text": "Motors",
+            "correct": true
+        },
+            {
+                "text": "Keyboards",
+                "correct": false
+            },
+            {
+                "text": "Speakers",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What does RTOS stand for?",
+        "answers": [{
+            "text": "Rapid Task Operating System",
+            "correct": false
+        },
+            {
+                "text": "Real-Time Operating System",
+                "correct": true
+            },
+            {
+                "text": "Reliable Task Output System",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which of the following is an input device in embedded systems?",
+        "answers": [{
+            "text": "Temperature sensor",
+            "correct": true
+        },
+            {
+                "text": "LED display",
+                "correct": false
+            },
+            {
+                "text": "Buzzer",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What is the main drawback of embedded systems?",
+        "answers": [{
+            "text": "Difficult to upgrade or reprogram",
+            "correct": true
+        },
+            {
+                "text": "Always consume high power",
+                "correct": false
+            },
+            {
+                "text": "Too large in physical size",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which timer mode generates a square wave signal?",
+        "answers": [{
+            "text": "PWM mode",
+            "correct": true
+        },
+            {
+                "text": "Capture mode",
+                "correct": false
+            },
+            {
+                "text": "One-shot mode",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which company designed the ARM architecture?",
+        "answers": [{
+            "text": "Intel",
+            "correct": false
+        },
+            {
+                "text": "ARM Holdings",
+                "correct": true
+            },
+            {
+                "text": "AMD",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which device provides non-volatile storage in embedded systems?",
+        "answers": [{
+            "text": "Flash memory",
+            "correct": true
+        },
+            {
+                "text": "Registers",
+                "correct": false
+            },
+            {
+                "text": "SRAM",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which scheduling method allows tasks with highest priority to run first?",
+        "answers": [{
+            "text": "Priority scheduling",
+            "correct": true
+        },
+            {
+                "text": "Round robin",
+                "correct": false
+            },
+            {
+                "text": "FIFO",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What is the role of actuators in embedded systems?",
+        "answers": [{
+            "text": "Convert electrical signals into physical action",
+            "correct": true
+        },
+            {
+                "text": "Store binary data",
+                "correct": false
+            },
+            {
+                "text": "Transmit wireless signals",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which of the following is a wireless communication protocol?",
+        "answers": [{
+            "text": "UART",
+            "correct": false
+        },
+            {
+                "text": "Bluetooth",
+                "correct": true
+            },
+            {
+                "text": "I2C",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What is firmware in embedded systems?",
+        "answers": [{
+            "text": "Software programmed into non-volatile memory",
+            "correct": true
+        },
+            {
+                "text": "Temporary files stored in RAM",
+                "correct": false
+            },
+            {
+                "text": "External software applications",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which microcontroller pin provides digital high/low signals?",
+        "answers": [{
+            "text": "GPIO pin",
+            "correct": true
+        },
+            {
+                "text": "VCC pin",
+                "correct": false
+            },
+            {
+                "text": "Ground pin",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which protocol is best for short-distance communication between chips?",
+        "answers": [{
+            "text": "I2C",
+            "correct": true
+        },
+            {
+                "text": "Ethernet",
+                "correct": false
+            },
+            {
+                "text": "Wi-Fi",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which of these is NOT a characteristic of embedded systems?",
+        "answers": [{
+            "text": "Dedicated functionality",
+            "correct": false
+        },
+            {
+                "text": "High reliability",
+                "correct": false
+            },
+            {
+                "text": "Supports multitasking of unlimited apps",
+                "correct": true
+            }]
+    },
+    {
+        "question": "Which communication protocol uses master-slave architecture?",
+        "answers": [{
+            "text": "SPI",
+            "correct": true
+        },
+            {
+                "text": "CAN bus",
+                "correct": false
+            },
+            {
+                "text": "Ethernet",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which system ensures tasks are executed in a predictable time frame?",
+        "answers": [{
+            "text": "Real-time system",
+            "correct": true
+        },
+            {
+                "text": "Batch processing system",
+                "correct": false
+            },
+            {
+                "text": "Time-sharing system",
+                "correct": false
+            }]
+    }]

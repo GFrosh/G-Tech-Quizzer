@@ -1,0 +1,300 @@
+[{
+    "question": "Which type of requirement describes what the system should do?",
+    "answers": [{
+        "text": "Functional requirement",
+        "correct": true
+    },
+        {
+            "text": "Non-functional requirement",
+            "correct": false
+        },
+        {
+            "text": "Business rule",
+            "correct": false
+        }]
+},
+    {
+        "question": "Non-functional requirements describe:",
+        "answers": [{
+            "text": "System performance, reliability, and usability",
+            "correct": true
+        },
+            {
+                "text": "User tasks and system features",
+                "correct": false
+            },
+            {
+                "text": "Project deadlines",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which of the following is an example of a functional requirement?",
+        "answers": [{
+            "text": "The system shall allow users to log in with a password",
+            "correct": true
+        },
+            {
+                "text": "The system shall respond within 2 seconds",
+                "correct": false
+            },
+            {
+                "text": "The system shall be secure against hackers",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which of the following is an example of a non-functional requirement?",
+        "answers": [{
+            "text": "The system shall load the homepage within 3 seconds",
+            "correct": true
+        },
+            {
+                "text": "The system shall send confirmation emails",
+                "correct": false
+            },
+            {
+                "text": "The system shall allow users to register",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Business requirements usually describe:",
+        "answers": [{
+            "text": "High-level goals of the organisation",
+            "correct": true
+        },
+            {
+                "text": "Database table design",
+                "correct": false
+            },
+            {
+                "text": "Code syntax rules",
+                "correct": false
+            }]
+    },
+    {
+        "question": "User requirements are typically written in:",
+        "answers": [{
+            "text": "Natural language, easy for end users to understand",
+            "correct": true
+        },
+            {
+                "text": "Programming languages",
+                "correct": false
+            },
+            {
+                "text": "Binary code",
+                "correct": false
+            }]
+    },
+    {
+        "question": "System requirements describe:",
+        "answers": [{
+            "text": "Detailed descriptions of system functions and constraints",
+            "correct": true
+        },
+            {
+                "text": "The company’s marketing plan",
+                "correct": false
+            },
+            {
+                "text": "The user’s daily activities",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Functional requirements focus on:",
+        "answers": [{
+            "text": "Services and behaviours the system must provide",
+            "correct": true
+        },
+            {
+                "text": "System speed only",
+                "correct": false
+            },
+            {
+                "text": "Visual design only",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Non-functional requirements are also called:",
+        "answers": [{
+            "text": "Quality attributes",
+            "correct": true
+        },
+            {
+                "text": "User manuals",
+                "correct": false
+            },
+            {
+                "text": "Programming rules",
+                "correct": false
+            }]
+    },
+    {
+        "question": "A requirement like 'The system shall support 1000 concurrent users' is a:",
+        "answers": [{
+            "text": "Non-functional requirement",
+            "correct": true
+        },
+            {
+                "text": "Functional requirement",
+                "correct": false
+            },
+            {
+                "text": "Business requirement",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which type of requirement ensures security, reliability, and maintainability?",
+        "answers": [{
+            "text": "Non-functional requirement",
+            "correct": true
+        },
+            {
+                "text": "Functional requirement",
+                "correct": false
+            },
+            {
+                "text": "Business requirement",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which requirement type would describe 'The system shall calculate student grades'?",
+        "answers": [{
+            "text": "Functional requirement",
+            "correct": true
+        },
+            {
+                "text": "Non-functional requirement",
+                "correct": false
+            },
+            {
+                "text": "Organisational requirement",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Scalability and performance are examples of:",
+        "answers": [{
+            "text": "Non-functional requirements",
+            "correct": true
+        },
+            {
+                "text": "Functional requirements",
+                "correct": false
+            },
+            {
+                "text": "Business rules",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Constraints like legal and regulatory compliance are considered:",
+        "answers": [{
+            "text": "Non-functional requirements",
+            "correct": true
+        },
+            {
+                "text": "Functional requirements",
+                "correct": false
+            },
+            {
+                "text": "User requirements",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which type of requirement states 'The system shall comply with GDPR'? ",
+        "answers": [{
+            "text": "Non-functional requirement",
+            "correct": true
+        },
+            {
+                "text": "Functional requirement",
+                "correct": false
+            },
+            {
+                "text": "Business requirement",
+                "correct": false
+            }]
+    },
+    {
+        "question": "An example of a user requirement is:",
+        "answers": [{
+            "text": "As a student, I want to check my results online",
+            "correct": true
+        },
+            {
+                "text": "The system shall handle 1000 requests per second",
+                "correct": false
+            },
+            {
+                "text": "The system shall use a relational database",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which requirement focuses on ease of learning and use?",
+        "answers": [{
+            "text": "Usability requirement",
+            "correct": true
+        },
+            {
+                "text": "Security requirement",
+                "correct": false
+            },
+            {
+                "text": "Functional requirement",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Availability and fault tolerance are examples of:",
+        "answers": [{
+            "text": "Non-functional requirements",
+            "correct": true
+        },
+            {
+                "text": "Functional requirements",
+                "correct": false
+            },
+            {
+                "text": "User requirements",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Requirements that describe how the system interacts with external systems are:",
+        "answers": [{
+            "text": "Interface requirements",
+            "correct": true
+        },
+            {
+                "text": "Business requirements",
+                "correct": false
+            },
+            {
+                "text": "Budget requirements",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which requirement describes the organisation’s reason for building the system?",
+        "answers": [{
+            "text": "Business requirement",
+            "correct": true
+        },
+            {
+                "text": "Functional requirement",
+                "correct": false
+            },
+            {
+                "text": "Non-functional requirement",
+                "correct": false
+            }]
+    }]

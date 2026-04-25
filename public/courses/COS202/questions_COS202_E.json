@@ -1,0 +1,300 @@
+[{
+    "question": "Which collection class does not allow duplicate elements?",
+    "answers": [{
+        "text": "List",
+        "correct": false
+    },
+        {
+            "text": "Set",
+            "correct": true
+        },
+        {
+            "text": "Map",
+            "correct": false
+        }]
+},
+    {
+        "question": "What keyword is used to prevent inheritance of a class in Java?",
+        "answers": [{
+            "text": "final",
+            "correct": true
+        },
+            {
+                "text": "static",
+                "correct": false
+            },
+            {
+                "text": "private",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which method must be implemented by all threads?",
+        "answers": [{
+            "text": "run()",
+            "correct": true
+        },
+            {
+                "text": "start()",
+                "correct": false
+            },
+            {
+                "text": "execute()",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which operator is used to allocate memory for an object?",
+        "answers": [{
+            "text": "malloc",
+            "correct": false
+        },
+            {
+                "text": "alloc",
+                "correct": false
+            },
+            {
+                "text": "new",
+                "correct": true
+            }]
+    },
+    {
+        "question": "Which class is the root of all exception classes in Java?",
+        "answers": [{
+            "text": "Throwable",
+            "correct": true
+        },
+            {
+                "text": "Exception",
+                "correct": false
+            },
+            {
+                "text": "RuntimeException",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What is the default value of a boolean variable in Java?",
+        "answers": [{
+            "text": "true",
+            "correct": false
+        },
+            {
+                "text": "false",
+                "correct": true
+            },
+            {
+                "text": "null",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which access modifier makes a member accessible only within its own class?",
+        "answers": [{
+            "text": "private",
+            "correct": true
+        },
+            {
+                "text": "protected",
+                "correct": false
+            },
+            {
+                "text": "public",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which package contains the Random class in Java?",
+        "answers": [{
+            "text": "java.math",
+            "correct": false
+        },
+            {
+                "text": "java.util",
+                "correct": true
+            },
+            {
+                "text": "java.io",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What will happen if a constructor is declared with a return type?",
+        "answers": [{
+            "text": "It will cause a compile-time error",
+            "correct": true
+        },
+            {
+                "text": "It will return a value",
+                "correct": false
+            },
+            {
+                "text": "It will be treated as a normal method",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which keyword is used to implement an interface in Java?",
+        "answers": [{
+            "text": "extends",
+            "correct": false
+        },
+            {
+                "text": "implements",
+                "correct": true
+            },
+            {
+                "text": "interface",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which method is called automatically when an object is created?",
+        "answers": [{
+            "text": "init()",
+            "correct": false
+        },
+            {
+                "text": "constructor",
+                "correct": true
+            },
+            {
+                "text": "create()",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which keyword is used to create a subclass?",
+        "answers": [{
+            "text": "extends",
+            "correct": true
+        },
+            {
+                "text": "inherits",
+                "correct": false
+            },
+            {
+                "text": "derives",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What is the process of defining multiple methods with the same name but different parameters?",
+        "answers": [{
+            "text": "Method overriding",
+            "correct": false
+        },
+            {
+                "text": "Method overloading",
+                "correct": true
+            },
+            {
+                "text": "Method hiding",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which loop is guaranteed to execute at least once?",
+        "answers": [{
+            "text": "for loop",
+            "correct": false
+        },
+            {
+                "text": "while loop",
+                "correct": false
+            },
+            {
+                "text": "do-while loop",
+                "correct": true
+            }]
+    },
+    {
+        "question": "Which method is used to find the length of a string in Java?",
+        "answers": [{
+            "text": "size()",
+            "correct": false
+        },
+            {
+                "text": "length()",
+                "correct": true
+            },
+            {
+                "text": "count()",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which data type is used to store a single character?",
+        "answers": [{
+            "text": "String",
+            "correct": false
+        },
+            {
+                "text": "char",
+                "correct": true
+            },
+            {
+                "text": "Character[]",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which keyword is used to handle exceptions in Java?",
+        "answers": [{
+            "text": "try",
+            "correct": true
+        },
+            {
+                "text": "catch",
+                "correct": false
+            },
+            {
+                "text": "throw",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What is the correct way to start the main method in Java?",
+        "answers": [{
+            "text": "public static void main(String[] args)",
+            "correct": true
+        },
+            {
+                "text": "public main(String args[])",
+                "correct": false
+            },
+            {
+                "text": "static void main()",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which type of variable is shared among all instances of a class?",
+        "answers": [{
+            "text": "instance variable",
+            "correct": false
+        },
+            {
+                "text": "local variable",
+                "correct": false
+            },
+            {
+                "text": "static variable",
+                "correct": true
+            }]
+    },
+    {
+        "question": "Which operator is used to compare two values in Java?",
+        "answers": [{
+            "text": "==",
+            "correct": true
+        },
+            {
+                "text": "=",
+                "correct": false
+            },
+            {
+                "text": "===",
+                "correct": false
+            }]
+    }]

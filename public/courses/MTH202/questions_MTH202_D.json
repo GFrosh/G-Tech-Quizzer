@@ -1,0 +1,300 @@
+[{
+    "question": "What is the auxiliary equation for y'' + 5y' + 6y = 0?",
+    "answers": [{
+        "text": "r² + 5r + 6 = 0",
+        "correct": true
+    },
+        {
+            "text": "r² + 6r + 5 = 0",
+            "correct": false
+        },
+        {
+            "text": "r² + 3r + 2 = 0",
+            "correct": false
+        }]
+},
+    {
+        "question": "If the auxiliary equation has complex roots, what type of solution arises?",
+        "answers": [{
+            "text": "Trigonometric functions",
+            "correct": true
+        },
+            {
+                "text": "Polynomial functions",
+                "correct": false
+            },
+            {
+                "text": "Constant solution",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What is the solution to dy/dx = y, y(0) = 1?",
+        "answers": [{
+            "text": "y = e^x",
+            "correct": true
+        },
+            {
+                "text": "y = 1",
+                "correct": false
+            },
+            {
+                "text": "y = x",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which method can be applied to solve exact differential equations?",
+        "answers": [{
+            "text": "Finding a potential function",
+            "correct": true
+        },
+            {
+                "text": "Laplace transform",
+                "correct": false
+            },
+            {
+                "text": "Fourier series",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What is the solution form for y'' + 16y = 0?",
+        "answers": [{
+            "text": "y = C1cos(4x) + C2sin(4x)",
+            "correct": true
+        },
+            {
+                "text": "y = C1e^(4x) + C2e^(-4x)",
+                "correct": false
+            },
+            {
+                "text": "y = C1x + C2",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which of these is a first-order linear ODE?",
+        "answers": [{
+            "text": "dy/dx + P(x)y = Q(x)",
+            "correct": true
+        },
+            {
+                "text": "d²y/dx² + y = 0",
+                "correct": false
+            },
+            {
+                "text": "y'' + y' + y = 0",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What is the integrating factor for dy/dx + 2y = e^x?",
+        "answers": [{
+            "text": "e^(2x)",
+            "correct": true
+        },
+            {
+                "text": "e^(-2x)",
+                "correct": false
+            },
+            {
+                "text": "2e^x",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which method is best for solving dy/dx = f(ax + by + c)?",
+        "answers": [{
+            "text": "Homogeneous substitution",
+            "correct": true
+        },
+            {
+                "text": "Partial fractions",
+                "correct": false
+            },
+            {
+                "text": "Laplace transform",
+                "correct": false
+            }]
+    },
+    {
+        "question": "If y'' - 25y = 0, what are the roots of the auxiliary equation?",
+        "answers": [{
+            "text": "±5",
+            "correct": true
+        },
+            {
+                "text": "±25",
+                "correct": false
+            },
+            {
+                "text": "±√25i",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What type of function is often a particular solution for constant forcing terms?",
+        "answers": [{
+            "text": "Constant",
+            "correct": true
+        },
+            {
+                "text": "Exponential",
+                "correct": false
+            },
+            {
+                "text": "Trigonometric",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which of these ODEs can be solved by separation of variables?",
+        "answers": [{
+            "text": "dy/dx = (x/y)",
+            "correct": true
+        },
+            {
+                "text": "dy/dx + y = x",
+                "correct": false
+            },
+            {
+                "text": "y'' + y = 0",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What is the general solution to y'' = k²y?",
+        "answers": [{
+            "text": "y = C1e^(kx) + C2e^(-kx)",
+            "correct": true
+        },
+            {
+                "text": "y = C1cos(kx) + C2sin(kx)",
+                "correct": false
+            },
+            {
+                "text": "y = C1 + C2x",
+                "correct": false
+            }]
+    },
+    {
+        "question": "If y'' + 2y' + y = 0, what type of roots does the auxiliary equation have?",
+        "answers": [{
+            "text": "Repeated real roots",
+            "correct": true
+        },
+            {
+                "text": "Complex roots",
+                "correct": false
+            },
+            {
+                "text": "Distinct real roots",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What is the Laplace transform of y'(t)?",
+        "answers": [{
+            "text": "sY(s) - y(0)",
+            "correct": true
+        },
+            {
+                "text": "Y(s)/s",
+                "correct": false
+            },
+            {
+                "text": "Y(s) + y(0)",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which method is used for ODEs of the form dy/dx = (ax + by + c)/(mx + ny + p)?",
+        "answers": [{
+            "text": "Homogeneous substitution or linear substitution",
+            "correct": true
+        },
+            {
+                "text": "Variation of parameters",
+                "correct": false
+            },
+            {
+                "text": "Laplace transform",
+                "correct": false
+            }]
+    },
+    {
+        "question": "If y'' + 9y' + 20y = 0, what is the auxiliary equation?",
+        "answers": [{
+            "text": "r² + 9r + 20 = 0",
+            "correct": true
+        },
+            {
+                "text": "r² + 20r + 9 = 0",
+                "correct": false
+            },
+            {
+                "text": "r² + 6r + 5 = 0",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which term describes the solution containing no arbitrary constants?",
+        "answers": [{
+            "text": "Particular solution",
+            "correct": true
+        },
+            {
+                "text": "General solution",
+                "correct": false
+            },
+            {
+                "text": "Homogeneous solution",
+                "correct": false
+            }]
+    },
+    {
+        "question": "If y'' + y = 0, what is the fundamental solution set?",
+        "answers": [{
+            "text": "cos(x), sin(x)",
+            "correct": true
+        },
+            {
+                "text": "e^x, e^(-x)",
+                "correct": false
+            },
+            {
+                "text": "1, x",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What is the Laplace transform of sin(at)?",
+        "answers": [{
+            "text": "a / (s² + a²)",
+            "correct": true
+        },
+            {
+                "text": "s / (s² + a²)",
+                "correct": false
+            },
+            {
+                "text": "1 / (s² + a²)",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What is the solution to dy/dx = x, y(0) = 2?",
+        "answers": [{
+            "text": "y = x²/2 + 2",
+            "correct": true
+        },
+            {
+                "text": "y = x² + 2",
+                "correct": false
+            },
+            {
+                "text": "y = 2x",
+                "correct": false
+            }]
+    }]

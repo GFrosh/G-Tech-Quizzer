@@ -1,0 +1,300 @@
+[{
+    "question": "Which keyword is used to import other Java classes or packages?",
+    "answers": [{
+        "text": "include",
+        "correct": false
+    },
+        {
+            "text": "import",
+            "correct": true
+        },
+        {
+            "text": "using",
+            "correct": false
+        }]
+},
+    {
+        "question": "Which method is used to get the length of a string?",
+        "answers": [{
+            "text": "len()",
+            "correct": false
+        },
+            {
+                "text": "length()",
+                "correct": true
+            },
+            {
+                "text": "size()",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which of these is the correct syntax for a single-line comment in Java?",
+        "answers": [{
+            "text": "// comment",
+            "correct": true
+        },
+            {
+                "text": "/* comment */",
+                "correct": false
+            },
+            {
+                "text": "<!-- comment -->",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which operator is used to access members of a class or object?",
+        "answers": [{
+            "text": ".",
+            "correct": true
+        },
+            {
+                "text": "->",
+                "correct": false
+            },
+            {
+                "text": "::",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which type of method belongs to the class rather than an instance?",
+        "answers": [{
+            "text": "static",
+            "correct": true
+        },
+            {
+                "text": "abstract",
+                "correct": false
+            },
+            {
+                "text": "final",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which keyword is used to stop execution of the current iteration of a loop?",
+        "answers": [{
+            "text": "continue",
+            "correct": true
+        },
+            {
+                "text": "skip",
+                "correct": false
+            },
+            {
+                "text": "break",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which type of variable is shared among all objects of a class?",
+        "answers": [{
+            "text": "instance variable",
+            "correct": false
+        },
+            {
+                "text": "static variable",
+                "correct": true
+            },
+            {
+                "text": "local variable",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which keyword is used to inherit methods from a parent class constructor?",
+        "answers": [{
+            "text": "base",
+            "correct": false
+        },
+            {
+                "text": "super",
+                "correct": true
+            },
+            {
+                "text": "this",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which exception is thrown when accessing an array with an invalid index?",
+        "answers": [{
+            "text": "NullPointerException",
+            "correct": false
+        },
+            {
+                "text": "ArrayIndexOutOfBoundsException",
+                "correct": true
+            },
+            {
+                "text": "ArithmeticException",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which method is used to pause a thread in Java?",
+        "answers": [{
+            "text": "Thread.wait()",
+            "correct": false
+        },
+            {
+                "text": "Thread.sleep()",
+                "correct": true
+            },
+            {
+                "text": "Thread.pause()",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which keyword is used to create a subclass of an abstract class?",
+        "answers": [{
+            "text": "extends",
+            "correct": true
+        },
+            {
+                "text": "implements",
+                "correct": false
+            },
+            {
+                "text": "inherits",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which of these is a wrapper class in Java?",
+        "answers": [{
+            "text": "int",
+            "correct": false
+        },
+            {
+                "text": "Integer",
+                "correct": true
+            },
+            {
+                "text": "char",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which operator is used for bitwise OR in Java?",
+        "answers": [{
+            "text": "|",
+            "correct": true
+        },
+            {
+                "text": "||",
+                "correct": false
+            },
+            {
+                "text": "&",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which of these is true about constructors?",
+        "answers": [{
+            "text": "They must have the same name as the class",
+            "correct": true
+        },
+            {
+                "text": "They can return values",
+                "correct": false
+            },
+            {
+                "text": "They must always be private",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which keyword is used to allow a method to be overridden in subclasses?",
+        "answers": [{
+            "text": "virtual",
+            "correct": false
+        },
+            {
+                "text": "overridable",
+                "correct": false
+            },
+            {
+                "text": "not final",
+                "correct": true
+            }]
+    },
+    {
+        "question": "Which exception occurs when a null object is accessed?",
+        "answers": [{
+            "text": "NullPointerException",
+            "correct": true
+        },
+            {
+                "text": "ClassCastException",
+                "correct": false
+            },
+            {
+                "text": "IndexOutOfBoundsException",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which method is called before an object is garbage collected?",
+        "answers": [{
+            "text": "finalize()",
+            "correct": true
+        },
+            {
+                "text": "dispose()",
+                "correct": false
+            },
+            {
+                "text": "end()",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which keyword is used to define a method with no body in an abstract class?",
+        "answers": [{
+            "text": "abstract",
+            "correct": true
+        },
+            {
+                "text": "interface",
+                "correct": false
+            },
+            {
+                "text": "void",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which of these is a loop control statement in Java?",
+        "answers": [{
+            "text": "return",
+            "correct": false
+        },
+            {
+                "text": "break",
+                "correct": true
+            },
+            {
+                "text": "goto",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which method is used to compare strings ignoring case?",
+        "answers": [{
+            "text": "equals()",
+            "correct": false
+        },
+            {
+                "text": "equalsIgnoreCase()",
+                "correct": true
+            },
+            {
+                "text": "compareIgnoreCase()",
+                "correct": false
+            }]
+    }]

@@ -1,0 +1,300 @@
+[{
+    "question": "Which of the following best defines academic integrity?",
+    "answers": [{
+        "text": "Being honest and responsible in research and assignments",
+        "correct": true
+    },
+        {
+            "text": "Finishing work quickly at any cost",
+            "correct": false
+        },
+        {
+            "text": "Copying from other students",
+            "correct": false
+        }]
+},
+    {
+        "question": "Which of the following is a good practice when taking notes?",
+        "answers": [{
+            "text": "Paraphrasing ideas in your own words",
+            "correct": true
+        },
+            {
+                "text": "Copying everything word-for-word without understanding",
+                "correct": false
+            },
+            {
+                "text": "Ignoring source information",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What is the main purpose of a research proposal?",
+        "answers": [{
+            "text": "To outline the plan and objectives of a research project",
+            "correct": true
+        },
+            {
+                "text": "To present final research results",
+                "correct": false
+            },
+            {
+                "text": "To summarise a textbook",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which of these is an example of a credible website?",
+        "answers": [{
+            "text": "A government website ending in .gov",
+            "correct": true
+        },
+            {
+                "text": "A personal blog with no references",
+                "correct": false
+            },
+            {
+                "text": "A random social media post",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What is the purpose of an abstract in a journal article?",
+        "answers": [{
+            "text": "To provide a concise summary of the article",
+            "correct": true
+        },
+            {
+                "text": "To list all references used",
+                "correct": false
+            },
+            {
+                "text": "To explain the author’s biography",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which of the following is an example of ethical information use?",
+        "answers": [{
+            "text": "Paraphrasing with proper citation",
+            "correct": true
+        },
+            {
+                "text": "Copying content without credit",
+                "correct": false
+            },
+            {
+                "text": "Fabricating data",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which tool can help organise references for a research paper?",
+        "answers": [{
+            "text": "Zotero",
+            "correct": true
+        },
+            {
+                "text": "Paint",
+                "correct": false
+            },
+            {
+                "text": "Calculator",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What does critical evaluation of sources involve?",
+        "answers": [{
+            "text": "Assessing credibility, relevance, and accuracy",
+            "correct": true
+        },
+            {
+                "text": "Counting the number of pages",
+                "correct": false
+            },
+            {
+                "text": "Checking the font style",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which of these is considered grey literature?",
+        "answers": [{
+            "text": "Conference proceedings",
+            "correct": true
+        },
+            {
+                "text": "Peer-reviewed journal article",
+                "correct": false
+            },
+            {
+                "text": "Textbook chapter",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which of the following demonstrates plagiarism?",
+        "answers": [{
+            "text": "Copying text without citation",
+            "correct": true
+        },
+            {
+                "text": "Paraphrasing with proper citation",
+                "correct": false
+            },
+            {
+                "text": "Using your own ideas",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which citation style uses in-text citations with author and year?",
+        "answers": [{
+            "text": "APA",
+            "correct": true
+        },
+            {
+                "text": "MLA",
+                "correct": false
+            },
+            {
+                "text": "Chicago footnotes",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which of these helps ensure information accuracy?",
+        "answers": [{
+            "text": "Cross-checking multiple credible sources",
+            "correct": true
+        },
+            {
+                "text": "Relying on a single blog post",
+                "correct": false
+            },
+            {
+                "text": "Ignoring publication dates",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What is a research gap?",
+        "answers": [{
+            "text": "A topic or question that has not been fully explored",
+            "correct": true
+        },
+            {
+                "text": "The introduction of a paper",
+                "correct": false
+            },
+            {
+                "text": "The conclusion of a paper",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which of these is an example of primary research?",
+        "answers": [{
+            "text": "Conducting a survey",
+            "correct": true
+        },
+            {
+                "text": "Reading a textbook",
+                "correct": false
+            },
+            {
+                "text": "Watching a documentary",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which of the following is a reliable indicator of author credibility?",
+        "answers": [{
+            "text": "Academic qualifications and institutional affiliation",
+            "correct": true
+        },
+            {
+                "text": "Colourful graphics in the article",
+                "correct": false
+            },
+            {
+                "text": "Length of the document",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which Boolean operator excludes terms from a search?",
+        "answers": [{
+            "text": "NOT",
+            "correct": true
+        },
+            {
+                "text": "AND",
+                "correct": false
+            },
+            {
+                "text": "OR",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which of these best defines metadata?",
+        "answers": [{
+            "text": "Information that describes other information",
+            "correct": true
+        },
+            {
+                "text": "The main body of a book",
+                "correct": false
+            },
+            {
+                "text": "Author biography",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What is the main advantage of peer-reviewed articles?",
+        "answers": [{
+            "text": "They have been evaluated by experts for quality and reliability",
+            "correct": true
+        },
+            {
+                "text": "They are always free online",
+                "correct": false
+            },
+            {
+                "text": "They are easy to read for beginners",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which of the following best describes open access journals?",
+        "answers": [{
+            "text": "Journals freely available online without subscription",
+            "correct": true
+        },
+            {
+                "text": "Only available in print",
+                "correct": false
+            },
+            {
+                "text": "Require university login for access",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which of the following is an example of a tertiary source?",
+        "answers": [{
+            "text": "Encyclopedia",
+            "correct": true
+        },
+            {
+                "text": "Original research article",
+                "correct": false
+            },
+            {
+                "text": "Survey data",
+                "correct": false
+            }]
+    }]

@@ -1,0 +1,300 @@
+[{
+    "question": "What does 'clock speed' in a CPU measure?",
+    "answers": [{
+        "text": "The number of instructions executed per cycle",
+        "correct": false
+    },
+        {
+            "text": "The number of cycles per second",
+            "correct": true
+        },
+        {
+            "text": "The number of cores in a processor",
+            "correct": false
+        }]
+},
+    {
+        "question": "Which law states that performance improvement is limited by the fraction of a system that cannot be parallelized?",
+        "answers": [{
+            "text": "Moore's Law",
+            "correct": false
+        },
+            {
+                "text": "Amdahl's Law",
+                "correct": true
+            },
+            {
+                "text": "Murphy's Law",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What is the primary goal of pipelining in CPUs?",
+        "answers": [{
+            "text": "Reduce memory size",
+            "correct": false
+        },
+            {
+                "text": "Increase instruction throughput",
+                "correct": true
+            },
+            {
+                "text": "Lower clock frequency",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which factor can cause a pipeline stall?",
+        "answers": [{
+            "text": "Instruction dependencies",
+            "correct": true
+        },
+            {
+                "text": "High clock speed",
+                "correct": false
+            },
+            {
+                "text": "Large cache size",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What is instruction-level parallelism (ILP)?",
+        "answers": [{
+            "text": "Executing multiple instructions simultaneously",
+            "correct": true
+        },
+            {
+                "text": "Running programs on multiple computers",
+                "correct": false
+            },
+            {
+                "text": "Using more memory to speed up tasks",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which scheduling technique reorders instructions to reduce stalls?",
+        "answers": [{
+            "text": "Loop unrolling",
+            "correct": false
+        },
+            {
+                "text": "Out-of-order execution",
+                "correct": true
+            },
+            {
+                "text": "Speculative execution",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What does SIMD stand for?",
+        "answers": [{
+            "text": "Single Instruction Multiple Data",
+            "correct": true
+        },
+            {
+                "text": "Sequential Instruction Memory Data",
+                "correct": false
+            },
+            {
+                "text": "System Integrated Memory Device",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which type of parallelism uses multiple processors to run tasks at the same time?",
+        "answers": [{
+            "text": "Data-level parallelism",
+            "correct": false
+        },
+            {
+                "text": "Thread-level parallelism",
+                "correct": true
+            },
+            {
+                "text": "Register renaming",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What is a superscalar processor?",
+        "answers": [{
+            "text": "A processor with multiple pipelines",
+            "correct": true
+        },
+            {
+                "text": "A processor that runs slower than scalar processors",
+                "correct": false
+            },
+            {
+                "text": "A processor with no cache memory",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which memory hierarchy level has the fastest access speed?",
+        "answers": [{
+            "text": "Registers",
+            "correct": true
+        },
+            {
+                "text": "Cache",
+                "correct": false
+            },
+            {
+                "text": "RAM",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What is 'latency' in computer performance?",
+        "answers": [{
+            "text": "Time taken to fetch data or complete an operation",
+            "correct": true
+        },
+            {
+                "text": "Total number of instructions per program",
+                "correct": false
+            },
+            {
+                "text": "Speed of the clock cycle",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which architecture allows multiple instructions at different stages of execution simultaneously?",
+        "answers": [{
+            "text": "Pipelined architecture",
+            "correct": true
+        },
+            {
+                "text": "Von Neumann architecture",
+                "correct": false
+            },
+            {
+                "text": "Harvard architecture",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which metric measures the average number of instructions executed per cycle?",
+        "answers": [{
+            "text": "CPI (Cycles per Instruction)",
+            "correct": false
+        },
+            {
+                "text": "IPC (Instructions per Cycle)",
+                "correct": true
+            },
+            {
+                "text": "IPS (Instructions per Second)",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What does speculative execution try to achieve?",
+        "answers": [{
+            "text": "Reducing instruction size",
+            "correct": false
+        },
+            {
+                "text": "Improving performance by guessing future instructions",
+                "correct": true
+            },
+            {
+                "text": "Decreasing cache size",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which technique duplicates instructions to use multiple pipelines efficiently?",
+        "answers": [{
+            "text": "Branch prediction",
+            "correct": false
+        },
+            {
+                "text": "Loop unrolling",
+                "correct": true
+            },
+            {
+                "text": "Context switching",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What is 'parallel processing'?",
+        "answers": [{
+            "text": "Executing multiple tasks at the same time",
+            "correct": true
+        },
+            {
+                "text": "Running a program step by step",
+                "correct": false
+            },
+            {
+                "text": "Using a single CPU for all programs",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which factor most directly affects CPU throughput?",
+        "answers": [{
+            "text": "Instruction set complexity",
+            "correct": false
+        },
+            {
+                "text": "Pipeline depth and efficiency",
+                "correct": true
+            },
+            {
+                "text": "Operating system type",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What is the main drawback of parallel processing?",
+        "answers": [{
+            "text": "Increased power consumption and complexity",
+            "correct": true
+        },
+            {
+                "text": "Slower performance than serial processing",
+                "correct": false
+            },
+            {
+                "text": "It only works on single-core systems",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which memory is shared among all processors in parallel systems?",
+        "answers": [{
+            "text": "Registers",
+            "correct": false
+        },
+            {
+                "text": "Main memory (RAM)",
+                "correct": true
+            },
+            {
+                "text": "Cache",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which technique reduces branch hazards by guessing program paths?",
+        "answers": [{
+            "text": "Branch prediction",
+            "correct": true
+        },
+            {
+                "text": "Register renaming",
+                "correct": false
+            },
+            {
+                "text": "Cache replacement",
+                "correct": false
+            }]
+    }]

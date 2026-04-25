@@ -17,8 +17,9 @@ const fs   = require("fs");
 const path = require("path");
 
 const ROOT         = __dirname;
-const COURSES_DIR  = path.join(ROOT, "courses");
-const CATALOG_FILE = path.join(ROOT, "courses.json");
+const PUBLIC_DIR   = path.join(ROOT, "public");
+const COURSES_DIR  = path.join(PUBLIC_DIR, "courses");
+const CATALOG_FILE = path.join(PUBLIC_DIR, "courses.json");
 
 let errors   = 0;
 let warnings = 0;

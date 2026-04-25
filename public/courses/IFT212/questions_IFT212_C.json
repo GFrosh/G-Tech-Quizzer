@@ -1,0 +1,300 @@
+[{
+    "question": "Which of these is the fastest type of memory?",
+    "answers": [{
+        "text": "Cache memory",
+        "correct": true
+    },
+        {
+            "text": "RAM",
+            "correct": false
+        },
+        {
+            "text": "Hard disk",
+            "correct": false
+        }]
+},
+    {
+        "question": "Which type of memory loses its data when power is turned off?",
+        "answers": [{
+            "text": "ROM",
+            "correct": false
+        },
+            {
+                "text": "RAM",
+                "correct": true
+            },
+            {
+                "text": "Flash memory",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which type of memory stores the BIOS?",
+        "answers": [{
+            "text": "RAM",
+            "correct": false
+        },
+            {
+                "text": "ROM",
+                "correct": true
+            },
+            {
+                "text": "Cache",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which type of memory is non-volatile?",
+        "answers": [{
+            "text": "ROM",
+            "correct": true
+        },
+            {
+                "text": "RAM",
+                "correct": false
+            },
+            {
+                "text": "Cache",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What is virtual memory?",
+        "answers": [{
+            "text": "Extra RAM installed on the motherboard",
+            "correct": false
+        },
+            {
+                "text": "Using part of the hard drive as if it were RAM",
+                "correct": true
+            },
+            {
+                "text": "Temporary memory on the CPU",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What does SRAM stand for?",
+        "answers": [{
+            "text": "Static Random Access Memory",
+            "correct": true
+        },
+            {
+                "text": "Stored Read Access Memory",
+                "correct": false
+            },
+            {
+                "text": "System Random Allocation Memory",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What does DRAM stand for?",
+        "answers": [{
+            "text": "Dynamic Random Access Memory",
+            "correct": true
+        },
+            {
+                "text": "Direct Read Access Memory",
+                "correct": false
+            },
+            {
+                "text": "Data Random Allocation Module",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which memory needs to be refreshed periodically?",
+        "answers": [{
+            "text": "SRAM",
+            "correct": false
+        },
+            {
+                "text": "DRAM",
+                "correct": true
+            },
+            {
+                "text": "ROM",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which type of cache is closest to the CPU?",
+        "answers": [{
+            "text": "L1 cache",
+            "correct": true
+        },
+            {
+                "text": "L2 cache",
+                "correct": false
+            },
+            {
+                "text": "L3 cache",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which memory hierarchy is correct from fastest to slowest?",
+        "answers": [{
+            "text": "Cache → RAM → Hard disk",
+            "correct": true
+        },
+            {
+                "text": "Hard disk → RAM → Cache",
+                "correct": false
+            },
+            {
+                "text": "RAM → Cache → Hard disk",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which is an example of secondary memory?",
+        "answers": [{
+            "text": "Hard disk",
+            "correct": true
+        },
+            {
+                "text": "Cache",
+                "correct": false
+            },
+            {
+                "text": "Register",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Registers are located in:",
+        "answers": [{
+            "text": "RAM",
+            "correct": false
+        },
+            {
+                "text": "CPU",
+                "correct": true
+            },
+            {
+                "text": "Hard disk",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What is the purpose of cache memory?",
+        "answers": [{
+            "text": "To increase data transfer speed between CPU and RAM",
+            "correct": true
+        },
+            {
+                "text": "To permanently store programs",
+                "correct": false
+            },
+            {
+                "text": "To replace the hard disk",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which of these is the largest in capacity?",
+        "answers": [{
+            "text": "Hard disk",
+            "correct": true
+        },
+            {
+                "text": "Cache",
+                "correct": false
+            },
+            {
+                "text": "RAM",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which of these is volatile memory?",
+        "answers": [{
+            "text": "RAM",
+            "correct": true
+        },
+            {
+                "text": "ROM",
+                "correct": false
+            },
+            {
+                "text": "Flash drive",
+                "correct": false
+            }]
+    },
+    {
+        "question": "EEPROM stands for:",
+        "answers": [{
+            "text": "Electrically Erasable Programmable Read-Only Memory",
+            "correct": true
+        },
+            {
+                "text": "Extended Erased Permanent Read-Only Memory",
+                "correct": false
+            },
+            {
+                "text": "Electronic Erased Permanent Random Memory",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which memory is directly accessible by the CPU?",
+        "answers": [{
+            "text": "RAM",
+            "correct": true
+        },
+            {
+                "text": "Hard disk",
+                "correct": false
+            },
+            {
+                "text": "Optical disk",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which is faster: registers or cache?",
+        "answers": [{
+            "text": "Registers",
+            "correct": true
+        },
+            {
+                "text": "Cache",
+                "correct": false
+            },
+            {
+                "text": "They are the same",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which type of memory is used in USB flash drives?",
+        "answers": [{
+            "text": "Flash memory",
+            "correct": true
+        },
+            {
+                "text": "ROM",
+                "correct": false
+            },
+            {
+                "text": "SRAM",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What is memory hierarchy?",
+        "answers": [{
+            "text": "The arrangement of memory types based on speed and cost",
+            "correct": true
+        },
+            {
+                "text": "The ranking of computer generations",
+                "correct": false
+            },
+            {
+                "text": "The order of instructions in memory",
+                "correct": false
+            }]
+    }]

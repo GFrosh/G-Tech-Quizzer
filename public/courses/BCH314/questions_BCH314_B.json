@@ -1,0 +1,300 @@
+[{
+    "question": "Which molecule is the immediate donor of energy in most cellular processes?",
+    "answers": [{
+        "text": "ATP",
+        "correct": true
+    },
+        {
+            "text": "NADPH",
+            "correct": false
+        },
+        {
+            "text": "GTP",
+            "correct": false
+        }]
+},
+    {
+        "question": "Which enzyme catalyzes the first committed step of glycolysis?",
+        "answers": [{
+            "text": "Hexokinase",
+            "correct": false
+        },
+            {
+                "text": "Phosphofructokinase-1 (PFK-1)",
+                "correct": true
+            },
+            {
+                "text": "Glucokinase",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What is the major regulatory enzyme of gluconeogenesis?",
+        "answers": [{
+            "text": "Pyruvate carboxylase",
+            "correct": false
+        },
+            {
+                "text": "Phosphoenolpyruvate carboxykinase (PEPCK)",
+                "correct": false
+            },
+            {
+                "text": "Fructose-1,6-bisphosphatase",
+                "correct": true
+            }]
+    },
+    {
+        "question": "Which coenzyme is required for transamination reactions?",
+        "answers": [{
+            "text": "Thiamine pyrophosphate (TPP)",
+            "correct": false
+        },
+            {
+                "text": "Pyridoxal phosphate (PLP)",
+                "correct": true
+            },
+            {
+                "text": "Biotin",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which enzyme deficiency causes maple syrup urine disease?",
+        "answers": [{
+            "text": "Branched-chain α-keto acid dehydrogenase",
+            "correct": true
+        },
+            {
+                "text": "Pyruvate dehydrogenase",
+                "correct": false
+            },
+            {
+                "text": "Glucose-6-phosphate dehydrogenase",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which hormone promotes lipolysis in adipose tissue?",
+        "answers": [{
+            "text": "Insulin",
+            "correct": false
+        },
+            {
+                "text": "Cortisol",
+                "correct": false
+            },
+            {
+                "text": "Epinephrine",
+                "correct": true
+            }]
+    },
+    {
+        "question": "Which compound is an intermediate in both the urea cycle and TCA cycle?",
+        "answers": [{
+            "text": "Fumarate",
+            "correct": true
+        },
+            {
+                "text": "Succinate",
+                "correct": false
+            },
+            {
+                "text": "Citrate",
+                "correct": false
+            }]
+    },
+    {
+        "question": "The Cori cycle involves the interconversion of which two compounds?",
+        "answers": [{
+            "text": "Lactate and glucose",
+            "correct": true
+        },
+            {
+                "text": "Alanine and pyruvate",
+                "correct": false
+            },
+            {
+                "text": "Acetyl-CoA and oxaloacetate",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which enzyme deficiency leads to Lesch-Nyhan syndrome?",
+        "answers": [{
+            "text": "Adenosine deaminase",
+            "correct": false
+        },
+            {
+                "text": "Hypoxanthine-guanine phosphoribosyltransferase (HGPRT)",
+                "correct": true
+            },
+            {
+                "text": "Xanthine oxidase",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which type of bond stabilizes the secondary structure of proteins?",
+        "answers": [{
+            "text": "Hydrogen bonds",
+            "correct": true
+        },
+            {
+                "text": "Ionic bonds",
+                "correct": false
+            },
+            {
+                "text": "Disulfide bonds",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which enzyme is responsible for the conversion of glucose-6-phosphate to free glucose in gluconeogenesis?",
+        "answers": [{
+            "text": "Glucose-6-phosphatase",
+            "correct": true
+        },
+            {
+                "text": "Hexokinase",
+                "correct": false
+            },
+            {
+                "text": "Aldolase",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which amino acid is a precursor for serotonin?",
+        "answers": [{
+            "text": "Tryptophan",
+            "correct": true
+        },
+            {
+                "text": "Tyrosine",
+                "correct": false
+            },
+            {
+                "text": "Histidine",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What is the function of carnitine in fatty acid metabolism?",
+        "answers": [{
+            "text": "It activates fatty acids",
+            "correct": false
+        },
+            {
+                "text": "It transports fatty acids into mitochondria",
+                "correct": true
+            },
+            {
+                "text": "It oxidizes fatty acids",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which metabolic disorder is caused by a deficiency of glucose-6-phosphate dehydrogenase?",
+        "answers": [{
+            "text": "Sickle cell anaemia",
+            "correct": false
+        },
+            {
+                "text": "G6PD deficiency anaemia",
+                "correct": true
+            },
+            {
+                "text": "Maple syrup urine disease",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which cofactor is required by pyruvate carboxylase?",
+        "answers": [{
+            "text": "Thiamine pyrophosphate",
+            "correct": false
+        },
+            {
+                "text": "Biotin",
+                "correct": true
+            },
+            {
+                "text": "Coenzyme Q",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which metabolic pathway occurs in both the cytosol and mitochondria?",
+        "answers": [{
+            "text": "Urea cycle",
+            "correct": true
+        },
+            {
+                "text": "Glycolysis",
+                "correct": false
+            },
+            {
+                "text": "Fatty acid β-oxidation",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which lipoprotein is often referred to as 'bad cholesterol'?",
+        "answers": [{
+            "text": "HDL",
+            "correct": false
+        },
+            {
+                "text": "VLDL",
+                "correct": false
+            },
+            {
+                "text": "LDL",
+                "correct": true
+            }]
+    },
+    {
+        "question": "What is the function of the enzyme telomerase?",
+        "answers": [{
+            "text": "Replicates RNA primers",
+            "correct": false
+        },
+            {
+                "text": "Extends the ends of linear DNA",
+                "correct": true
+            },
+            {
+                "text": "Ligates Okazaki fragments",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which amino acid is the main precursor for catecholamines?",
+        "answers": [{
+            "text": "Tyrosine",
+            "correct": true
+        },
+            {
+                "text": "Histidine",
+                "correct": false
+            },
+            {
+                "text": "Cysteine",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which enzyme catalyzes the rate-limiting step of glycolysis?",
+        "answers": [{
+            "text": "Pyruvate kinase",
+            "correct": false
+        },
+            {
+                "text": "Phosphofructokinase-1 (PFK-1)",
+                "correct": true
+            },
+            {
+                "text": "Glucokinase",
+                "correct": false
+            }]
+    }]

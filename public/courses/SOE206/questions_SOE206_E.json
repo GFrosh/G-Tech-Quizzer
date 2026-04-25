@@ -1,0 +1,300 @@
+[{
+    "question": "Which device is an example of an embedded system?",
+    "answers": [{
+        "text": "Smartphone",
+        "correct": false
+    },
+        {
+            "text": "Microwave oven",
+            "correct": true
+        },
+        {
+            "text": "Desktop computer",
+            "correct": false
+        }]
+},
+    {
+        "question": "What is the function of a watchdog timer in embedded systems?",
+        "answers": [{
+            "text": "To increase speed",
+            "correct": false
+        },
+            {
+                "text": "To reset the system if it hangs",
+                "correct": true
+            },
+            {
+                "text": "To store data permanently",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which communication protocol is commonly used between microcontrollers and sensors?",
+        "answers": [{
+            "text": "HTTP",
+            "correct": false
+        },
+            {
+                "text": "I2C",
+                "correct": true
+            },
+            {
+                "text": "SMTP",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What does RTOS stand for?",
+        "answers": [{
+            "text": "Real-Time Operating System",
+            "correct": true
+        },
+            {
+                "text": "Random Task Operating System",
+                "correct": false
+            },
+            {
+                "text": "Rapid Testing Operating Software",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which memory type is non-volatile?",
+        "answers": [{
+            "text": "EEPROM",
+            "correct": true
+        },
+            {
+                "text": "RAM",
+                "correct": false
+            },
+            {
+                "text": "Cache",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which programming language is most common in embedded systems?",
+        "answers": [{
+            "text": "C",
+            "correct": true
+        },
+            {
+                "text": "Python",
+                "correct": false
+            },
+            {
+                "text": "HTML",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What does PWM stand for?",
+        "answers": [{
+            "text": "Pulse Width Modulation",
+            "correct": true
+        },
+            {
+                "text": "Power Wave Mode",
+                "correct": false
+            },
+            {
+                "text": "Parallel Wiring Mechanism",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which bus is widely used for external communication in embedded systems?",
+        "answers": [{
+            "text": "CAN bus",
+            "correct": true
+        },
+            {
+                "text": "PCI bus",
+                "correct": false
+            },
+            {
+                "text": "ISA bus",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Why is C preferred in embedded programming?",
+        "answers": [{
+            "text": "It is close to hardware and efficient",
+            "correct": true
+        },
+            {
+                "text": "It has built-in garbage collection",
+                "correct": false
+            },
+            {
+                "text": "It supports drag-and-drop coding",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What is an interrupt in embedded systems?",
+        "answers": [{
+            "text": "A pause to clean cache",
+            "correct": false
+        },
+            {
+                "text": "A signal that temporarily halts the CPU to handle an event",
+                "correct": true
+            },
+            {
+                "text": "A reset command",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which type of embedded system is used in medical equipment?",
+        "answers": [{
+            "text": "Standalone",
+            "correct": false
+        },
+            {
+                "text": "Safety-critical",
+                "correct": true
+            },
+            {
+                "text": "Gaming system",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What is the role of ADC in embedded systems?",
+        "answers": [{
+            "text": "It compresses files",
+            "correct": false
+        },
+            {
+                "text": "It converts analog signals to digital",
+                "correct": true
+            },
+            {
+                "text": "It provides internet connectivity",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which embedded OS is designed by Microsoft?",
+        "answers": [{
+            "text": "Windows CE",
+            "correct": true
+        },
+            {
+                "text": "Android",
+                "correct": false
+            },
+            {
+                "text": "Ubuntu",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What is the function of a bootloader?",
+        "answers": [{
+            "text": "Loads the operating system during startup",
+            "correct": true
+        },
+            {
+                "text": "Improves graphics rendering",
+                "correct": false
+            },
+            {
+                "text": "Manages user accounts",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which component is called the 'brain' of an embedded system?",
+        "answers": [{
+            "text": "Microcontroller",
+            "correct": true
+        },
+            {
+                "text": "Capacitor",
+                "correct": false
+            },
+            {
+                "text": "Resistor",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What is the purpose of DMA (Direct Memory Access)?",
+        "answers": [{
+            "text": "To allow data transfer without CPU involvement",
+            "correct": true
+        },
+            {
+                "text": "To debug memory issues",
+                "correct": false
+            },
+            {
+                "text": "To encrypt memory contents",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which embedded tool is used for debugging?",
+        "answers": [{
+            "text": "Oscilloscope",
+            "correct": false
+        },
+            {
+                "text": "JTAG",
+                "correct": true
+            },
+            {
+                "text": "Multimeter",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which protocol is commonly used for wireless embedded communication?",
+        "answers": [{
+            "text": "Bluetooth",
+            "correct": true
+        },
+            {
+                "text": "SMTP",
+                "correct": false
+            },
+            {
+                "text": "FTP",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What is firmware?",
+        "answers": [{
+            "text": "Software stored in ROM that controls hardware",
+            "correct": true
+        },
+            {
+                "text": "Temporary data in cache",
+                "correct": false
+            },
+            {
+                "text": "A type of antivirus program",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What does GPIO stand for?",
+        "answers": [{
+            "text": "General Purpose Input/Output",
+            "correct": true
+        },
+            {
+                "text": "Graphical Programmed I/O",
+                "correct": false
+            },
+            {
+                "text": "Generated Pulse I/O",
+                "correct": false
+            }]
+    }]

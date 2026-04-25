@@ -1,0 +1,300 @@
+[{
+    "question": "What does information literacy mainly involve?",
+    "answers": [{
+        "text": "Ability to locate, evaluate, and use information effectively",
+        "correct": true
+    },
+        {
+            "text": "Ability to memorise large amounts of information",
+            "correct": false
+        },
+        {
+            "text": "Ability to write essays quickly",
+            "correct": false
+        }]
+},
+    {
+        "question": "Which of the following is a primary source of information?",
+        "answers": [{
+            "text": "A diary",
+            "correct": true
+        },
+            {
+                "text": "A newspaper article",
+                "correct": false
+            },
+            {
+                "text": "An encyclopedia entry",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which of these is an example of a secondary source?",
+        "answers": [{
+            "text": "A biography",
+            "correct": true
+        },
+            {
+                "text": "A research dataset",
+                "correct": false
+            },
+            {
+                "text": "An original manuscript",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What is plagiarism?",
+        "answers": [{
+            "text": "Using someone else’s work without giving credit",
+            "correct": true
+        },
+            {
+                "text": "Summarising in your own words",
+                "correct": false
+            },
+            {
+                "text": "Citing all your sources properly",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which database is best for scholarly journal articles?",
+        "answers": [{
+            "text": "JSTOR",
+            "correct": true
+        },
+            {
+                "text": "Facebook",
+                "correct": false
+            },
+            {
+                "text": "Wikipedia",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What does the acronym ISBN stand for?",
+        "answers": [{
+            "text": "International Standard Book Number",
+            "correct": true
+        },
+            {
+                "text": "International Standard Bibliographic Name",
+                "correct": false
+            },
+            {
+                "text": "Indexed Source Book Number",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which of the following is a tertiary source?",
+        "answers": [{
+            "text": "An encyclopedia",
+            "correct": true
+        },
+            {
+                "text": "A scientific experiment result",
+                "correct": false
+            },
+            {
+                "text": "A personal letter",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What is the main purpose of a citation?",
+        "answers": [{
+            "text": "To give credit to the original author",
+            "correct": true
+        },
+            {
+                "text": "To make the paper longer",
+                "correct": false
+            },
+            {
+                "text": "To confuse readers",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which of these is a reliable source for academic research?",
+        "answers": [{
+            "text": "Peer-reviewed journal",
+            "correct": true
+        },
+            {
+                "text": "Random blog post",
+                "correct": false
+            },
+            {
+                "text": "Social media comments",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What is Boolean logic used for in searching databases?",
+        "answers": [{
+            "text": "Combining keywords to improve search results",
+            "correct": true
+        },
+            {
+                "text": "Translating text into another language",
+                "correct": false
+            },
+            {
+                "text": "Storing numerical data",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which Boolean operator narrows a search?",
+        "answers": [{
+            "text": "AND",
+            "correct": true
+        },
+            {
+                "text": "OR",
+                "correct": false
+            },
+            {
+                "text": "NOT",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which Boolean operator broadens a search?",
+        "answers": [{
+            "text": "OR",
+            "correct": true
+        },
+            {
+                "text": "AND",
+                "correct": false
+            },
+            {
+                "text": "NOT",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What is the difference between a bibliography and a reference list?",
+        "answers": [{
+            "text": "A bibliography lists all sources consulted, a reference list only those cited",
+            "correct": true
+        },
+            {
+                "text": "They are the same thing",
+                "correct": false
+            },
+            {
+                "text": "A reference list includes summaries of sources",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which citation style is commonly used in the social sciences?",
+        "answers": [{
+            "text": "APA",
+            "correct": true
+        },
+            {
+                "text": "MLA",
+                "correct": false
+            },
+            {
+                "text": "Chicago",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What does an abstract provide in a research article?",
+        "answers": [{
+            "text": "A summary of the article",
+            "correct": true
+        },
+            {
+                "text": "The full references",
+                "correct": false
+            },
+            {
+                "text": "Graphs and tables",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which of these is a characteristic of scholarly sources?",
+        "answers": [{
+            "text": "They are peer-reviewed",
+            "correct": true
+        },
+            {
+                "text": "They are written informally",
+                "correct": false
+            },
+            {
+                "text": "They are always free online",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What is a keyword in information searching?",
+        "answers": [{
+            "text": "A significant word used to find information",
+            "correct": true
+        },
+            {
+                "text": "A random word with no meaning",
+                "correct": false
+            },
+            {
+                "text": "A secret password for databases",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which organisation assigns DOI numbers to digital content?",
+        "answers": [{
+            "text": "CrossRef",
+            "correct": true
+        },
+            {
+                "text": "Google",
+                "correct": false
+            },
+            {
+                "text": "Facebook",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What does peer-reviewed mean?",
+        "answers": [{
+            "text": "Articles reviewed by experts before publication",
+            "correct": true
+        },
+            {
+                "text": "Articles reviewed by students",
+                "correct": false
+            },
+            {
+                "text": "Articles edited by the author only",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which of these is an example of ethical information use?",
+        "answers": [{
+            "text": "Citing all your sources properly",
+            "correct": true
+        },
+            {
+                "text": "Copying without credit",
+                "correct": false
+            },
+            {
+                "text": "Fabricating data",
+                "correct": false
+            }]
+    }]

@@ -1,0 +1,300 @@
+[{
+    "question": "Which system is mainly affected by beta-blockers?",
+    "answers": [{
+        "text": "Digestive system",
+        "correct": false
+    },
+        {
+            "text": "Urinary system",
+            "correct": false
+        },
+        {
+            "text": "Cardiovascular system",
+            "correct": true
+        }]
+},
+    {
+        "question": "What is the primary neurotransmitter in the parasympathetic nervous system?",
+        "answers": [{
+            "text": "Acetylcholine",
+            "correct": true
+        },
+            {
+                "text": "Norepinephrine",
+                "correct": false
+            },
+            {
+                "text": "Dopamine",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which drug class is commonly used to lower blood pressure?",
+        "answers": [{
+            "text": "Antacids",
+            "correct": false
+        },
+            {
+                "text": "Antihistamines",
+                "correct": false
+            },
+            {
+                "text": "Antihypertensives",
+                "correct": true
+            }]
+    },
+    {
+        "question": "Which organ is most affected by hepatotoxic drugs?",
+        "answers": [{
+            "text": "Lungs",
+            "correct": false
+        },
+            {
+                "text": "Heart",
+                "correct": false
+            },
+            {
+                "text": "Liver",
+                "correct": true
+            }]
+    },
+    {
+        "question": "What type of drug is morphine?",
+        "answers": [{
+            "text": "Analgesic",
+            "correct": true
+        },
+            {
+                "text": "Anticoagulant",
+                "correct": false
+            },
+            {
+                "text": "Antidepressant",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which system do diuretics mainly act upon?",
+        "answers": [{
+            "text": "Urinary system",
+            "correct": true
+        },
+            {
+                "text": "Nervous system",
+                "correct": false
+            },
+            {
+                "text": "Musculoskeletal system",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which receptor type is targeted by antihistamines?",
+        "answers": [{
+            "text": "Histamine receptors",
+            "correct": true
+        },
+            {
+                "text": "Serotonin receptors",
+                "correct": false
+            },
+            {
+                "text": "Dopamine receptors",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which vitamin deficiency can increase the toxicity of certain drugs?",
+        "answers": [{
+            "text": "Vitamin C",
+            "correct": false
+        },
+            {
+                "text": "Vitamin D",
+                "correct": false
+            },
+            {
+                "text": "Vitamin K",
+                "correct": true
+            }]
+    },
+    {
+        "question": "Which organ is responsible for drug excretion?",
+        "answers": [{
+            "text": "Spleen",
+            "correct": false
+        },
+            {
+                "text": "Kidneys",
+                "correct": true
+            },
+            {
+                "text": "Pancreas",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which drug type is used to reduce fever?",
+        "answers": [{
+            "text": "Antiemetics",
+            "correct": false
+        },
+            {
+                "text": "Antipyretics",
+                "correct": true
+            },
+            {
+                "text": "Anticoagulants",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which system do bronchodilators primarily act on?",
+        "answers": [{
+            "text": "Respiratory system",
+            "correct": true
+        },
+            {
+                "text": "Digestive system",
+                "correct": false
+            },
+            {
+                "text": "Reproductive system",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What is the main side effect of many antibiotics?",
+        "answers": [{
+            "text": "Blurred vision",
+            "correct": false
+        },
+            {
+                "text": "Hair loss",
+                "correct": false
+            },
+            {
+                "text": "Diarrhoea",
+                "correct": true
+            }]
+    },
+    {
+        "question": "Which system do antiepileptic drugs target?",
+        "answers": [{
+            "text": "Nervous system",
+            "correct": true
+        },
+            {
+                "text": "Endocrine system",
+                "correct": false
+            },
+            {
+                "text": "Circulatory system",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which drug is commonly used as an anticoagulant?",
+        "answers": [{
+            "text": "Amoxicillin",
+            "correct": false
+        },
+            {
+                "text": "Paracetamol",
+                "correct": false
+            },
+            {
+                "text": "Warfarin",
+                "correct": true
+            }]
+    },
+    {
+        "question": "Which drug type lowers cholesterol levels?",
+        "answers": [{
+            "text": "Diuretics",
+            "correct": false
+        },
+            {
+                "text": "Statins",
+                "correct": true
+            },
+            {
+                "text": "Antiemetics",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which receptor type is stimulated by adrenaline?",
+        "answers": [{
+            "text": "Adrenergic receptors",
+            "correct": true
+        },
+            {
+                "text": "Serotonin receptors",
+                "correct": false
+            },
+            {
+                "text": "Histamine receptors",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which drug class is used to treat depression?",
+        "answers": [{
+            "text": "Antacids",
+            "correct": false
+        },
+            {
+                "text": "Antihypertensives",
+                "correct": false
+            },
+            {
+                "text": "Antidepressants",
+                "correct": true
+            }]
+    },
+    {
+        "question": "What is the target of insulin therapy?",
+        "answers": [{
+            "text": "Blood pressure",
+            "correct": false
+        },
+            {
+                "text": "Blood glucose",
+                "correct": true
+            },
+            {
+                "text": "Body temperature",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which organ is most involved in drug metabolism?",
+        "answers": [{
+            "text": "Kidneys",
+            "correct": false
+        },
+            {
+                "text": "Heart",
+                "correct": false
+            },
+            {
+                "text": "Liver",
+                "correct": true
+            }]
+    },
+    {
+        "question": "Which drug class is used to suppress the immune system?",
+        "answers": [{
+            "text": "Immunosuppressants",
+            "correct": true
+        },
+            {
+                "text": "Antiemetics",
+                "correct": false
+            },
+            {
+                "text": "Antipyretics",
+                "correct": false
+            }]
+    }]
