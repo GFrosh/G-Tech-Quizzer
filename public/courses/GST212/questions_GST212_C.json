@@ -1,0 +1,300 @@
+[{
+    "question": "Who is famous for the idea of 'tabula rasa' (blank slate)?",
+    "answers": [{
+        "text": "John Locke",
+        "correct": true
+    },
+        {
+            "text": "Kant",
+            "correct": false
+        },
+        {
+            "text": "Plato",
+            "correct": false
+        }]
+},
+    {
+        "question": "Which philosopher developed the concept of 'forms'?",
+        "answers": [{
+            "text": "Aristotle",
+            "correct": false
+        },
+            {
+                "text": "Plato",
+                "correct": true
+            },
+            {
+                "text": "Descartes",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What does a valid argument guarantee?",
+        "answers": [{
+            "text": "If the premises are true, the conclusion must be true",
+            "correct": true
+        },
+            {
+                "text": "That the conclusion is always true",
+                "correct": false
+            },
+            {
+                "text": "That at least one premise is false",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which term describes reasoning from general rules to specific cases?",
+        "answers": [{
+            "text": "Deductive reasoning",
+            "correct": true
+        },
+            {
+                "text": "Inductive reasoning",
+                "correct": false
+            },
+            {
+                "text": "Abductive reasoning",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Who is associated with existentialism?",
+        "answers": [{
+            "text": "Jean-Paul Sartre",
+            "correct": true
+        },
+            {
+                "text": "Plato",
+                "correct": false
+            },
+            {
+                "text": "Aristotle",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What is a sound argument?",
+        "answers": [{
+            "text": "A valid argument with all true premises",
+            "correct": true
+        },
+            {
+                "text": "An argument with a false conclusion",
+                "correct": false
+            },
+            {
+                "text": "Any argument with true premises",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which type of reasoning forms a likely conclusion based on observation?",
+        "answers": [{
+            "text": "Inductive reasoning",
+            "correct": true
+        },
+            {
+                "text": "Deductive reasoning",
+                "correct": false
+            },
+            {
+                "text": "Analytical reasoning",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Who introduced the method of doubt in philosophy?",
+        "answers": [{
+            "text": "René Descartes",
+            "correct": true
+        },
+            {
+                "text": "Aristotle",
+                "correct": false
+            },
+            {
+                "text": "Kant",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which of these is a formal fallacy?",
+        "answers": [{
+            "text": "Affirming the consequent",
+            "correct": true
+        },
+            {
+                "text": "Ad hominem",
+                "correct": false
+            },
+            {
+                "text": "Appeal to emotion",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What does ontology study?",
+        "answers": [{
+            "text": "Nature of being and existence",
+            "correct": true
+        },
+            {
+                "text": "Principles of reasoning",
+                "correct": false
+            },
+            {
+                "text": "Moral conduct",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Who is associated with 'categorical imperative'?",
+        "answers": [{
+            "text": "Immanuel Kant",
+            "correct": true
+        },
+            {
+                "text": "Aristotle",
+                "correct": false
+            },
+            {
+                "text": "Plato",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which philosopher is known for empiricism?",
+        "answers": [{
+            "text": "John Locke",
+            "correct": true
+        },
+            {
+                "text": "Plato",
+                "correct": false
+            },
+            {
+                "text": "Kant",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What is a paradox?",
+        "answers": [{
+            "text": "A statement that contradicts itself",
+            "correct": true
+        },
+            {
+                "text": "A logically valid argument",
+                "correct": false
+            },
+            {
+                "text": "A general moral principle",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which branch of philosophy studies the nature of knowledge?",
+        "answers": [{
+            "text": "Epistemology",
+            "correct": true
+        },
+            {
+                "text": "Ethics",
+                "correct": false
+            },
+            {
+                "text": "Aesthetics",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Who developed virtue ethics?",
+        "answers": [{
+            "text": "Aristotle",
+            "correct": true
+        },
+            {
+                "text": "Plato",
+                "correct": false
+            },
+            {
+                "text": "Kant",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which philosopher argued that reality is composed of mind and body?",
+        "answers": [{
+            "text": "René Descartes",
+            "correct": true
+        },
+            {
+                "text": "Plato",
+                "correct": false
+            },
+            {
+                "text": "Aristotle",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What is utilitarianism concerned with?",
+        "answers": [{
+            "text": "Maximizing overall happiness",
+            "correct": true
+        },
+            {
+                "text": "Following strict moral rules",
+                "correct": false
+            },
+            {
+                "text": "Studying the nature of reality",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which type of fallacy misrepresents someone’s argument?",
+        "answers": [{
+            "text": "Strawman",
+            "correct": true
+        },
+            {
+                "text": "Ad hominem",
+                "correct": false
+            },
+            {
+                "text": "Appeal to authority",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Who is considered the founder of modern philosophy?",
+        "answers": [{
+            "text": "René Descartes",
+            "correct": true
+        },
+            {
+                "text": "Plato",
+                "correct": false
+            },
+            {
+                "text": "Aristotle",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which branch of philosophy examines beauty and art?",
+        "answers": [{
+            "text": "Aesthetics",
+            "correct": true
+        },
+            {
+                "text": "Ethics",
+                "correct": false
+            },
+            {
+                "text": "Logic",
+                "correct": false
+            }]
+    }]

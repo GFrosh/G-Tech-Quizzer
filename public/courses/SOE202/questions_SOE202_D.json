@@ -1,0 +1,300 @@
+[{
+    "question": "What is the main purpose of modelling in requirements engineering?",
+    "answers": [{
+        "text": "To represent requirements visually for better understanding",
+        "correct": true
+    },
+        {
+            "text": "To replace coding",
+            "correct": false
+        },
+        {
+            "text": "To test system performance",
+            "correct": false
+        }]
+},
+    {
+        "question": "Which model is commonly used to show interactions between users and the system?",
+        "answers": [{
+            "text": "Use case diagram",
+            "correct": true
+        },
+            {
+                "text": "Class diagram",
+                "correct": false
+            },
+            {
+                "text": "Network diagram",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which diagram shows how data moves through a system?",
+        "answers": [{
+            "text": "Data flow diagram (DFD)",
+            "correct": true
+        },
+            {
+                "text": "Entity relationship diagram",
+                "correct": false
+            },
+            {
+                "text": "Sequence diagram",
+                "correct": false
+            }]
+    },
+    {
+        "question": "An entity-relationship diagram (ERD) is mainly used to model:",
+        "answers": [{
+            "text": "Database structure",
+            "correct": true
+        },
+            {
+                "text": "System performance",
+                "correct": false
+            },
+            {
+                "text": "User interfaces",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which diagram represents the flow of activities in a process?",
+        "answers": [{
+            "text": "Activity diagram",
+            "correct": true
+        },
+            {
+                "text": "Class diagram",
+                "correct": false
+            },
+            {
+                "text": "Deployment diagram",
+                "correct": false
+            }]
+    },
+    {
+        "question": "In UML, which diagram shows system behaviour over time?",
+        "answers": [{
+            "text": "State diagram",
+            "correct": true
+        },
+            {
+                "text": "Use case diagram",
+                "correct": false
+            },
+            {
+                "text": "Component diagram",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which diagram illustrates the sequence of messages between objects?",
+        "answers": [{
+            "text": "Sequence diagram",
+            "correct": true
+        },
+            {
+                "text": "Activity diagram",
+                "correct": false
+            },
+            {
+                "text": "Class diagram",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Class diagrams are mainly used to represent:",
+        "answers": [{
+            "text": "Objects, attributes, and their relationships",
+            "correct": true
+        },
+            {
+                "text": "Network topologies",
+                "correct": false
+            },
+            {
+                "text": "System performance metrics",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which diagram shows how components are organised in the system?",
+        "answers": [{
+            "text": "Component diagram",
+            "correct": true
+        },
+            {
+                "text": "Data flow diagram",
+                "correct": false
+            },
+            {
+                "text": "Activity diagram",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which model focuses on the functions of a system?",
+        "answers": [{
+            "text": "Functional model",
+            "correct": true
+        },
+            {
+                "text": "Structural model",
+                "correct": false
+            },
+            {
+                "text": "Physical model",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which model shows how the system is physically implemented in hardware?",
+        "answers": [{
+            "text": "Deployment model",
+            "correct": true
+        },
+            {
+                "text": "Behavioural model",
+                "correct": false
+            },
+            {
+                "text": "Use case model",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Data flow diagrams use which symbols to represent processes?",
+        "answers": [{
+            "text": "Circles or ovals",
+            "correct": true
+        },
+            {
+                "text": "Squares only",
+                "correct": false
+            },
+            {
+                "text": "Triangles",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which diagram is most helpful for identifying actors and their goals?",
+        "answers": [{
+            "text": "Use case diagram",
+            "correct": true
+        },
+            {
+                "text": "Class diagram",
+                "correct": false
+            },
+            {
+                "text": "Entity-relationship diagram",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which type of model is best for describing dynamic behaviour?",
+        "answers": [{
+            "text": "Behavioural model",
+            "correct": true
+        },
+            {
+                "text": "Structural model",
+                "correct": false
+            },
+            {
+                "text": "Physical model",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which diagram models how system states change in response to events?",
+        "answers": [{
+            "text": "State transition diagram",
+            "correct": true
+        },
+            {
+                "text": "Data flow diagram",
+                "correct": false
+            },
+            {
+                "text": "Deployment diagram",
+                "correct": false
+            }]
+    },
+    {
+        "question": "An ERD uses diamonds to represent:",
+        "answers": [{
+            "text": "Relationships",
+            "correct": true
+        },
+            {
+                "text": "Entities",
+                "correct": false
+            },
+            {
+                "text": "Attributes",
+                "correct": false
+            }]
+    },
+    {
+        "question": "In UML, which diagram shows objects and their links at a specific time?",
+        "answers": [{
+            "text": "Object diagram",
+            "correct": true
+        },
+            {
+                "text": "Sequence diagram",
+                "correct": false
+            },
+            {
+                "text": "Activity diagram",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which model is typically used early in requirements engineering to capture system goals?",
+        "answers": [{
+            "text": "Use case model",
+            "correct": true
+        },
+            {
+                "text": "Deployment model",
+                "correct": false
+            },
+            {
+                "text": "Component model",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which diagram shows the static structure of a system?",
+        "answers": [{
+            "text": "Class diagram",
+            "correct": true
+        },
+            {
+                "text": "Activity diagram",
+                "correct": false
+            },
+            {
+                "text": "Sequence diagram",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which of these is NOT a common modelling technique in requirements engineering?",
+        "answers": [{
+            "text": "Astrological charting",
+            "correct": true
+        },
+            {
+                "text": "Use case modelling",
+                "correct": false
+            },
+            {
+                "text": "Entity-relationship modelling",
+                "correct": false
+            }]
+    }]

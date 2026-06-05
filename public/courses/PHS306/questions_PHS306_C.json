@@ -1,0 +1,300 @@
+[{
+    "question": "Which class of drugs lowers blood cholesterol levels?",
+    "answers": [{
+        "text": "Diuretics",
+        "correct": false
+    },
+        {
+            "text": "Antacids",
+            "correct": false
+        },
+        {
+            "text": "Statins",
+            "correct": true
+        }]
+},
+    {
+        "question": "Which drug is often used to manage type 2 diabetes?",
+        "answers": [{
+            "text": "Metformin",
+            "correct": true
+        },
+            {
+                "text": "Ibuprofen",
+                "correct": false
+            },
+            {
+                "text": "Morphine",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which neurotransmitter imbalance is associated with Parkinson’s disease?",
+        "answers": [{
+            "text": "Acetylcholine",
+            "correct": false
+        },
+            {
+                "text": "Serotonin",
+                "correct": false
+            },
+            {
+                "text": "Dopamine",
+                "correct": true
+            }]
+    },
+    {
+        "question": "Which type of drug is used to reduce fever?",
+        "answers": [{
+            "text": "Antipsychotics",
+            "correct": false
+        },
+            {
+                "text": "Antipyretics",
+                "correct": true
+            },
+            {
+                "text": "Antiemetics",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which drug is commonly used as a local anaesthetic?",
+        "answers": [{
+            "text": "Amoxicillin",
+            "correct": false
+        },
+            {
+                "text": "Lidocaine",
+                "correct": true
+            },
+            {
+                "text": "Aspirin",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which drug class is used in the treatment of epilepsy?",
+        "answers": [{
+            "text": "Anticonvulsants",
+            "correct": true
+        },
+            {
+                "text": "Antidepressants",
+                "correct": false
+            },
+            {
+                "text": "Anticoagulants",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which drug is an example of an opioid analgesic?",
+        "answers": [{
+            "text": "Paracetamol",
+            "correct": false
+        },
+            {
+                "text": "Ibuprofen",
+                "correct": false
+            },
+            {
+                "text": "Morphine",
+                "correct": true
+            }]
+    },
+    {
+        "question": "Which vitamin deficiency can be caused by long-term use of isoniazid?",
+        "answers": [{
+            "text": "Vitamin A",
+            "correct": false
+        },
+            {
+                "text": "Vitamin B6",
+                "correct": true
+            },
+            {
+                "text": "Vitamin E",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which drug is used to reverse opioid overdose?",
+        "answers": [{
+            "text": "Naloxone",
+            "correct": true
+        },
+            {
+                "text": "Insulin",
+                "correct": false
+            },
+            {
+                "text": "Adrenaline",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which drug is considered a proton pump inhibitor?",
+        "answers": [{
+            "text": "Atenolol",
+            "correct": false
+        },
+            {
+                "text": "Omeprazole",
+                "correct": true
+            },
+            {
+                "text": "Diazepam",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which drug is commonly given to treat hypertension?",
+        "answers": [{
+            "text": "Antacids",
+            "correct": false
+        },
+            {
+                "text": "Bronchodilators",
+                "correct": false
+            },
+            {
+                "text": "Beta-blockers",
+                "correct": true
+            }]
+    },
+    {
+        "question": "Which drug class reduces anxiety?",
+        "answers": [{
+            "text": "Anxiolytics",
+            "correct": true
+        },
+            {
+                "text": "Antitussives",
+                "correct": false
+            },
+            {
+                "text": "Antiemetics",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which drug is given to treat malaria?",
+        "answers": [{
+            "text": "Penicillin",
+            "correct": false
+        },
+            {
+                "text": "Chloroquine",
+                "correct": true
+            },
+            {
+                "text": "Paracetamol",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which drug class is used to thin the blood and prevent clots?",
+        "answers": [{
+            "text": "Antihistamines",
+            "correct": false
+        },
+            {
+                "text": "Anticoagulants",
+                "correct": true
+            },
+            {
+                "text": "Antidepressants",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which drug is a common treatment for tuberculosis?",
+        "answers": [{
+            "text": "Metformin",
+            "correct": false
+        },
+            {
+                "text": "Rifampicin",
+                "correct": true
+            },
+            {
+                "text": "Atenolol",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which type of drug is insulin?",
+        "answers": [{
+            "text": "Antibiotic",
+            "correct": false
+        },
+            {
+                "text": "Hormone replacement",
+                "correct": true
+            },
+            {
+                "text": "Analgesic",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which system do diuretics primarily affect?",
+        "answers": [{
+            "text": "Digestive system",
+            "correct": false
+        },
+            {
+                "text": "Renal system",
+                "correct": true
+            },
+            {
+                "text": "Nervous system",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which drug is commonly used to treat seizures?",
+        "answers": [{
+            "text": "Aspirin",
+            "correct": false
+        },
+            {
+                "text": "Phenytoin",
+                "correct": true
+            },
+            {
+                "text": "Ibuprofen",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which drug class blocks angiotensin II receptors?",
+        "answers": [{
+            "text": "Diuretics",
+            "correct": false
+        },
+            {
+                "text": "Statins",
+                "correct": false
+            },
+            {
+                "text": "ARBs (Angiotensin receptor blockers)",
+                "correct": true
+            }]
+    },
+    {
+        "question": "Which drug is commonly used to prevent motion sickness?",
+        "answers": [{
+            "text": "Metformin",
+            "correct": false
+        },
+            {
+                "text": "Paracetamol",
+                "correct": false
+            },
+            {
+                "text": "Dimenhydrinate",
+                "correct": true
+            }]
+    }]

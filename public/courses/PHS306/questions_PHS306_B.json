@@ -1,0 +1,300 @@
+[{
+    "question": "Which drug class is commonly used to treat asthma?",
+    "answers": [{
+        "text": "Antihistamines",
+        "correct": false
+    },
+        {
+            "text": "Bronchodilators",
+            "correct": true
+        },
+        {
+            "text": "Anticoagulants",
+            "correct": false
+        }]
+},
+    {
+        "question": "Which drug is a common pain reliever and fever reducer?",
+        "answers": [{
+            "text": "Metformin",
+            "correct": false
+        },
+            {
+                "text": "Digoxin",
+                "correct": false
+            },
+            {
+                "text": "Ibuprofen",
+                "correct": true
+            }]
+    },
+    {
+        "question": "Which system is the main target of antidepressants?",
+        "answers": [{
+            "text": "Respiratory system",
+            "correct": false
+        },
+            {
+                "text": "Nervous system",
+                "correct": true
+            },
+            {
+                "text": "Urinary system",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which drug is commonly used to relieve heartburn?",
+        "answers": [{
+            "text": "Diuretics",
+            "correct": false
+        },
+            {
+                "text": "Antacids",
+                "correct": true
+            },
+            {
+                "text": "Anticoagulants",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which drug type is given to stop vomiting?",
+        "answers": [{
+            "text": "Analgesics",
+            "correct": false
+        },
+            {
+                "text": "Antiemetics",
+                "correct": true
+            },
+            {
+                "text": "Antihistamines",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which organ is most affected by nephrotoxic drugs?",
+        "answers": [{
+            "text": "Lungs",
+            "correct": false
+        },
+            {
+                "text": "Kidneys",
+                "correct": true
+            },
+            {
+                "text": "Heart",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which hormone is replaced in patients with hypothyroidism?",
+        "answers": [{
+            "text": "Insulin",
+            "correct": false
+        },
+            {
+                "text": "Adrenaline",
+                "correct": false
+            },
+            {
+                "text": "Thyroxine",
+                "correct": true
+            }]
+    },
+    {
+        "question": "Which drug is widely used to treat bacterial infections?",
+        "answers": [{
+            "text": "Antivirals",
+            "correct": false
+        },
+            {
+                "text": "Antibiotics",
+                "correct": true
+            },
+            {
+                "text": "Antifungals",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which drug class reduces stomach acid secretion?",
+        "answers": [{
+            "text": "Bronchodilators",
+            "correct": false
+        },
+            {
+                "text": "Proton pump inhibitors",
+                "correct": true
+            },
+            {
+                "text": "Anticoagulants",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which vitamin is often given alongside isoniazid to prevent nerve damage?",
+        "answers": [{
+            "text": "Vitamin D",
+            "correct": false
+        },
+            {
+                "text": "Vitamin B6",
+                "correct": true
+            },
+            {
+                "text": "Vitamin C",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which drug class is used to treat psychosis?",
+        "answers": [{
+            "text": "Antipyretics",
+            "correct": false
+        },
+            {
+                "text": "Antihypertensives",
+                "correct": false
+            },
+            {
+                "text": "Antipsychotics",
+                "correct": true
+            }]
+    },
+    {
+        "question": "Which organ is the site of first-pass metabolism?",
+        "answers": [{
+            "text": "Stomach",
+            "correct": false
+        },
+            {
+                "text": "Kidneys",
+                "correct": false
+            },
+            {
+                "text": "Liver",
+                "correct": true
+            }]
+    },
+    {
+        "question": "Which drug class is used to prevent allergic reactions?",
+        "answers": [{
+            "text": "Analgesics",
+            "correct": false
+        },
+            {
+                "text": "Antihistamines",
+                "correct": true
+            },
+            {
+                "text": "Antiemetics",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which system is suppressed by corticosteroids?",
+        "answers": [{
+            "text": "Digestive system",
+            "correct": false
+        },
+            {
+                "text": "Immune system",
+                "correct": true
+            },
+            {
+                "text": "Respiratory system",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which electrolyte imbalance can be caused by loop diuretics?",
+        "answers": [{
+            "text": "Low sodium",
+            "correct": false
+        },
+            {
+                "text": "Low potassium",
+                "correct": true
+            },
+            {
+                "text": "High calcium",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which drug is often given to prevent blood clots after surgery?",
+        "answers": [{
+            "text": "Amoxicillin",
+            "correct": false
+        },
+            {
+                "text": "Aspirin",
+                "correct": false
+            },
+            {
+                "text": "Heparin",
+                "correct": true
+            }]
+    },
+    {
+        "question": "Which drug class is commonly used as sedatives?",
+        "answers": [{
+            "text": "Antihistamines",
+            "correct": false
+        },
+            {
+                "text": "Diuretics",
+                "correct": false
+            },
+            {
+                "text": "Benzodiazepines",
+                "correct": true
+            }]
+    },
+    {
+        "question": "Which organ damage is associated with chronic alcohol use?",
+        "answers": [{
+            "text": "Liver",
+            "correct": true
+        },
+            {
+                "text": "Kidneys",
+                "correct": false
+            },
+            {
+                "text": "Pancreas",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which drug is used to treat hypertension by dilating blood vessels?",
+        "answers": [{
+            "text": "Antiemetics",
+            "correct": false
+        },
+            {
+                "text": "Antacids",
+                "correct": false
+            },
+            {
+                "text": "Vasodilators",
+                "correct": true
+            }]
+    },
+    {
+        "question": "Which neurotransmitter is mainly increased by cocaine use?",
+        "answers": [{
+            "text": "Dopamine",
+            "correct": true
+        },
+            {
+                "text": "Acetylcholine",
+                "correct": false
+            },
+            {
+                "text": "Serotonin",
+                "correct": false
+            }]
+    }]

@@ -1,0 +1,300 @@
+[{
+    "question": "What does requirements elicitation involve?",
+    "answers": [{
+        "text": "Gathering requirements from stakeholders",
+        "correct": true
+    },
+        {
+            "text": "Testing the system",
+            "correct": false
+        },
+        {
+            "text": "Designing the system architecture",
+            "correct": false
+        }]
+},
+    {
+        "question": "Which of the following is NOT a requirements elicitation technique?",
+        "answers": [{
+            "text": "Interviewing stakeholders",
+            "correct": false
+        },
+            {
+                "text": "Prototyping",
+                "correct": false
+            },
+            {
+                "text": "Writing program code",
+                "correct": true
+            }]
+    },
+    {
+        "question": "What is the main goal of requirements analysis?",
+        "answers": [{
+            "text": "To refine, check, and prioritise requirements",
+            "correct": true
+        },
+            {
+                "text": "To deploy the software",
+                "correct": false
+            },
+            {
+                "text": "To build the database schema",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which elicitation technique uses group discussions to generate ideas?",
+        "answers": [{
+            "text": "Brainstorming",
+            "correct": true
+        },
+            {
+                "text": "Observation",
+                "correct": false
+            },
+            {
+                "text": "Questionnaires",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which of these is an advantage of prototyping in requirements elicitation?",
+        "answers": [{
+            "text": "Helps stakeholders visualise the system early",
+            "correct": true
+        },
+            {
+                "text": "Reduces need for stakeholder input",
+                "correct": false
+            },
+            {
+                "text": "Eliminates design documentation",
+                "correct": false
+            }]
+    },
+    {
+        "question": "A scenario used to describe system use is called:",
+        "answers": [{
+            "text": "Use case",
+            "correct": true
+        },
+            {
+                "text": "Entity diagram",
+                "correct": false
+            },
+            {
+                "text": "Flowchart",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Observation as an elicitation technique is most useful when:",
+        "answers": [{
+            "text": "Stakeholders cannot easily explain their tasks",
+            "correct": true
+        },
+            {
+                "text": "Developers want to write code",
+                "correct": false
+            },
+            {
+                "text": "Testing is being performed",
+                "correct": false
+            }]
+    },
+    {
+        "question": "A disadvantage of interviews in requirements elicitation is:",
+        "answers": [{
+            "text": "They can be time-consuming and subjective",
+            "correct": true
+        },
+            {
+                "text": "They cannot capture stakeholder opinions",
+                "correct": false
+            },
+            {
+                "text": "They never provide useful insights",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which elicitation technique involves sending written questions to stakeholders?",
+        "answers": [{
+            "text": "Questionnaires",
+            "correct": true
+        },
+            {
+                "text": "Observation",
+                "correct": false
+            },
+            {
+                "text": "Prototyping",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Workshops are effective in requirements elicitation because:",
+        "answers": [{
+            "text": "They allow multiple stakeholders to collaborate",
+            "correct": true
+        },
+            {
+                "text": "They reduce communication between teams",
+                "correct": false
+            },
+            {
+                "text": "They replace validation entirely",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Conflict between stakeholder requirements is resolved during:",
+        "answers": [{
+            "text": "Requirements analysis",
+            "correct": true
+        },
+            {
+                "text": "System deployment",
+                "correct": false
+            },
+            {
+                "text": "Code debugging",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Requirements prioritisation is done to:",
+        "answers": [{
+            "text": "Decide which requirements are most important",
+            "correct": true
+        },
+            {
+                "text": "Choose programming languages",
+                "correct": false
+            },
+            {
+                "text": "Test system performance",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which technique focuses on asking 'Why' multiple times to find the root cause?",
+        "answers": [{
+            "text": "The Five Whys technique",
+            "correct": true
+        },
+            {
+                "text": "Brainstorming",
+                "correct": false
+            },
+            {
+                "text": "Surveys",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Ambiguity in requirements should be removed during:",
+        "answers": [{
+            "text": "Requirements analysis",
+            "correct": true
+        },
+            {
+                "text": "Coding phase",
+                "correct": false
+            },
+            {
+                "text": "Deployment phase",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which diagram is often used to model functional requirements?",
+        "answers": [{
+            "text": "Use case diagram",
+            "correct": true
+        },
+            {
+                "text": "Network diagram",
+                "correct": false
+            },
+            {
+                "text": "Class diagram",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Stakeholders’ conflicting needs are balanced using:",
+        "answers": [{
+            "text": "Negotiation",
+            "correct": true
+        },
+            {
+                "text": "Programming",
+                "correct": false
+            },
+            {
+                "text": "Testing",
+                "correct": false
+            }]
+    },
+    {
+        "question": "An analyst shadowing a user at work is performing:",
+        "answers": [{
+            "text": "Observation",
+            "correct": true
+        },
+            {
+                "text": "Prototyping",
+                "correct": false
+            },
+            {
+                "text": "Brainstorming",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which elicitation technique involves developing quick system versions?",
+        "answers": [{
+            "text": "Prototyping",
+            "correct": true
+        },
+            {
+                "text": "Workshops",
+                "correct": false
+            },
+            {
+                "text": "Surveys",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What is a common problem during requirements elicitation?",
+        "answers": [{
+            "text": "Stakeholders may not know exactly what they need",
+            "correct": true
+        },
+            {
+                "text": "Developers always know all requirements instantly",
+                "correct": false
+            },
+            {
+                "text": "Requirements never change",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which technique helps uncover hidden stakeholder needs?",
+        "answers": [{
+            "text": "Interviews and observation",
+            "correct": true
+        },
+            {
+                "text": "Ignoring user input",
+                "correct": false
+            },
+            {
+                "text": "Random guessing",
+                "correct": false
+            }]
+    }]

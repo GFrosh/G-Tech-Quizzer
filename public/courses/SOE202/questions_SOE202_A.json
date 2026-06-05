@@ -1,0 +1,300 @@
+[{
+    "question": "What is Requirements Engineering primarily concerned with?",
+    "answers": [{
+        "text": "Defining, documenting, and maintaining requirements",
+        "correct": true
+    },
+        {
+            "text": "Programming in Java",
+            "correct": false
+        },
+        {
+            "text": "Managing hardware resources",
+            "correct": false
+        }]
+},
+    {
+        "question": "Which of the following best defines a requirement?",
+        "answers": [{
+            "text": "A statement about what a system should do or how it should behave",
+            "correct": true
+        },
+            {
+                "text": "The design of the system",
+                "correct": false
+            },
+            {
+                "text": "The coding style guide",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Requirements Engineering is part of which phase of the Software Development Life Cycle (SDLC)?",
+        "answers": [{
+            "text": "Analysis",
+            "correct": true
+        },
+            {
+                "text": "Coding",
+                "correct": false
+            },
+            {
+                "text": "Testing",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which of the following is NOT a goal of Requirements Engineering?",
+        "answers": [{
+            "text": "To capture what stakeholders need",
+            "correct": false
+        },
+            {
+                "text": "To document requirements clearly",
+                "correct": false
+            },
+            {
+                "text": "To reduce programming bugs directly",
+                "correct": true
+            }]
+    },
+    {
+        "question": "Stakeholders in Requirements Engineering include:",
+        "answers": [{
+            "text": "End users, clients, developers, and testers",
+            "correct": true
+        },
+            {
+                "text": "Only the project manager",
+                "correct": false
+            },
+            {
+                "text": "Only the coding team",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What is the first step in Requirements Engineering?",
+        "answers": [{
+            "text": "Requirements elicitation",
+            "correct": true
+        },
+            {
+                "text": "System coding",
+                "correct": false
+            },
+            {
+                "text": "System deployment",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Why is Requirements Engineering important?",
+        "answers": [{
+            "text": "Because unclear requirements often lead to project failure",
+            "correct": true
+        },
+            {
+                "text": "Because it speeds up typing code",
+                "correct": false
+            },
+            {
+                "text": "Because it eliminates the need for project managers",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which of the following best describes functional requirements?",
+        "answers": [{
+            "text": "They describe what the system should do",
+            "correct": true
+        },
+            {
+                "text": "They describe the system's performance",
+                "correct": false
+            },
+            {
+                "text": "They describe the system’s architecture",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which of the following best describes non-functional requirements?",
+        "answers": [{
+            "text": "They describe how the system performs",
+            "correct": true
+        },
+            {
+                "text": "They describe user tasks",
+                "correct": false
+            },
+            {
+                "text": "They describe the project budget",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which document contains the requirements for a project?",
+        "answers": [{
+            "text": "Software Requirements Specification (SRS)",
+            "correct": true
+        },
+            {
+                "text": "Source Code Document",
+                "correct": false
+            },
+            {
+                "text": "User Manual",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Who is responsible for gathering requirements?",
+        "answers": [{
+            "text": "Business Analyst or Requirements Engineer",
+            "correct": true
+        },
+            {
+                "text": "Software Tester",
+                "correct": false
+            },
+            {
+                "text": "Database Administrator",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Ambiguous requirements often cause:",
+        "answers": [{
+            "text": "Misunderstanding between stakeholders and developers",
+            "correct": true
+        },
+            {
+                "text": "Faster development",
+                "correct": false
+            },
+            {
+                "text": "Better test coverage",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Requirements should be:",
+        "answers": [{
+            "text": "Clear, complete, consistent, and testable",
+            "correct": true
+        },
+            {
+                "text": "Flexible, vague, and optional",
+                "correct": false
+            },
+            {
+                "text": "Hidden from clients",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which type of requirement describes external interactions?",
+        "answers": [{
+            "text": "Functional requirements",
+            "correct": true
+        },
+            {
+                "text": "Non-functional requirements",
+                "correct": false
+            },
+            {
+                "text": "Business budget",
+                "correct": false
+            }]
+    },
+    {
+        "question": "The process of checking requirements against stakeholders’ needs is called:",
+        "answers": [{
+            "text": "Requirements validation",
+            "correct": true
+        },
+            {
+                "text": "Requirements coding",
+                "correct": false
+            },
+            {
+                "text": "Requirements deployment",
+                "correct": false
+            }]
+    },
+    {
+        "question": "The process of ensuring requirements do not conflict with each other is called:",
+        "answers": [{
+            "text": "Consistency checking",
+            "correct": true
+        },
+            {
+                "text": "Coding",
+                "correct": false
+            },
+            {
+                "text": "Integration testing",
+                "correct": false
+            }]
+    },
+    {
+        "question": "The main outcome of Requirements Engineering is:",
+        "answers": [{
+            "text": "A complete and validated set of requirements",
+            "correct": true
+        },
+            {
+                "text": "A finished software product",
+                "correct": false
+            },
+            {
+                "text": "A project budget report",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Requirements that change over time are called:",
+        "answers": [{
+            "text": "Evolving requirements",
+            "correct": true
+        },
+            {
+                "text": "Static requirements",
+                "correct": false
+            },
+            {
+                "text": "Fixed requirements",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which is more important to avoid project failure?",
+        "answers": [{
+            "text": "Well-defined requirements",
+            "correct": true
+        },
+            {
+                "text": "Expensive tools",
+                "correct": false
+            },
+            {
+                "text": "Fast typing skills",
+                "correct": false
+            }]
+    },
+    {
+        "question": "A good requirement should be:",
+        "answers": [{
+            "text": "Specific, measurable, achievable, relevant, and time-bound (SMART)",
+            "correct": true
+        },
+            {
+                "text": "General, vague, and subjective",
+                "correct": false
+            },
+            {
+                "text": "Written only for developers",
+                "correct": false
+            }]
+    }]

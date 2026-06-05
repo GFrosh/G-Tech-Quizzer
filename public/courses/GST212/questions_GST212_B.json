@@ -1,0 +1,300 @@
+[{
+    "question": "Which philosopher taught the 'Allegory of the Cave'?",
+    "answers": [{
+        "text": "Aristotle",
+        "correct": false
+    },
+        {
+            "text": "Plato",
+            "correct": true
+        },
+        {
+            "text": "Descartes",
+            "correct": false
+        }]
+},
+    {
+        "question": "What is the study of right and wrong conduct called?",
+        "answers": [{
+            "text": "Logic",
+            "correct": false
+        },
+            {
+                "text": "Ethics",
+                "correct": true
+            },
+            {
+                "text": "Epistemology",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Who is associated with the phrase 'the unexamined life is not worth living'?",
+        "answers": [{
+            "text": "Socrates",
+            "correct": true
+        },
+            {
+                "text": "Kant",
+                "correct": false
+            },
+            {
+                "text": "Plato",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What does epistemology study?",
+        "answers": [{
+            "text": "The nature and scope of knowledge",
+            "correct": true
+        },
+            {
+                "text": "Moral principles",
+                "correct": false
+            },
+            {
+                "text": "Beauty and art",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which type of fallacy attacks the person instead of the argument?",
+        "answers": [{
+            "text": "Ad hominem",
+            "correct": true
+        },
+            {
+                "text": "Strawman",
+                "correct": false
+            },
+            {
+                "text": "Slippery slope",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Who is famous for developing formal logic with syllogisms?",
+        "answers": [{
+            "text": "Aristotle",
+            "correct": true
+        },
+            {
+                "text": "Plato",
+                "correct": false
+            },
+            {
+                "text": "Kant",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which branch of philosophy deals with existence and being?",
+        "answers": [{
+            "text": "Metaphysics",
+            "correct": true
+        },
+            {
+                "text": "Logic",
+                "correct": false
+            },
+            {
+                "text": "Aesthetics",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which of these is an example of abductive reasoning?",
+        "answers": [{
+            "text": "Observing footprints and inferring someone walked there",
+            "correct": true
+        },
+            {
+                "text": "All humans are mortal; Socrates is human; Socrates is mortal",
+                "correct": false
+            },
+            {
+                "text": "This apple is red; therefore, all apples are red",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which philosopher emphasized categorical imperatives?",
+        "answers": [{
+            "text": "Immanuel Kant",
+            "correct": true
+        },
+            {
+                "text": "Aristotle",
+                "correct": false
+            },
+            {
+                "text": "Plato",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What is utilitarianism?",
+        "answers": [{
+            "text": "Ethical theory maximizing overall happiness",
+            "correct": true
+        },
+            {
+                "text": "Study of knowledge",
+                "correct": false
+            },
+            {
+                "text": "Logical deduction method",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Who wrote 'Critique of Pure Reason'?",
+        "answers": [{
+            "text": "Immanuel Kant",
+            "correct": true
+        },
+            {
+                "text": "Socrates",
+                "correct": false
+            },
+            {
+                "text": "Plato",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which term describes reasoning from specific cases to general rules?",
+        "answers": [{
+            "text": "Inductive reasoning",
+            "correct": true
+        },
+            {
+                "text": "Deductive reasoning",
+                "correct": false
+            },
+            {
+                "text": "Abductive reasoning",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What is a strawman fallacy?",
+        "answers": [{
+            "text": "Misrepresenting someone’s argument to attack it",
+            "correct": true
+        },
+            {
+                "text": "Using emotional appeal to win argument",
+                "correct": false
+            },
+            {
+                "text": "Attacking the person instead of argument",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which philosopher taught virtue ethics?",
+        "answers": [{
+            "text": "Aristotle",
+            "correct": true
+        },
+            {
+                "text": "Plato",
+                "correct": false
+            },
+            {
+                "text": "Kant",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which of these is a paradox?",
+        "answers": [{
+            "text": "Liar paradox: 'This statement is false'",
+            "correct": true
+        },
+            {
+                "text": "All men are mortal",
+                "correct": false
+            },
+            {
+                "text": "Socrates is a man",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What does the principle of sufficient reason state?",
+        "answers": [{
+            "text": "Everything must have a reason or cause",
+            "correct": true
+        },
+            {
+                "text": "All knowledge comes from experience",
+                "correct": false
+            },
+            {
+                "text": "Moral principles are subjective",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which of these is an example of deductive reasoning?",
+        "answers": [{
+            "text": "All humans are mortal; Socrates is human; Socrates is mortal",
+            "correct": true
+        },
+            {
+                "text": "Most birds can fly; penguins are birds; penguins might fly",
+                "correct": false
+            },
+            {
+                "text": "I saw one black crow; therefore all crows are black",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which philosopher wrote 'Meditations on First Philosophy'?",
+        "answers": [{
+            "text": "René Descartes",
+            "correct": true
+        },
+            {
+                "text": "Aristotle",
+                "correct": false
+            },
+            {
+                "text": "Kant",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What does logic study?",
+        "answers": [{
+            "text": "Principles of valid reasoning",
+            "correct": true
+        },
+            {
+                "text": "Moral conduct",
+                "correct": false
+            },
+            {
+                "text": "Nature of reality",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which branch of philosophy deals with beauty and art?",
+        "answers": [{
+            "text": "Aesthetics",
+            "correct": true
+        },
+            {
+                "text": "Epistemology",
+                "correct": false
+            },
+            {
+                "text": "Ethics",
+                "correct": false
+            }]
+    }]

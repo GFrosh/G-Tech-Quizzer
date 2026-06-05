@@ -1,0 +1,300 @@
+[{
+    "question": "What is an embedded system?",
+    "answers": [{
+        "text": "A computer system with a dedicated function within a larger system",
+        "correct": true
+    },
+        {
+            "text": "A general-purpose desktop computer",
+            "correct": false
+        },
+        {
+            "text": "A system that only runs on the internet",
+            "correct": false
+        }]
+},
+    {
+        "question": "Which of the following is an example of an embedded system?",
+        "answers": [{
+            "text": "Washing machine controller",
+            "correct": true
+        },
+            {
+                "text": "Laptop",
+                "correct": false
+            },
+            {
+                "text": "Supercomputer",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which programming language is most commonly used in embedded systems?",
+        "answers": [{
+            "text": "C",
+            "correct": true
+        },
+            {
+                "text": "Python",
+                "correct": false
+            },
+            {
+                "text": "HTML",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What does 'real-time' mean in embedded systems?",
+        "answers": [{
+            "text": "The system responds within strict timing constraints",
+            "correct": true
+        },
+            {
+                "text": "The system works only when connected to the internet",
+                "correct": false
+            },
+            {
+                "text": "The system updates once a week",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which component acts as the brain of an embedded system?",
+        "answers": [{
+            "text": "Microcontroller",
+            "correct": true
+        },
+            {
+                "text": "Printer",
+                "correct": false
+            },
+            {
+                "text": "Speaker",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which of these is NOT a characteristic of embedded systems?",
+        "answers": [{
+            "text": "General-purpose use",
+            "correct": true
+        },
+            {
+                "text": "Low power consumption",
+                "correct": false
+            },
+            {
+                "text": "Real-time operation",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What does ROM stand for?",
+        "answers": [{
+            "text": "Read-Only Memory",
+            "correct": true
+        },
+            {
+                "text": "Random Online Memory",
+                "correct": false
+            },
+            {
+                "text": "Rapid Output Machine",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What is firmware in embedded systems?",
+        "answers": [{
+            "text": "Software stored in non-volatile memory",
+            "correct": true
+        },
+            {
+                "text": "A hardware device",
+                "correct": false
+            },
+            {
+                "text": "Temporary internet files",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which of these is a real-time operating system (RTOS)?",
+        "answers": [{
+            "text": "FreeRTOS",
+            "correct": true
+        },
+            {
+                "text": "Windows 10",
+                "correct": false
+            },
+            {
+                "text": "macOS",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which memory type loses its content when power is off?",
+        "answers": [{
+            "text": "RAM",
+            "correct": true
+        },
+            {
+                "text": "ROM",
+                "correct": false
+            },
+            {
+                "text": "Flash memory",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which communication protocol is commonly used in embedded systems?",
+        "answers": [{
+            "text": "I2C",
+            "correct": true
+        },
+            {
+                "text": "SMTP",
+                "correct": false
+            },
+            {
+                "text": "HTTP",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What is an actuator in embedded systems?",
+        "answers": [{
+            "text": "A device that converts electrical signals into physical action",
+            "correct": true
+        },
+            {
+                "text": "A device that stores data",
+                "correct": false
+            },
+            {
+                "text": "A type of microcontroller",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which of the following is an input device for an embedded system?",
+        "answers": [{
+            "text": "Temperature sensor",
+            "correct": true
+        },
+            {
+                "text": "LED light",
+                "correct": false
+            },
+            {
+                "text": "Speaker",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What is the function of ADC in embedded systems?",
+        "answers": [{
+            "text": "Convert analog signals to digital",
+            "correct": true
+        },
+            {
+                "text": "Convert digital signals to analog",
+                "correct": false
+            },
+            {
+                "text": "Store program instructions",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which of these microcontrollers is widely used in embedded development?",
+        "answers": [{
+            "text": "Arduino Uno (ATmega328)",
+            "correct": true
+        },
+            {
+                "text": "Intel i9",
+                "correct": false
+            },
+            {
+                "text": "AMD Ryzen",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What does GPIO stand for?",
+        "answers": [{
+            "text": "General Purpose Input Output",
+            "correct": true
+        },
+            {
+                "text": "Global Programming Interface Option",
+                "correct": false
+            },
+            {
+                "text": "General Power Integrated Output",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which storage type is used for permanent storage in embedded systems?",
+        "answers": [{
+            "text": "Flash memory",
+            "correct": true
+        },
+            {
+                "text": "RAM",
+                "correct": false
+            },
+            {
+                "text": "Cache",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What is the purpose of timers in embedded systems?",
+        "answers": [{
+            "text": "Measure time intervals and generate delays",
+            "correct": true
+        },
+            {
+                "text": "Increase processing speed",
+                "correct": false
+            },
+            {
+                "text": "Store temporary data",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which of these best describes an interrupt?",
+        "answers": [{
+            "text": "A signal that temporarily halts the main program to execute a specific task",
+            "correct": true
+        },
+            {
+                "text": "A program error",
+                "correct": false
+            },
+            {
+                "text": "A data storage process",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What is the primary goal of an embedded system?",
+        "answers": [{
+            "text": "Perform a specific task efficiently",
+            "correct": true
+        },
+            {
+                "text": "Run multiple unrelated tasks",
+                "correct": false
+            },
+            {
+                "text": "Replace general-purpose computers",
+                "correct": false
+            }]
+    }]

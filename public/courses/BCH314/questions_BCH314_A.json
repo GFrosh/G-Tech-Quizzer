@@ -1,0 +1,300 @@
+[{
+    "question": "Which enzyme is responsible for converting pyruvate to acetyl-CoA?",
+    "answers": [{
+        "text": "Pyruvate carboxylase",
+        "correct": false
+    },
+        {
+            "text": "Pyruvate dehydrogenase",
+            "correct": true
+        },
+        {
+            "text": "Lactate dehydrogenase",
+            "correct": false
+        }]
+},
+    {
+        "question": "Which organ is the primary site for gluconeogenesis?",
+        "answers": [{
+            "text": "Liver",
+            "correct": true
+        },
+            {
+                "text": "Kidney",
+                "correct": false
+            },
+            {
+                "text": "Spleen",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What is the major storage form of carbohydrates in animals?",
+        "answers": [{
+            "text": "Starch",
+            "correct": false
+        },
+            {
+                "text": "Cellulose",
+                "correct": false
+            },
+            {
+                "text": "Glycogen",
+                "correct": true
+            }]
+    },
+    {
+        "question": "Which vitamin is a precursor for NAD⁺ and NADP⁺?",
+        "answers": [{
+            "text": "Vitamin B3 (Niacin)",
+            "correct": true
+        },
+            {
+                "text": "Vitamin B6",
+                "correct": false
+            },
+            {
+                "text": "Vitamin B12",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which pathway is the primary source of NADPH in cells?",
+        "answers": [{
+            "text": "Pentose phosphate pathway",
+            "correct": true
+        },
+            {
+                "text": "Krebs cycle",
+                "correct": false
+            },
+            {
+                "text": "Glycolysis",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which lipoprotein transports cholesterol from tissues back to the liver?",
+        "answers": [{
+            "text": "VLDL",
+            "correct": false
+        },
+            {
+                "text": "HDL",
+                "correct": true
+            },
+            {
+                "text": "LDL",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What is the end product of anaerobic glycolysis in human muscles?",
+        "answers": [{
+            "text": "Lactate",
+            "correct": true
+        },
+            {
+                "text": "Ethanol",
+                "correct": false
+            },
+            {
+                "text": "Acetone",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which amino acid is the main carrier of ammonia in the blood?",
+        "answers": [{
+            "text": "Glutamine",
+            "correct": true
+        },
+            {
+                "text": "Alanine",
+                "correct": false
+            },
+            {
+                "text": "Aspartate",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Where does the urea cycle primarily occur?",
+        "answers": [{
+            "text": "Kidney",
+            "correct": false
+        },
+            {
+                "text": "Liver",
+                "correct": true
+            },
+            {
+                "text": "Pancreas",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which enzyme catalyzes the rate-limiting step in cholesterol biosynthesis?",
+        "answers": [{
+            "text": "HMG-CoA reductase",
+            "correct": true
+        },
+            {
+                "text": "Citrate synthase",
+                "correct": false
+            },
+            {
+                "text": "ATP synthase",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What is the main fuel source for the brain under normal conditions?",
+        "answers": [{
+            "text": "Glucose",
+            "correct": true
+        },
+            {
+                "text": "Fatty acids",
+                "correct": false
+            },
+            {
+                "text": "Ketone bodies",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which process generates both ATP and GTP in the citric acid cycle?",
+        "answers": [{
+            "text": "Substrate-level phosphorylation",
+            "correct": true
+        },
+            {
+                "text": "Oxidative phosphorylation",
+                "correct": false
+            },
+            {
+                "text": "Photophosphorylation",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which of the following is an essential amino acid?",
+        "answers": [{
+            "text": "Leucine",
+            "correct": true
+        },
+            {
+                "text": "Glutamate",
+                "correct": false
+            },
+            {
+                "text": "Aspartate",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What molecule donates one-carbon units in biosynthetic reactions?",
+        "answers": [{
+            "text": "Tetrahydrofolate",
+            "correct": true
+        },
+            {
+                "text": "Biotin",
+                "correct": false
+            },
+            {
+                "text": "FAD",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which hormone stimulates glycogen breakdown in the liver?",
+        "answers": [{
+            "text": "Glucagon",
+            "correct": true
+        },
+            {
+                "text": "Insulin",
+                "correct": false
+            },
+            {
+                "text": "Aldosterone",
+                "correct": false
+            }]
+    },
+    {
+        "question": "During fasting, which process maintains blood glucose levels?",
+        "answers": [{
+            "text": "Glycogenolysis",
+            "correct": true
+        },
+            {
+                "text": "Glycolysis",
+                "correct": false
+            },
+            {
+                "text": "Lipogenesis",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which organelle is the site of fatty acid β-oxidation?",
+        "answers": [{
+            "text": "Endoplasmic reticulum",
+            "correct": false
+        },
+            {
+                "text": "Mitochondria",
+                "correct": true
+            },
+            {
+                "text": "Nucleus",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which enzyme deficiency causes phenylketonuria (PKU)?",
+        "answers": [{
+            "text": "Phenylalanine hydroxylase",
+            "correct": true
+        },
+            {
+                "text": "Tyrosine hydroxylase",
+                "correct": false
+            },
+            {
+                "text": "Alanine transaminase",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What is the storage form of fatty acids in adipose tissue?",
+        "answers": [{
+            "text": "Triacylglycerols",
+            "correct": true
+        },
+            {
+                "text": "Free fatty acids",
+                "correct": false
+            },
+            {
+                "text": "Cholesterol esters",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which coenzyme is derived from riboflavin (Vitamin B2)?",
+        "answers": [{
+            "text": "FAD",
+            "correct": true
+        },
+            {
+                "text": "NAD⁺",
+                "correct": false
+            },
+            {
+                "text": "CoA",
+                "correct": false
+            }]
+    }]

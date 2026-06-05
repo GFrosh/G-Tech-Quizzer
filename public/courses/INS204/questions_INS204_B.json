@@ -1,0 +1,300 @@
+[{
+    "question": "Which of these is NOT a phase of the SDLC?",
+    "answers": [{
+        "text": "Analysis",
+        "correct": false
+    },
+        {
+            "text": "Deployment",
+            "correct": false
+        },
+        {
+            "text": "Meditation",
+            "correct": true
+        }]
+},
+    {
+        "question": "What does SRS stand for?",
+        "answers": [{
+            "text": "Software Requirement Specification",
+            "correct": true
+        },
+            {
+                "text": "System Resource Setup",
+                "correct": false
+            },
+            {
+                "text": "Software Resource Sheet",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which type of feasibility checks if users will accept the system?",
+        "answers": [{
+            "text": "Operational feasibility",
+            "correct": true
+        },
+            {
+                "text": "Technical feasibility",
+                "correct": false
+            },
+            {
+                "text": "Economic feasibility",
+                "correct": false
+            }]
+    },
+    {
+        "question": "In a DFD, what does a rectangle usually represent?",
+        "answers": [{
+            "text": "External entity",
+            "correct": true
+        },
+            {
+                "text": "Process",
+                "correct": false
+            },
+            {
+                "text": "Data store",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which model is best suited for projects with high risk?",
+        "answers": [{
+            "text": "Spiral model",
+            "correct": true
+        },
+            {
+                "text": "Waterfall model",
+                "correct": false
+            },
+            {
+                "text": "Prototype model",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What is a context diagram?",
+        "answers": [{
+            "text": "A high-level DFD showing system boundaries",
+            "correct": true
+        },
+            {
+                "text": "A UML class diagram",
+                "correct": false
+            },
+            {
+                "text": "A testing plan",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which of these is a characteristic of good system requirements?",
+        "answers": [{
+            "text": "Clear and unambiguous",
+            "correct": true
+        },
+            {
+                "text": "Confusing and vague",
+                "correct": false
+            },
+            {
+                "text": "Written in code",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which diagram shows classes and their relationships?",
+        "answers": [{
+            "text": "Class diagram",
+            "correct": true
+        },
+            {
+                "text": "Flowchart",
+                "correct": false
+            },
+            {
+                "text": "Pie chart",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What is the main disadvantage of the waterfall model?",
+        "answers": [{
+            "text": "Poor at handling changing requirements",
+            "correct": true
+        },
+            {
+                "text": "Too much user feedback",
+                "correct": false
+            },
+            {
+                "text": "Lack of documentation",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What is a use case diagram used for?",
+        "answers": [{
+            "text": "Showing how users interact with the system",
+            "correct": true
+        },
+            {
+                "text": "Showing data movement",
+                "correct": false
+            },
+            {
+                "text": "Showing testing steps",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which of these is an iterative SDLC model?",
+        "answers": [{
+            "text": "Spiral model",
+            "correct": true
+        },
+            {
+                "text": "Waterfall model",
+                "correct": false
+            },
+            {
+                "text": "Big Bang model",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What does an ER diagram represent?",
+        "answers": [{
+            "text": "Entities and their relationships",
+            "correct": true
+        },
+            {
+                "text": "Testing strategies",
+                "correct": false
+            },
+            {
+                "text": "System budgets",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What is the main role of documentation in system design?",
+        "answers": [{
+            "text": "To record and communicate details of the system",
+            "correct": true
+        },
+            {
+                "text": "To confuse new developers",
+                "correct": false
+            },
+            {
+                "text": "To replace the system itself",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which diagram is used to show system behavior over time?",
+        "answers": [{
+            "text": "State transition diagram",
+            "correct": true
+        },
+            {
+                "text": "Pie chart",
+                "correct": false
+            },
+            {
+                "text": "Bar chart",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which of these best describes Agile methodology?",
+        "answers": [{
+            "text": "Flexible and iterative development",
+            "correct": true
+        },
+            {
+                "text": "One-time sequential process",
+                "correct": false
+            },
+            {
+                "text": "Ignoring customer feedback",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which tool is commonly used in system analysis?",
+        "answers": [{
+            "text": "Data Flow Diagram",
+            "correct": true
+        },
+            {
+                "text": "Invoice",
+                "correct": false
+            },
+            {
+                "text": "Resume",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which SDLC model delivers working software quickly but in parts?",
+        "answers": [{
+            "text": "Incremental model",
+            "correct": true
+        },
+            {
+                "text": "Waterfall model",
+                "correct": false
+            },
+            {
+                "text": "Big Bang model",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What is functional decomposition?",
+        "answers": [{
+            "text": "Breaking down a system into smaller functions",
+            "correct": true
+        },
+            {
+                "text": "Combining all functions into one",
+                "correct": false
+            },
+            {
+                "text": "Ignoring smaller tasks",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which of these is a CASE tool?",
+        "answers": [{
+            "text": "Rational Rose",
+            "correct": true
+        },
+            {
+                "text": "Microsoft Word",
+                "correct": false
+            },
+            {
+                "text": "Calculator",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which SDLC phase focuses on user needs?",
+        "answers": [{
+            "text": "Analysis",
+            "correct": true
+        },
+            {
+                "text": "Testing",
+                "correct": false
+            },
+            {
+                "text": "Maintenance",
+                "correct": false
+            }]
+    }]

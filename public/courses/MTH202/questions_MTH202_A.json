@@ -1,0 +1,300 @@
+[{
+    "question": "What does ODE stand for in mathematics?",
+    "answers": [{
+        "text": "Ordinary Differential Equation",
+        "correct": true
+    },
+        {
+            "text": "Original Difference Equation",
+            "correct": false
+        },
+        {
+            "text": "Ordered Data Expression",
+            "correct": false
+        }]
+},
+    {
+        "question": "Which of these is a first-order ODE?",
+        "answers": [{
+            "text": "dy/dx + y = 0",
+            "correct": true
+        },
+            {
+                "text": "d²y/dx² + y = 0",
+                "correct": false
+            },
+            {
+                "text": "y'' + y' + y = 0",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What is the general solution of dy/dx = 0?",
+        "answers": [{
+            "text": "y = x",
+            "correct": false
+        },
+            {
+                "text": "y = 0",
+                "correct": false
+            },
+            {
+                "text": "y = c",
+                "correct": true
+            }]
+    },
+    {
+        "question": "Which function satisfies dy/dx = y?",
+        "answers": [{
+            "text": "y = e^x",
+            "correct": true
+        },
+            {
+                "text": "y = x²",
+                "correct": false
+            },
+            {
+                "text": "y = sin(x)",
+                "correct": false
+            }]
+    },
+    {
+        "question": "In ODEs, what does 'order' refer to?",
+        "answers": [{
+            "text": "The sequence of solutions",
+            "correct": false
+        },
+            {
+                "text": "The type of equation",
+                "correct": false
+            },
+            {
+                "text": "The highest derivative present",
+                "correct": true
+            }]
+    },
+    {
+        "question": "What is the order of d³y/dx³ + dy/dx = 0?",
+        "answers": [{
+            "text": "2",
+            "correct": false
+        },
+            {
+                "text": "3",
+                "correct": true
+            },
+            {
+                "text": "1",
+                "correct": false
+            }]
+    },
+    {
+        "question": "The equation dy/dx = 2x is an example of:",
+        "answers": [{
+            "text": "A nonlinear ODE",
+            "correct": false
+        },
+            {
+                "text": "A second-order ODE",
+                "correct": false
+            },
+            {
+                "text": "A first-order ODE",
+                "correct": true
+            }]
+    },
+    {
+        "question": "What method is used to solve linear ODEs with constant coefficients?",
+        "answers": [{
+            "text": "Factorisation",
+            "correct": false
+        },
+            {
+                "text": "Characteristic equation method",
+                "correct": true
+            },
+            {
+                "text": "Integration by parts",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which of these is a solution to y'' + y = 0?",
+        "answers": [{
+            "text": "y = cos(x)",
+            "correct": true
+        },
+            {
+                "text": "y = e^x",
+                "correct": false
+            },
+            {
+                "text": "y = x",
+                "correct": false
+            }]
+    },
+    {
+        "question": "The equation dy/dx + y = e^x is:",
+        "answers": [{
+            "text": "A first-order linear ODE",
+            "correct": true
+        },
+            {
+                "text": "A nonlinear ODE",
+                "correct": false
+            },
+            {
+                "text": "A separable ODE",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What does it mean for an ODE to be homogeneous?",
+        "answers": [{
+            "text": "It has no constant or forcing term",
+            "correct": true
+        },
+            {
+                "text": "It has equal derivatives",
+                "correct": false
+            },
+            {
+                "text": "It has constant coefficients",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What is the degree of (d²y/dx²)² + dy/dx = 0?",
+        "answers": [{
+            "text": "1",
+            "correct": false
+        },
+            {
+                "text": "2",
+                "correct": true
+            },
+            {
+                "text": "3",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which of these is a separable ODE?",
+        "answers": [{
+            "text": "dy/dx = xy",
+            "correct": true
+        },
+            {
+                "text": "d²y/dx² + y = 0",
+                "correct": false
+            },
+            {
+                "text": "dy/dx + y = e^x",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What is the integrating factor for dy/dx + y = e^x?",
+        "answers": [{
+            "text": "e^x",
+            "correct": true
+        },
+            {
+                "text": "x",
+                "correct": false
+            },
+            {
+                "text": "e^(-x)",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which of these is NOT an ODE?",
+        "answers": [{
+            "text": "y'' + y = sin(x)",
+            "correct": false
+        },
+            {
+                "text": "dy/dx = y²",
+                "correct": false
+            },
+            {
+                "text": "∂u/∂x + ∂u/∂y = 0",
+                "correct": true
+            }]
+    },
+    {
+        "question": "What type of equation is dy/dx = (x+y)²?",
+        "answers": [{
+            "text": "A linear ODE",
+            "correct": false
+        },
+            {
+                "text": "A quadratic ODE",
+                "correct": false
+            },
+            {
+                "text": "A nonlinear ODE",
+                "correct": true
+            }]
+    },
+    {
+        "question": "Which of these is the general solution of dy/dx = y?",
+        "answers": [{
+            "text": "y = e^x + c",
+            "correct": false
+        },
+            {
+                "text": "y = Ce^x",
+                "correct": true
+            },
+            {
+                "text": "y = x + c",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What does 'linear' mean in linear ODEs?",
+        "answers": [{
+            "text": "The dependent variable and its derivatives appear to the power of one",
+            "correct": true
+        },
+            {
+                "text": "The coefficients are constants",
+                "correct": false
+            },
+            {
+                "text": "The solution is a straight line",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which method can be used to solve dy/dx = f(x)g(y)?",
+        "answers": [{
+            "text": "Substitution method",
+            "correct": false
+        },
+            {
+                "text": "Variation of parameters",
+                "correct": false
+            },
+            {
+                "text": "Separation of variables",
+                "correct": true
+            }]
+    },
+    {
+        "question": "What type of solution is y = 0 in dy/dx = y?",
+        "answers": [{
+            "text": "A singular solution",
+            "correct": false
+        },
+            {
+                "text": "A particular solution",
+                "correct": true
+            },
+            {
+                "text": "A trivial solution",
+                "correct": false
+            }]
+    }]

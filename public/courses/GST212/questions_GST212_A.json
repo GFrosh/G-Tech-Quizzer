@@ -1,0 +1,300 @@
+[{
+    "question": "What is the study of reasoning and argument called?",
+    "answers": [{
+        "text": "Logic",
+        "correct": true
+    },
+        {
+            "text": "Ethics",
+            "correct": false
+        },
+        {
+            "text": "Metaphysics",
+            "correct": false
+        }]
+},
+    {
+        "question": "Which philosopher is known for the statement 'I think, therefore I am'?",
+        "answers": [{
+            "text": "Plato",
+            "correct": false
+        },
+            {
+                "text": "René Descartes",
+                "correct": true
+            },
+            {
+                "text": "Aristotle",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which branch of philosophy deals with the nature of reality?",
+        "answers": [{
+            "text": "Metaphysics",
+            "correct": true
+        },
+            {
+                "text": "Epistemology",
+                "correct": false
+            },
+            {
+                "text": "Aesthetics",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What is an argument in logic?",
+        "answers": [{
+            "text": "A set of statements with one conclusion",
+            "correct": true
+        },
+            {
+                "text": "A disagreement between people",
+                "correct": false
+            },
+            {
+                "text": "A moral judgment",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which of these is a deductive argument?",
+        "answers": [{
+            "text": "All men are mortal; Socrates is a man; therefore, Socrates is mortal",
+            "correct": true
+        },
+            {
+                "text": "I like apples; I like oranges; therefore, I like fruit",
+                "correct": false
+            },
+            {
+                "text": "Some birds can fly; penguins are birds; penguins can fly",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Who is considered the father of Western philosophy?",
+        "answers": [{
+            "text": "Socrates",
+            "correct": true
+        },
+            {
+                "text": "Confucius",
+                "correct": false
+            },
+            {
+                "text": "Descartes",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which type of reasoning starts with general statements to reach a conclusion?",
+        "answers": [{
+            "text": "Deductive reasoning",
+            "correct": true
+        },
+            {
+                "text": "Inductive reasoning",
+                "correct": false
+            },
+            {
+                "text": "Abductive reasoning",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which branch of philosophy studies knowledge and belief?",
+        "answers": [{
+            "text": "Epistemology",
+            "correct": true
+        },
+            {
+                "text": "Logic",
+                "correct": false
+            },
+            {
+                "text": "Ethics",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which of these is a fallacy?",
+        "answers": [{
+            "text": "Ad hominem attack",
+            "correct": true
+        },
+            {
+                "text": "Valid deductive argument",
+                "correct": false
+            },
+            {
+                "text": "All humans are mortal",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What is the principle of non-contradiction?",
+        "answers": [{
+            "text": "A statement cannot be both true and false at the same time",
+            "correct": true
+        },
+            {
+                "text": "Every argument must have a premise",
+                "correct": false
+            },
+            {
+                "text": "Knowledge comes only from experience",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Who wrote 'The Republic'?",
+        "answers": [{
+            "text": "Plato",
+            "correct": true
+        },
+            {
+                "text": "Aristotle",
+                "correct": false
+            },
+            {
+                "text": "Socrates",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What does ethics study?",
+        "answers": [{
+            "text": "Moral principles and right conduct",
+            "correct": true
+        },
+            {
+                "text": "Nature of reality",
+                "correct": false
+            },
+            {
+                "text": "Rules of formal logic",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which of the following is an example of inductive reasoning?",
+        "answers": [{
+            "text": "Every swan I’ve seen is white; therefore, all swans are probably white",
+            "correct": true
+        },
+            {
+                "text": "All humans are mortal; Socrates is human; Socrates is mortal",
+                "correct": false
+            },
+            {
+                "text": "Socrates is wise; therefore, all philosophers are wise",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which philosopher is associated with the categorical imperative?",
+        "answers": [{
+            "text": "Immanuel Kant",
+            "correct": true
+        },
+            {
+                "text": "Aristotle",
+                "correct": false
+            },
+            {
+                "text": "Descartes",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What is metaphysical dualism?",
+        "answers": [{
+            "text": "The belief in both mind and body as separate substances",
+            "correct": true
+        },
+            {
+                "text": "The study of logic and arguments",
+                "correct": false
+            },
+            {
+                "text": "Moral philosophy",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which of these best describes a sound argument?",
+        "answers": [{
+            "text": "It is valid and all its premises are true",
+            "correct": true
+        },
+            {
+                "text": "It is valid but some premises are false",
+                "correct": false
+            },
+            {
+                "text": "It is invalid but has true premises",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which of the following is a paradox?",
+        "answers": [{
+            "text": "This statement is false",
+            "correct": true
+        },
+            {
+                "text": "All bachelors are unmarried men",
+                "correct": false
+            },
+            {
+                "text": "Socrates is mortal",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Who wrote 'Nicomachean Ethics'?",
+        "answers": [{
+            "text": "Aristotle",
+            "correct": true
+        },
+            {
+                "text": "Plato",
+                "correct": false
+            },
+            {
+                "text": "Kant",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What is a valid argument?",
+        "answers": [{
+            "text": "If the premises are true, the conclusion must be true",
+            "correct": true
+        },
+            {
+                "text": "An argument with true premises but false conclusion",
+                "correct": false
+            },
+            {
+                "text": "An argument with false premises but true conclusion",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which branch of philosophy studies beauty and art?",
+        "answers": [{
+            "text": "Aesthetics",
+            "correct": true
+        },
+            {
+                "text": "Epistemology",
+                "correct": false
+            },
+            {
+                "text": "Logic",
+                "correct": false
+            }]
+    }]

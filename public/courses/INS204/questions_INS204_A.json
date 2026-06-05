@@ -1,0 +1,300 @@
+[{
+    "question": "What is the primary goal of system analysis?",
+    "answers": [{
+        "text": "To understand user requirements",
+        "correct": true
+    },
+        {
+            "text": "To write code",
+            "correct": false
+        },
+        {
+            "text": "To design hardware",
+            "correct": false
+        }]
+},
+    {
+        "question": "Which of these is a phase of the System Development Life Cycle (SDLC)?",
+        "answers": [{
+            "text": "Debugging",
+            "correct": false
+        },
+            {
+                "text": "Copy-pasting code",
+                "correct": false
+            },
+            {
+                "text": "Analysis",
+                "correct": true
+            }]
+    },
+    {
+        "question": "What does a feasibility study determine?",
+        "answers": [{
+            "text": "If the system is possible and worth building",
+            "correct": true
+        },
+            {
+                "text": "If the system is pretty to look at",
+                "correct": false
+            },
+            {
+                "text": "If the system can play games",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which feasibility checks cost and benefits?",
+        "answers": [{
+            "text": "Technical feasibility",
+            "correct": false
+        },
+            {
+                "text": "Economic feasibility",
+                "correct": true
+            },
+            {
+                "text": "Operational feasibility",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What is a Data Flow Diagram (DFD) used for?",
+        "answers": [{
+            "text": "To show how data moves through a system",
+            "correct": true
+        },
+            {
+                "text": "To design user interfaces",
+                "correct": false
+            },
+            {
+                "text": "To show pictures of servers",
+                "correct": false
+            }]
+    },
+    {
+        "question": "In SDLC, which phase comes after analysis?",
+        "answers": [{
+            "text": "Design",
+            "correct": true
+        },
+            {
+                "text": "Deployment",
+                "correct": false
+            },
+            {
+                "text": "Testing",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which diagram shows system activities in sequence?",
+        "answers": [{
+            "text": "Gantt chart",
+            "correct": false
+        },
+            {
+                "text": "Pie chart",
+                "correct": false
+            },
+            {
+                "text": "Flowchart",
+                "correct": true
+            }]
+    },
+    {
+        "question": "What does CASE stand for in system design?",
+        "answers": [{
+            "text": "Computer-Aided Software Engineering",
+            "correct": true
+        },
+            {
+                "text": "Computer Analysis System Engineering",
+                "correct": false
+            },
+            {
+                "text": "Code And System Execution",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which SDLC model is also called the 'linear sequential model'?",
+        "answers": [{
+            "text": "Waterfall model",
+            "correct": true
+        },
+            {
+                "text": "Prototype model",
+                "correct": false
+            },
+            {
+                "text": "Agile model",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What is a prototype?",
+        "answers": [{
+            "text": "A working model of the system",
+            "correct": true
+        },
+            {
+                "text": "A flowchart",
+                "correct": false
+            },
+            {
+                "text": "A final product",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which document records user requirements?",
+        "answers": [{
+            "text": "Invoice",
+            "correct": false
+        },
+            {
+                "text": "User manual",
+                "correct": false
+            },
+            {
+                "text": "Software Requirement Specification (SRS)",
+                "correct": true
+            }]
+    },
+    {
+        "question": "Which feasibility checks if the system can be supported by existing technology?",
+        "answers": [{
+            "text": "Economic feasibility",
+            "correct": false
+        },
+            {
+                "text": "Technical feasibility",
+                "correct": true
+            },
+            {
+                "text": "Operational feasibility",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which SDLC model is best when requirements are unclear?",
+        "answers": [{
+            "text": "Waterfall model",
+            "correct": false
+        },
+            {
+                "text": "Spiral model",
+                "correct": false
+            },
+            {
+                "text": "Prototype model",
+                "correct": true
+            }]
+    },
+    {
+        "question": "What is the role of a system analyst?",
+        "answers": [{
+            "text": "To fix computers",
+            "correct": false
+        },
+            {
+                "text": "To only write code",
+                "correct": false
+            },
+            {
+                "text": "To act as a bridge between users and developers",
+                "correct": true
+            }]
+    },
+    {
+        "question": "Which diagram shows relationships among system entities?",
+        "answers": [{
+            "text": "Entity-Relationship Diagram (ERD)",
+            "correct": true
+        },
+            {
+                "text": "Mind map",
+                "correct": false
+            },
+            {
+                "text": "Bar chart",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which SDLC phase involves testing the system?",
+        "answers": [{
+            "text": "Testing",
+            "correct": true
+        },
+            {
+                "text": "Implementation",
+                "correct": false
+            },
+            {
+                "text": "Design",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What is modular design?",
+        "answers": [{
+            "text": "Breaking a system into smaller parts",
+            "correct": true
+        },
+            {
+                "text": "Designing only one big block",
+                "correct": false
+            },
+            {
+                "text": "Writing short notes",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which of these is an advantage of the waterfall model?",
+        "answers": [{
+            "text": "No documentation needed",
+            "correct": false
+        },
+            {
+                "text": "Great for changing requirements",
+                "correct": false
+            },
+            {
+                "text": "Easy to manage due to clear stages",
+                "correct": true
+            }]
+    },
+    {
+        "question": "What is the main disadvantage of the prototype model?",
+        "answers": [{
+            "text": "Lack of feedback",
+            "correct": false
+        },
+            {
+                "text": "Users may mistake it for the final system",
+                "correct": true
+            },
+            {
+                "text": "Too much documentation",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which diagram represents the logical flow of information?",
+        "answers": [{
+            "text": "Class diagram",
+            "correct": false
+        },
+            {
+                "text": "Pie chart",
+                "correct": false
+            },
+            {
+                "text": "Data Flow Diagram (DFD)",
+                "correct": true
+            }]
+    }]

@@ -1,0 +1,261 @@
+[{
+    "question":"What is the purpose of a workshop blueprint?",
+    "answers":[{
+        "text":"To replace safety rules",
+        "correct":false
+    },
+        {
+            "text":"To guide the construction or fabrication process",
+            "correct":true
+        },
+        {
+            "text":"To decorate the workshop",
+            "correct":false
+        }]}, {
+    "question":"Which tool is used to smooth rough surfaces?",
+    "answers":[{
+        "text":"Screwdriver",
+        "correct":false
+    },
+        {
+            "text":"File",
+            "correct":true
+        },
+        {
+            "text":"Hammer",
+            "correct":false
+        }]}, {
+    "question":"Which fire extinguisher is used for electrical fires?",
+    "answers":[{
+        "text":"CO2 extinguisher",
+        "correct":true
+    },
+        {
+            "text":"Foam extinguisher",
+            "correct":false
+        },
+        {
+            "text":"Water extinguisher",
+            "correct":false
+        }]}, {
+    "question":"What is the main use of a chisel?",
+    "answers":[{
+        "text":"Cutting or carving materials",
+        "correct":true
+    },
+        {
+            "text":"Tightening screws",
+            "correct":false
+        },
+        {
+            "text":"Measuring dimensions",
+            "correct":false
+        }]}, {
+    "question":"Why should tools be stored properly?",
+    "answers":[{
+        "text":"To prevent damage and ensure safety",
+        "correct":true
+    },
+        {
+            "text":"To make the workshop look neat only",
+            "correct":false
+        },
+        {
+            "text":"To waste time searching for tools",
+            "correct":false
+        }]}, {
+    "question":"Which equipment protects ears from loud noises?",
+    "answers":[{
+        "text":"Gloves",
+        "correct":false
+    },
+        {
+            "text":"Ear muffs",
+            "correct":true
+        },
+        {
+            "text":"Safety goggles",
+            "correct":false
+        }]}, {
+    "question":"Which tool measures angles accurately?",
+    "answers":[{
+        "text":"Protractor",
+        "correct":true
+    },
+        {
+            "text":"Ruler",
+            "correct":false
+        },
+        {
+            "text":"Caliper",
+            "correct":false
+        }]}, {
+    "question":"Which material is commonly used for making gears?",
+    "answers":[{
+        "text":"Cloth",
+        "correct":false
+    },
+        {
+            "text":"Metal",
+            "correct":true
+        },
+        {
+            "text":"Paper",
+            "correct":false
+        }]}, {
+    "question":"Why should you never bypass machine guards?",
+    "answers":[{
+        "text":"It makes the machine faster",
+        "correct":false
+    },
+        {
+            "text":"It can lead to serious injury",
+            "correct":true
+        },
+        {
+            "text":"It is recommended for experts",
+            "correct":false
+        }]}, {
+    "question":"Which tool is used to tighten or loosen nuts and bolts?",
+    "answers":[{
+        "text":"Screwdriver",
+        "correct":false
+    },
+        {
+            "text":"Wrench",
+            "correct":true
+        },
+        {
+            "text":"Hammer",
+            "correct":false
+        }]}, {
+    "question":"Which of these is a workshop hazard?",
+    "answers":[{
+        "text":"Keeping tools stored",
+        "correct":false
+    },
+        {
+            "text":"Loose clothing near moving parts",
+            "correct":true
+        },
+        {
+            "text":"Wearing gloves when necessary",
+            "correct":false
+        }]}, {
+    "question":"Which device measures voltage in a workshop?",
+    "answers":[{
+        "text":"Voltmeter",
+        "correct":true
+    },
+        {
+            "text":"Thermometer",
+            "correct":false
+        },
+        {
+            "text":"Ammeter",
+            "correct":false
+        }]}, {
+    "question":"What is the function of a workbench?",
+    "answers":[{
+        "text":"Measures distances",
+        "correct":false
+    },
+        {
+            "text":"Provides a stable surface for tasks",
+            "correct":true
+        },
+        {
+            "text":"Stores liquids",
+            "correct":false
+        }]}, {
+    "question":"Which personal item should be avoided in a workshop?",
+    "answers":[{
+        "text":"Safety shoes",
+        "correct":false
+    },
+        {
+            "text":"Loose jewelry",
+            "correct":true
+        },
+        {
+            "text":"Gloves",
+            "correct":false
+        }]}, {
+    "question":"Which tool is used to drive nails into wood?",
+    "answers":[{
+        "text":"Screwdriver",
+        "correct":false
+    },
+        {
+            "text":"Hammer",
+            "correct":true
+        },
+        {
+            "text":"Chisel",
+            "correct":false
+        }]}, {
+    "question":"Why is ventilation important in a workshop?",
+    "answers":[{
+        "text":"To prevent inhalation of harmful fumes",
+        "correct":true
+    },
+        {
+            "text":"To cool down the machines only",
+            "correct":false
+        },
+        {
+            "text":"It is optional",
+            "correct":false
+        }]}, {
+    "question":"Which tool is used to hold wood firmly?",
+    "answers":[{
+        "text":"Chisel",
+        "correct":false
+    },
+        {
+            "text":"Clamp",
+            "correct":true
+        },
+        {
+            "text":"File",
+            "correct":false
+        }]}, {
+    "question":"What should be done after finishing workshop work?",
+    "answers":[{
+        "text":"Turn off the lights only",
+        "correct":false
+    },
+        {
+            "text":"Clean the area and store tools",
+            "correct":true
+        },
+        {
+            "text":"Leave everything as it is",
+            "correct":false
+        }]}, {
+    "question":"Which protective item shields the hands?",
+    "answers":[{
+        "text":"Safety goggles",
+        "correct":false
+    },
+        {
+            "text":"Gloves",
+            "correct":true
+        },
+        {
+            "text":"Ear plugs",
+            "correct":false
+        }]}, {
+    "question":"Which tool is used to remove nails?",
+    "answers":[{
+        "text":"Pliers",
+        "correct":false
+    },
+        {
+            "text":"Claw hammer",
+            "correct":true
+        },
+        {
+            "text":"Screwdriver",
+            "correct":false
+        }]}]

@@ -1,0 +1,300 @@
+[{
+    "question": "Which of the following is a primary goal of requirements validation?",
+    "answers": [{
+        "text": "Check if requirements are written in English",
+        "correct": false
+    },
+        {
+            "text": "Ensure requirements are correct and complete",
+            "correct": true
+        },
+        {
+            "text": "Count the number of requirements",
+            "correct": false
+        }]
+},
+    {
+        "question": "Which diagram is most useful for modelling interactions between users and systems?",
+        "answers": [{
+            "text": "Class diagram",
+            "correct": false
+        },
+            {
+                "text": "Use case diagram",
+                "correct": true
+            },
+            {
+                "text": "Data flow diagram",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Ambiguity in requirements often leads to:",
+        "answers": [{
+            "text": "Faster development",
+            "correct": false
+        },
+            {
+                "text": "Misinterpretation and errors",
+                "correct": true
+            },
+            {
+                "text": "Improved performance",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which of the following is a functional requirement?",
+        "answers": [{
+            "text": "The system must display the login page within 2 seconds",
+            "correct": false
+        },
+            {
+                "text": "The system must allow users to reset their password",
+                "correct": true
+            },
+            {
+                "text": "The system should be user-friendly",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which is NOT a non-functional requirement?",
+        "answers": [{
+            "text": "Performance",
+            "correct": false
+        },
+            {
+                "text": "Security",
+                "correct": false
+            },
+            {
+                "text": "User login process",
+                "correct": true
+            }]
+    },
+    {
+        "question": "Requirements should always be:",
+        "answers": [{
+            "text": "Vague",
+            "correct": false
+        },
+            {
+                "text": "Testable",
+                "correct": true
+            },
+            {
+                "text": "Hidden from clients",
+                "correct": false
+            }]
+    },
+    {
+        "question": "The term 'baseline requirements' means:",
+        "answers": [{
+            "text": "Requirements that may change any time",
+            "correct": false
+        },
+            {
+                "text": "Requirements agreed upon and fixed at a point in time",
+                "correct": true
+            },
+            {
+                "text": "The simplest requirements only",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which is a common problem in requirements engineering?",
+        "answers": [{
+            "text": "Too few stakeholders",
+            "correct": false
+        },
+            {
+                "text": "Changing requirements",
+                "correct": true
+            },
+            {
+                "text": "Having too much budget",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Requirements traceability helps in:",
+        "answers": [{
+            "text": "Tracking requirements to design and implementation",
+            "correct": true
+        },
+            {
+                "text": "Counting the number of lines of code",
+                "correct": false
+            },
+            {
+                "text": "Eliminating documentation",
+                "correct": false
+            }]
+    },
+    {
+        "question": "A requirement conflict occurs when:",
+        "answers": [{
+            "text": "Two requirements contradict each other",
+            "correct": true
+        },
+            {
+                "text": "All stakeholders agree",
+                "correct": false
+            },
+            {
+                "text": "The requirements are too clear",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which role is most responsible for eliciting requirements?",
+        "answers": [{
+            "text": "Software tester",
+            "correct": false
+        },
+            {
+                "text": "Requirements engineer",
+                "correct": true
+            },
+            {
+                "text": "End user only",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Requirements validation ensures that:",
+        "answers": [{
+            "text": "The system is delivered on time",
+            "correct": false
+        },
+            {
+                "text": "The requirements match user needs",
+                "correct": true
+            },
+            {
+                "text": "The project budget is reduced",
+                "correct": false
+            }]
+    },
+    {
+        "question": "In requirements engineering, 'feasibility study' checks:",
+        "answers": [{
+            "text": "If requirements are fun to implement",
+            "correct": false
+        },
+            {
+                "text": "If requirements are practical and achievable",
+                "correct": true
+            },
+            {
+                "text": "If requirements are always cheap",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which tool is often used for requirements modelling?",
+        "answers": [{
+            "text": "Microsoft Word",
+            "correct": false
+        },
+            {
+                "text": "UML diagrams",
+                "correct": true
+            },
+            {
+                "text": "Video editor",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Scenarios in requirements modelling are used to:",
+        "answers": [{
+            "text": "Describe how users interact with the system",
+            "correct": true
+        },
+            {
+                "text": "Measure system speed",
+                "correct": false
+            },
+            {
+                "text": "Set project deadlines",
+                "correct": false
+            }]
+    },
+    {
+        "question": "A prototype is useful in requirements engineering because it:",
+        "answers": [{
+            "text": "Shows the final system exactly",
+            "correct": false
+        },
+            {
+                "text": "Helps users visualise and refine requirements",
+                "correct": true
+            },
+            {
+                "text": "Replaces the need for coding",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which is a benefit of formal requirements specification?",
+        "answers": [{
+            "text": "More precise and less ambiguity",
+            "correct": true
+        },
+            {
+                "text": "Longer documents only",
+                "correct": false
+            },
+            {
+                "text": "Hidden from users",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Who are the key participants in requirements negotiation?",
+        "answers": [{
+            "text": "Only developers",
+            "correct": false
+        },
+            {
+                "text": "Stakeholders and requirements engineers",
+                "correct": true
+            },
+            {
+                "text": "Only customers",
+                "correct": false
+            }]
+    },
+    {
+        "question": "The IEEE standard 830 is related to:",
+        "answers": [{
+            "text": "Requirements specification",
+            "correct": true
+        },
+            {
+                "text": "Programming languages",
+                "correct": false
+            },
+            {
+                "text": "Database design",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Why is requirements management important?",
+        "answers": [{
+            "text": "To reduce communication with stakeholders",
+            "correct": false
+        },
+            {
+                "text": "To control changes and maintain consistency",
+                "correct": true
+            },
+            {
+                "text": "To skip testing phase",
+                "correct": false
+            }]
+    }]
