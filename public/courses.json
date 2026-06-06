@@ -1,7 +1,8 @@
-[{
-    "id": "INS204",
-    "title": "INS 204",
-    "description": "System Analysis and Design"
+[
+	{
+		"id": "INS204",
+		"title": "INS 204",
+		"description": "System Analysis and Design"
     },
     {
         "id": "COS202",
@@ -57,4 +58,5 @@
         "id": "GET204",
         "title": "GET 204",
         "description": "Workshop Practices"
-    }]
+    }
+]
