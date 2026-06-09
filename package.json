@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "network": "vite --host",
+    "net": "vite --host",
     "build": "vite build",
     "preview": "vite preview",
     "validate": "node validate-quizzes.cjs"
