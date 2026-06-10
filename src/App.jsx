@@ -70,7 +70,7 @@ export default function App() {
 		</main>
 
 		<footer>
-			<p>&copy; 2026 G-TECH | All Rights Reserved</p>
+			<p>&copy; {new Date().getFullYear()} G-TECH | All Rights Reserved</p>
 		</footer>
 		</>
 	);
